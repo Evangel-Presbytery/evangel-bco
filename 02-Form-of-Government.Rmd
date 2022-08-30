@@ -37,10 +37,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-4-the-nature-and-extent-of-church-power" title="4. The Nature and Extent of Church Power">
-<header>
-<h1 class="chapter-title">4. The Nature and Extent of Church Power</h1>
+
+# 4. The Nature and Extent of Church Power {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch4">
 <li class="no-indent"><a id="4"></a>The power which Christ has committed to His Church vests in the whole body, the rulers and the ruled, constituting it a spiritual commonwealth. This power, as exercised by the people, extends to the choice of those officers whom He has appointed in His Church.</li>
 <li class="no-indent">Ecclesiastical power, which is wholly spiritual, is twofold: the officers exercise it sometimes severally, as in preaching the Gospel, administering the sacraments, reproving the erring, visiting the sick, and comforting the afflicted, which is the power of order; and they exercise it sometimes jointly in Church courts, after the form of judgment, which is the power of jurisdiction.</li>
@@ -50,10 +51,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-5-the-particular-church" title="5. The Particular Church">
-<header>
-<h1 class="chapter-title">5. The Particular Church</h1>
+
+
+# 5. The Particular Church {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch5">
 <li class="no-indent"><a id="5.1"></a>A particular church consists of a number of professing Christians, with their children, associated together for divine worship and godly living, agreeably to the Scriptures, and submitting to the lawful government of Christ&#8217;s Kingdom.</li>
 <li class="no-indent">Its officers are the Pastor(s), the Ruling Elders, and the Deacons.</li>
@@ -64,10 +67,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-6-the-organization-of-a-particular-church" title="6. The Organization of a Particular Church">
-<header>
-<h1 class="chapter-title">6. The Organization of a Particular Church</h1>
+
+
+# 6. The Organization of a Particular Church {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch6">
 <li class="no-indent"><a id="6"></a>A mission church may be properly described in the same manner as the particular church is described in BCO <a href="#5.1">5.1</a>. It is distinguished from a particular church in that it has no permanent governing body, and thus must be governed or supervised by others. However, its goal is to mature and be organized as a particular church as soon as this can be done decently and in good order.
 <ol type="a">
@@ -146,17 +151,21 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-7-church-members" title="7. Church Members">
-<header>
-<h1 class="chapter-title">7. Church Members</h1>
+
+
+# 7. Church Members {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <p class="no-indent"><a id="7"></a>The members of this visible Church catholic are all those persons in every nation who make profession of their faith in the Lord Jesus Christ and promise submission to His laws. Communing members are those who have made a profession of faith in Christ, have been baptized, and have been admitted by the Session to the Lord’s Table. The children of communing members are, through the covenant and by right of birth, non-communing members of the church. The children of communing members holding credo-baptistic convictions are non-communing members in the sense that they are entitled to the church’s care, love, discipline, and training, with a view to their embracing Christ and thus possessing personally all the benefits of the covenant. The children of communing members holding paedo-baptistic convictions are non-communing members in the sense that they are entitled to baptism and to the church’s care, love, discipline, and training, with a view to their embracing Christ and thus possessing personally all the benefits of the covenant.</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-8-church-officers-general-classification" title="8. Church Officers—General Classification">
-<header>
-<h1 class="chapter-title">8. Church Officers—General Classification</h1>
+
+
+# 8. Church Officers—General Classification {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch8">
 <li class="no-indent"><a id="8"></a>Under the New Testament, our Lord at first collected His people out of different nations, and united them to the household of faith by the mission of the apostles, endued with miraculous gifts. This office has ceased.</li>
 <li class="no-indent">The whole polity of the Church consists in doctrine, government, and distribution. And the ordinary and perpetual officers in the Church are Pastors, or Ministers of the Word, who are commissioned to preach the Gospel and administer the sacraments; Ruling Elders, whose office is to have the government and spiritual oversight of the church; and Deacons, whose office is to collect and administer the people&#8217;s offerings of mercy and benevolence and to minister to their physical and material needs. In accordance with the Scripture, these offices are open to men only.</li>
@@ -164,10 +173,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-9-the-minister-of-the-word" title="9. The Minister of the Word">
-<header>
-<h1 class="chapter-title">9. The Minister of the Word</h1>
+
+
+# 9. The Minister of the Word {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch9">
 <li class="no-indent"><a id="9"></a>This office is the first in the Church, both for dignity and usefulness. The person who fills it has in Scripture different titles expressive of his various duties. As he has the oversight of the flock of Christ, he is termed Bishop. As he feeds them with spiritual food, he is termed Pastor. As he serves Christ in the Church, he is termed Minister. As it is his duty to be grave and prudent, and an example to the flock, and to govern well in the house and kingdom of Christ, he is termed Presbyter or Elder. As he is sent to declare the will of God to sinners, and to beseech them to be reconciled to God through Christ, he is termed Ambassador. As he bears the glad tidings of salvation to the ignorant and perishing, he is termed Evangelist. As he stands to proclaim the Gospel, he is termed Preacher. As he expounds the Word, and by sound doctrine both exhorts and convinces the gainsayer, he is termed Teacher. As he dispenses the manifold grace of God, and the ordinances instituted by Christ, he is termed Steward of the mysteries of God. These titles do not indicate different grades of office, but all describe one and the same officer.</li>
 <li class="no-indent">He that fills this office should possess a competency of human learning, and be blameless in life, sound in the faith, and apt to teach; he should exhibit a sobriety and holiness of life becoming the Gospel; he should rule his own house well; and should have a good report of them that are without.</li>
@@ -180,10 +191,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-10-the-ruling-elder" title="10. The Ruling Elder">
-<header>
-<h1 class="chapter-title">10. The Ruling Elder</h1>
+
+
+# 10. The Ruling Elder {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch10">
 <li class="no-indent"><a id="10"></a>As there were in the Church, under the law, Elders of the people for the government thereof, so in the Gospel Church, Christ has furnished others besides the Ministers of the Word with gifts and commission to govern when called thereunto, which officers are entitled Ruling Elders.</li>
 <li class="no-indent">These Ruling Elders possess the same authority and eligibility to office in the courts of the Church as the Ministers of the Word. They should, moreover, cultivate zealously their aptness to teach the Bible and should improve every opportunity of doing so, to the end that destitute places, mission points, and churches without Pastors may be supplied with religious services.</li>
@@ -192,10 +205,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-11-the-deacon" title="11. The Deacon">
-<header>
-<h1 class="chapter-title">11. The Deacon</h1>
+
+
+# 11. The Deacon {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch11">
 <li class="no-indent"><a id="11"></a>The office of Deacon is set forth in the Scriptures as ordinary and perpetual in the Church. The office is one of sympathy and service, after the example of the Lord Jesus; it expresses also the communion of saints, especially in their helping one another in time of need.</li>
 <li class="no-indent">It is the duty of the Deacons to minister to those who are in need, to the sick, to the friendless, and to any who may be in distress. It is their duty also to develop the grace of liberality in the members of the church, to devise effective methods of collecting the gifts of the people, and to distribute these gifts among the objects to which they are contributed. They shall keep in proper repair the church edifice and other buildings and all physical property belonging to the congregation. In the discharge of their duties the Deacons are under the supervision and authority of the Session. In a church in which it is impossible for any reason to secure Deacons, the duties of the office shall devolve upon the Ruling Elders.</li>
@@ -205,10 +220,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-12-church-courts-in-general" title="12. Church Courts—In General">
-<header>
-<h1 class="chapter-title">12. Church Courts—In General</h1>
+
+
+# 12. Church Courts—In General {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch12">
 <li class="no-indent"><a id="12"></a>The Church is governed by various courts, in regular gradation; which are all, nevertheless, Presbyteries, as being composed exclusively of Presbyters.</li>
 <li class="no-indent">These courts are church Sessions and Presbyteries.</li>
@@ -221,10 +238,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-13-jurisdiction-of-church-courts" title="13. Jurisdiction of Church Courts">
-<header>
-<h1 class="chapter-title">13. Jurisdiction of Church Courts</h1>
+
+
+# 13. Jurisdiction of Church Courts {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch13">
 <li class="no-indent"><a id="13"></a>These assemblies are altogether distinct from the civil magistrate, nor have they any jurisdiction in political or civil affairs. They have no power to inflict temporal pains and penalties, but their authority is in all respects moral or spiritual.</li>
 <li class="no-indent">The jurisdiction of Church courts is only ministerial and declarative, and relates to the doctrines and precepts of Christ, to the order of the Church, and to the exercise of discipline. <em>First</em>, They can make no laws binding the conscience; but may frame doctrinal standards, bear testimony against error in doctrine and immorality in practice, within or without the pale of the Church, and decide cases of conscience. <em>Secondly</em>, They have power to establish rules for the government, discipline, worship, and extension of the Church, which must be agreeable to the doctrines relating thereto contained in the Scriptures, the circumstantial details only of these matters being left to the Christian prudence and wisdom of church officers and courts. <em>Thirdly</em>, They possess the right of requiring obedience to the laws of Christ. Hence, they admit those qualified to sealing ordinances and to their respective offices, and they exclude the disobedient and disorderly from their offices or from sacramental privileges; but the highest censure to which their authority extends is to cut off the contumacious and impenitent from the congregation of believers. <em>Moreover</em>, they possess all the administrative authority necessary to give effect to the powers.</li>
@@ -233,10 +252,9 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-14-the-church-session" title="14. The Church Session">
-<header>
-<h1 class="chapter-title">14. The Church Session</h1>
-<p data-type="subtitle" class="chapter-number"></p>
-</header>
+
+# 14. The Church Session {-}
+
 <ol class="ch14">
 <li class="no-indent"><a id="14"></a>The church Session consists of the Pastor and Associate Pastors, if there be any, and the Ruling Elders of a church. If there are three or more Ruling Elders, the Pastor and two Ruling Elders shall constitute a quorum. If there are fewer than three Ruling Elders, the Pastor and one Ruling Elder shall constitute a quorum. When a church has no Pastor, the session shall ask the Presbytery to appoint a pastor to serve as moderator of session. If there are five or more Ruling Elders, three, along with the appointed moderator, shall constitute a quorum; if there are fewer than five Ruling Elders, two, along with the appointed moderator, shall constitute a quorum; if there is only one Ruling Elder, he does not constitute a Session, but he should take spiritual oversight of the church, should represent it at Presbytery, should grant letters of dismissal, and should report to the Presbytery any matter needing the action of a Church court. However, any Session, by a majority vote of its members, may fix its own quorum, provided that it is not smaller than the quorum stated in this paragraph.</li>
 <li class="no-indent">The Pastor is, by virtue of his office, the Moderator of the Session. In his absence, if an emergency should arise requiring immediate action, the Session may elect one of its members to preside. In any case where such meeting is required, the pastor must be informed before the meeting is held. Should prudential reasons at any time make it advisable for a Minister other than the Pastor to preside, the Pastor may, with the concurrence of the Session, invite a Minister of the same Presbytery to perform this service.</li>
@@ -250,10 +268,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-15-the-presbytery" title="15. The Presbytery">
-<header>
-<h1 class="chapter-title">15. The Presbytery</h1>
+
+# 15. The Presbytery {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch15">
 <li class="no-indent"><a id="15"></a><a id="15.1"></a>The Presbytery consists of all the Ministers and churches within its bounds that have been accepted by the Presbytery. All Ministers and Ruling Elders in good standing of Evangel Presbytery shall have floor privileges.
 <p class="no-indent">In presbytery votes, in order to promote parity between Ministers and Ruling Elders and to prevent centralization of power in large churches, voting privileges for members of presbytery shall be capped at two Ministers per church. Up to two Ruling Elders from each church may be appointed by their sessions as voting commissioners. A voting Ruling Elder shall be added to each church’s allowed number of voting commissioners for each full one hundred communicant members over fifty members, up to four additional voting Ruling Elders.</p>
@@ -272,10 +291,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-16-provisions-concerning-baptism" title="16. Provisions Concerning Baptism">
-<header>
-<h1 class="chapter-title">16. Provisions Concerning Baptism</h1>
+
+# 16. Provisions Concerning Baptism {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch16">
 <li class="no-indent"><a id="16"></a>Being diligent to preserve the unity of the Spirit in the bond of peace” (Eph. 4:3), the members and churches of the Presbytery are committed to the formal communion of Christians who hold differing convictions concerning time and mode of baptism. The members and churches of the Presbytery agree to the following:
 <ol type="a">
@@ -308,10 +328,12 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-17-ecclesiastical-commissions" title="17. Ecclesiastical Commissions">
-<header>
-<h1 class="chapter-title">17. Ecclesiastical Commissions</h1>
+
+
+# 17. Ecclesiastical Commissions {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch17">
 <li class="no-indent"><a id="17.1"></a>A Commission differs from an ordinary committee in this, that while a committee is appointed to examine, consider and report, a Commission is authorized to deliberate upon and conclude the business referred to it. It shall keep a full record of its proceedings, which shall be submitted to the court appointing it, entered on its minutes, and regarded and treated as the action of the court.</li>
 <li class="no-indent">Among the matters that may be properly executed by Commissions are the taking of testimony in judicial cases, the ordination of Ministers, the installation of Ministers, the visitation of portions of the Church affected with disorder, and the organization of new churches.Every Commission appointed by Presbytery shall consist of at least two Ministers and two Ruling Elders, and the Presbytery at the time of the appointment of the Commission shall determine what the quorum shall be. However, should a Presbytery clothe a Commission with judicial powers and authority to conduct judicial process, or with power to ordain a Minister of the Gospel, the quorum of such Commission shall not be less than two Ministers and two Ruling Elders. When the ordination of a Minister is committed to a Commission, the Presbytery itself shall conduct the previous examination.</li>
@@ -320,10 +342,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-18-church-orders-the-doctrine-of-vocation" title="18. Church Orders—The Doctrine of Vocation">
-<header>
-<h1 class="chapter-title">18. Church Orders—The Doctrine of Vocation</h1>
+
+# 18. Church Orders—The Doctrine of Vocation {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch18">
 <li class="no-indent"><a id="18"></a>Ordinary vocation to office in the Church is the calling of God by the Spirit, through the inward testimony of a good conscience, the manifest approbation of God&#8217;s people, and the concurring judgment of a lawful court of the Church.</li>
 <li class="no-indent">The government of the Church is representative, and the right of God&#8217;s people to elect their officers is inalienable. Therefore no man can be placed over a church in any office without the election, or at least the consent of that church.</li>
@@ -331,10 +354,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-19-the-doctrine-of-ordination" title="19. The Doctrine of Ordination">
-<header>
-<h1 class="chapter-title">19. The Doctrine of Ordination</h1>
+
+# 19. The Doctrine of Ordination {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch19">
 <li class="no-indent"><a id="19"></a>Those who have been called to office in the Church are to be inducted by the ordination of a court.</li>
 <li class="no-indent">Ordination is the authoritative admission of one duly called to an office in the Church of God, accompanied with fasting, prayer, and the laying on of hands, to which it is proper to add the giving of the right hand of fellowship.</li>
@@ -342,10 +366,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-20-candidates-for-the-gospel-ministry" title="20. Candidates for the Gospel Ministry">
-<header>
-<h1 class="chapter-title">20. Candidates for the Gospel Ministry</h1>
+
+# 20. Candidates for the Gospel Ministry {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch20">
 <li class="no-indent"><a id="20"></a>A candidate for the ministry is a member of the Church in full communion who, believing himself to be called to preach the Gospel, submits himself to the care and guidance of the Presbytery in his course of study and of practical training to prepare himself for this office.</li>
 <li class="no-indent"><a id="20.2"></a>It is recommended that every candidate for the ministry should put himself under the care of a Presbytery, which should ordinarily be the Presbytery that has jurisdiction of the church of which he is a member. He should be encouraged by the Session to do this; and upon his request, the Session should furnish him with a certificate of his membership, and with testimonials of its judgment regarding his Christian character and promise of usefulness in the ministry, to be laid before the Presbytery. Every applicant for care shall be a member of the congregation whose session provides an endorsement for at least six months before filing his application, except in those cases deemed extraordinary by the Presbytery.</li>
@@ -370,10 +395,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-21-the-licensure-of-candidates-for-the-gospel-ministry" title="21. The Licensure of Candidates for the Gospel Ministry">
-<header>
-<h1 class="chapter-title">21. The Licensure of Candidates for the Gospel Ministry</h1>
+
+# 21. The Licensure of Candidates for the Gospel Ministry {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch21">
 <li class="no-indent"><a id="21"></a><a id="21.1"></a>To preserve the purity of the preaching of the Gospel, no man is permitted to preach in the pulpits of Evangel Presbytery on a regular basis without proper licensure from the Presbytery having jurisdiction where he will preach. This license shall immediately become void if the Presbytery administers against him a censure of suspension from office or the sacraments, or deposition from office, or of excommunication. A ruling elder, a candidate for the ministry, a minister from some other denomination, or some other man may be licensed for the purpose of regularly providing the preaching of the Word upon his giving satisfaction to the Presbytery of his gifts and passing the licensure examination. (See also BCO <a href="#24.5">24.5</a> and BCO <a href="#24.6">24.6</a>.)</li>
 <li class="no-indent"><a id="21.2"></a>The examination for licensure shall be as follows:
@@ -414,10 +440,11 @@
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-22-the-election-of-pastors" title="22. The Election of Pastors">
-<header>
-<h1 class="chapter-title">22. The Election of Pastors</h1>
+
+# 22. The Election of Pastors {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch22">
 <li class="no-indent"><a id="22"></a><a id="22.1"></a>Before a candidate, or licentiate, can be ordained to the office of the ministry, he must receive a call to a definite work. Ordinarily the call must come from a church or the Presbytery. If the call comes from another source, the Presbytery shall always make a record of the reasons why it considers the work to be a valid Christian ministry.
 <p class="no-indent">A proper call must be written and in the hands of the Presbytery prior to being acted upon by the Presbytery. It must include financial arrangements (such as salary, vacation, insurance, retirement, etc.) between those calling and the one called, and assurance that the definite work will afford the liberty to proclaim and practice fully and freely the whole counsel of God, as set forth in the Scriptures and understood in the Westminster Confession of Faith.</p>
@@ -451,10 +478,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-23-the-ordination-and-installation-of-ministers" title="23. The Ordination and Installation of Ministers">
-<header>
-<h1 class="chapter-title">23. The Ordination and Installation of Ministers</h1>
+
+# 23. The Ordination and Installation of Ministers {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch23">
 <li class="no-indent"><a id="23"></a>No Minister or licentiate or candidate shall receive a call from a church but by the permission of his Presbytery. When a call has been presented to the Presbytery, if found in order and the Presbytery deem it for the good of the Church, they shall place it in the hands of the person to whom it is addressed. Ordinarily a candidate or licentiate may not be granted permission by the Presbytery to move on to the field to which he has been called, prior to his examination for licensure or ordination. Likewise an ordained minister from another denomination, ordinarily shall not move on to the field to which he has been called until examined and received by Presbytery.</li>
 <li class="no-indent">When a call for the pastoral services of a licentiate has been accepted by him, the Presbytery shall take immediate steps for his ordination.</li>
@@ -541,10 +569,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-24-the-pastoral-relations" title="24. The Pastoral Relations">
-<header>
-<h1 class="chapter-title">24. The Pastoral Relations</h1>
+
+# 24. The Pastoral Relations {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch24">
 <li class="no-indent"><a id="24"></a>The various pastoral relations are pastor, associate pastor, and assistant pastor.</li>
 <li class="no-indent">The pastor and associate pastor are elected by the congregation using the form of call in BCO <a href="#22.6">22.6</a>. Being elected by the congregation, they become members of the Session.</li>
@@ -555,10 +584,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-25-the-dissolution-of-the-pastoral-relation" title="25. The Dissolution of the Pastoral Relation">
-<header>
-<h1 class="chapter-title">25. The Dissolution of the Pastoral Relation</h1>
+
+# 25. The Dissolution of the Pastoral Relation {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch25">
 <li class="no-indent"><a id="25"></a>When any Minister shall tender the resignation of his pastoral charge to his Presbytery, the Presbytery shall cite the church to appear by its commissioners, or the church may so appear upon its own motion, to show cause, if it has any, why the Presbytery should not accept the resignation. If the church fail to appear, or if its reasons for retaining its Pastor be deemed insufficient, his resignation shall be accepted, and the pastoral relation dissolved. If any church desires to be relieved of its Pastor, a similar procedure shall be observed. But whether the Minister or the church initiate proceedings for a dissolution of the relation, there shall always be a meeting of the congregation called and conducted precisely in the same manner as when the call of a Pastor is to be made out. The pastoral relation of the assistant pastor may be dissolved by the Session; the presbytery shall be informed of their action.
 <p>Upon dissolution of the pastoral relationship of the senior pastor, the Presbytery must determine if the dissolution of the pastoral relationship of the senior pastor was brought about in Christian love and good order on the part of the parties concerned. The Presbytery must review the call of any new senior pastor and the continuation of existing pastoral relationships, which calls are subject to the Presbytery’s approval by majority vote.</p>
@@ -569,10 +599,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-26-election-ordination-and-installation-of-ruling-elders-and-deacons" title="26. Election, Ordination, and Installation of Ruling Elders and Deacons">
-<header>
-<h1 class="chapter-title">26. Election, Ordination, and Installation of Ruling Elders and Deacons</h1>
+
+# 26. Election, Ordination, and Installation of Ruling Elders and Deacons {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <h2><a id="26"></a>Election</h2>
 <ol class="ch26">
 <li class="no-indent">Every church shall elect men to the offices of ruling elder and deacon in the following manner: At such times as determined by the Session, voting members of the congregation may submit names to the Session, keeping in mind that each prospective officer should be an active male member who meets the qualifications set forth in 1 Timothy 3 and Titus 1. After the close of the nomination period those nominees for the office of ruling elder and/or deacon approved by the Session shall receive instruction in the qualifications and work of the office. Each nominee shall then be examined in:
@@ -622,10 +653,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-27-congregational-meetings" title="27. Congregational Meetings">
-<header>
-<h1 class="chapter-title">27. Congregational Meetings</h1>
+
+# 27. Congregational Meetings {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch27">
 <li class="no-indent"><a id="27"></a> The congregation shall consist of both communing and non-communing members of a particular church. Voting privileges shall be limited to communing members in good standing at that particular church. Any additional voting requirements and procedures are subject to the Bylaws of the particular church which must always be in accord with the Evangel Presbytery Book of Church Order.</li>
 <li class="no-indent">Whenever it may seem for the best interests of the church that a congregational meeting should be held, the Session shall call such meeting and give public notice two weeks in advance, and no business shall be transacted at such meeting except what is stated in the notice. The Session shall always call a congregational meeting when requested in writing to do so by one-fourth of the voting members of the church.
@@ -646,10 +678,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-28-declaration-of-doctrine-and-policies-concerning-sexuality" title="28. Declaration of Doctrine and Policies Concerning Sexuality">
-<header>
-<h1 class="chapter-title">28. Declaration of Doctrine and Policies Concerning Sexuality</h1>
+
+# 28. Declaration of Doctrine and Policies Concerning Sexuality {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <p class="no-indent"><a id="28"></a><strong>Introduction.</strong> Since the mid-twentieth century, rebellion against God’s divine pattern of sex within the loving union of lifelong, monogamous, heterosexual marriage has become widespread, and those attacks are increasingly perpetrated in concert with the civil magistrate. Thus for the protection of the Christian church’s conscience and the purity of the Faith once for all delivered to the saints, it has become necessary for Christians to declare our Scriptural convictions and commitments concerning sexuality and marriage. These convictions and commitments are testified to by God’s natural revelation and they are explicitly commanded by God’s special revelation of Holy Scripture. Prior generations of Christians and non-Christians alike lived under the beneficial constraints of laws written to protect civil society from sexual relations outside these commands of Scripture. Western law reinforced God’s law concerning sexual relations and His Order of Creation of Adam first, then Eve. For this reason, the church had no need to adopt doctrinal creeds or statements concerning sexuality. Now though, with the heathens’ attack growing ever more intense and becoming institutionalized by the power of civil authority, the time has come for the church to declare her allegiance to God’s law of male and female, and to do so specifically, forthrightly, and with confidence in the wisdom and kindness of God. He is the One who made us. We did not make ourselves. He is the One who created us male and female, pronouncing His creation “very good” only after He had made man and woman.</p>
 <ol class="ch28">
 <li class="no-indent">“In the day when God created man, He made him in the likeness of God. God created them male and female, and He blessed them and named them Man in the day when they were created.”<span data-type="footnote" class="footnote">Genesis 5:2. Unless otherwise indicated, all Scripture references are to the New American Standard Bible (1995).</span> God formed the first male, Adam, from the dust of the ground. He made the first female, Eve, from Adam’s rib<span data-type="footnote" class="footnote">“However, in the Lord, neither is woman independent of man, nor is man independent of woman. For as the woman originates from the man, so also the man <em>has his birth</em> through the woman; and all things originate from God.” 1 Corinthians 11:11–12.</span> and presented her to Adam to be his helpmeet. Adam called his wife “Woman, because she was taken out of Man.”<span data-type="footnote" class="footnote">Genesis 2:23.</span> God named the race adam after the first man Adam.<span data-type="footnote" class="footnote">See Hebrew word translated as “man” in Genesis 1:27, and throughout the Old Testament.</span></li>
@@ -691,10 +724,11 @@ Moderator of the Meeting</p>
 </ol>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-29-amending-the-constitution-of-the-church" title="29. Amending the Constitution of the Church">
-<header>
-<h1 class="chapter-title">29. Amending the Constitution of the Church</h1>
+
+# 29. Amending the Constitution of the Church {-}
+
 <p data-type="subtitle" class="chapter-number"></p>
-</header>
+
 <ol class="ch29">
 <li class="no-indent"><a id="29"></a><a id="29.1"></a>The Constitution of Evangel Presbytery, which is subject to and subordinate to the Scriptures of the Old and New Testaments, the infallible Word of God, consists of its doctrinal standards set forth in the <em>Westminster Confession of Faith</em><span data-type="footnote" class="footnote">American revisions as adopted by the Orthodox Presbyterian Church in 1936, https://evangelpresbytery.com/westminster-confession-of-faith.</span>, together with the <em>Larger</em><span data-type="footnote" class="footnote">https://evangelpresbytery.com/westminster-larger-catechism.</span> and <em>Shorter Catechisms</em><span data-type="footnote" class="footnote">https://evangelpresbytery.com/westminster-shorter-catechism.</span>; the Book of Church Order, which comprises the Form of Government, the Rules of Discipline, and the Directory for the Worship of God; and the Apostles’ Creed, Nicene Creed, Chalcedonian Creed, and Athanasian Creed; all as adopted by the Presbytery.</li>
 <li class="no-indent">Amendments to the Book of Church Order may be made only in the following manner:
