@@ -6,15 +6,15 @@
 <p><a id="dfw-preface"></a>The purpose of this Directory is to express the Church&#8217;s common understanding of the principles and practice of public worship that is Reformed according to the Scriptures and, subordinately, to the Confession and Catechisms. Where practices are understood by the Church to be required by the Word of God, either expressly or by good and necessary consequence, they are mandated. In matters of circumstance and form in worship not specifically provided for in Scripture, the Directory provides guidance for their ordering according to the light of nature and Christian prudence, consonant with the general rules of the Word.</p>
 <p>The Directory seeks to make clear this distinction in its use of language. The following denotations used in the Directory are to be understood as indicated. The first category denotes practices that are required by the Word of God.</p>
 
-1. Practices that are mandated are denoted by &#8220;shall,&#8221; &#8220;will,&#8221; &#8220;is to be,&#8221; &#8220;must,&#8221; and &#8220;are to be.&#8221;
+* Practices that are mandated are denoted by &#8220;shall,&#8221; &#8220;will,&#8221; &#8220;is to be,&#8221; &#8220;must,&#8221; and &#8220;are to be.&#8221;
 
 The following three categories denote practices that are not mandated:
 
-1. Practices that are strongly recommended are denoted by &#8220;should,&#8221; &#8220;ought to,&#8221; &#8220;is desirable,&#8221; and &#8220;is advisable.&#8221;
+* Practices that are strongly recommended are denoted by &#8220;should,&#8221; &#8220;ought to,&#8221; &#8220;is desirable,&#8221; and &#8220;is advisable.&#8221;
 
-2. Practices that are commended as suitable are denoted by &#8220;is appropriate,&#8221; &#8220;is well,&#8221; and &#8220;is fitting.&#8221;
+* Practices that are commended as suitable are denoted by &#8220;is appropriate,&#8221; &#8220;is well,&#8221; and &#8220;is fitting.&#8221;
 
-3. Practices that are permissible are denoted by &#8220;may.&#8221;
+* Practices that are permissible are denoted by &#8220;may.&#8221;
 
 <p>Other imperative forms occur in the Directory, and sometimes the forms in the list above are varied by modifying words or are put in the negative, either of which alters their force. For example, &#8220;may not&#8221; and &#8220;may only&#8221; are mandatory prohibitions, even though &#8220;may&#8221; is permissive. The meaning of these additional and altered forms is to be determined by the rules of English usage, with due respect to the distinctions outlined above.</p>
 <p>The Suggested Forms for Particular Services are, by definition, suggested. The distinctions outlined above do not apply to the Suggested Forms.</p>
