@@ -1,6 +1,6 @@
-# (PART) Form of Government {-} 
+# Form of Government {-} 
 
-# 1. The Doctrine of Church Government {-}
+## 1. The Doctrine of Church Government {-}
 
 <div id="part-main-body-2"></div>
 <div id="chapter-slug-1-the-doctrine-of-church-government"></div>
@@ -15,7 +15,7 @@
 <li class="no-indent">This scriptural doctrine of Presbytery is necessary to the perfection of the order of the visible Church, but is not essential to its existence.</li>
 </ol>
 
-# 2. The King and Head of the Church {-}
+## 2. The King and Head of the Church {-}
 
 <div id="chapter-slug-2-the-king-and-head-of-the-church"></div>
 
@@ -26,7 +26,7 @@
 <li class="no-indent">Since the ascension of Jesus Christ to heaven, He is present with the Church by His Word and Spirit, and the benefits of all His offices are effectually applied by the Holy Spirit.</li>
 </ol>
 
-# 3. The Visible Church Defined {-}
+## 3. The Visible Church Defined {-}
 
 <div id="chapter-slug-3-the-visible-church-defined"></div>
 
@@ -38,7 +38,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-4-the-nature-and-extent-of-church-power" title="4. The Nature and Extent of Church Power">
 
-# 4. The Nature and Extent of Church Power {-}
+## 4. The Nature and Extent of Church Power {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -56,7 +56,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-5-the-particular-church" title="5. The Particular Church">
 
 
-# 5. The Particular Church {-}
+## 5. The Particular Church {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -72,7 +72,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-6-the-organization-of-a-particular-church" title="6. The Organization of a Particular Church">
 
 
-# 6. The Organization of a Particular Church {-}
+## 6. The Organization of a Particular Church {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -156,7 +156,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-7-church-members" title="7. Church Members">
 
 
-# 7. Church Members {-}
+## 7. Church Members {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -165,7 +165,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-8-church-officers-general-classification" title="8. Church Officers—General Classification">
 
 
-# 8. Church Officers—General Classification {-}
+## 8. Church Officers—General Classification {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -178,7 +178,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-9-the-minister-of-the-word" title="9. The Minister of the Word">
 
 
-# 9. The Minister of the Word {-}
+## 9. The Minister of the Word {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -196,7 +196,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-10-the-ruling-elder" title="10. The Ruling Elder">
 
 
-# 10. The Ruling Elder {-}
+## 10. The Ruling Elder {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -210,7 +210,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-11-the-deacon" title="11. The Deacon">
 
 
-# 11. The Deacon {-}
+## 11. The Deacon {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -225,7 +225,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-12-church-courts-in-general" title="12. Church Courts—In General">
 
 
-# 12. Church Courts—In General {-}
+## 12. Church Courts—In General {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -243,7 +243,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-13-jurisdiction-of-church-courts" title="13. Jurisdiction of Church Courts">
 
 
-# 13. Jurisdiction of Church Courts {-}
+## 13. Jurisdiction of Church Courts {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -256,7 +256,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-14-the-church-session" title="14. The Church Session">
 
-# 14. The Church Session {-}
+## 14. The Church Session {-}
 
 <ol class="ch14">
 <li class="no-indent"><a id="14"></a>The church Session consists of the Pastor and Associate Pastors, if there be any, and the Ruling Elders of a church. If there are three or more Ruling Elders, the Pastor and two Ruling Elders shall constitute a quorum. If there are fewer than three Ruling Elders, the Pastor and one Ruling Elder shall constitute a quorum. When a church has no Pastor, the session shall ask the Presbytery to appoint a pastor to serve as moderator of session. If there are five or more Ruling Elders, three, along with the appointed moderator, shall constitute a quorum; if there are fewer than five Ruling Elders, two, along with the appointed moderator, shall constitute a quorum; if there is only one Ruling Elder, he does not constitute a Session, but he should take spiritual oversight of the church, should represent it at Presbytery, should grant letters of dismissal, and should report to the Presbytery any matter needing the action of a Church court. However, any Session, by a majority vote of its members, may fix its own quorum, provided that it is not smaller than the quorum stated in this paragraph.</li>
@@ -272,7 +272,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-15-the-presbytery" title="15. The Presbytery">
 
-# 15. The Presbytery {-}
+## 15. The Presbytery {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -295,7 +295,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-16-provisions-concerning-baptism" title="16. Provisions Concerning Baptism">
 
-# 16. Provisions Concerning Baptism {-}
+## 16. Provisions Concerning Baptism {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -333,7 +333,7 @@
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-17-ecclesiastical-commissions" title="17. Ecclesiastical Commissions">
 
 
-# 17. Ecclesiastical Commissions {-}
+## 17. Ecclesiastical Commissions {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -346,7 +346,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-18-church-orders-the-doctrine-of-vocation" title="18. Church Orders—The Doctrine of Vocation">
 
-# 18. Church Orders—The Doctrine of Vocation {-}
+## 18. Church Orders—The Doctrine of Vocation {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -358,7 +358,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-19-the-doctrine-of-ordination" title="19. The Doctrine of Ordination">
 
-# 19. The Doctrine of Ordination {-}
+## 19. The Doctrine of Ordination {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -370,7 +370,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-20-candidates-for-the-gospel-ministry" title="20. Candidates for the Gospel Ministry">
 
-# 20. Candidates for the Gospel Ministry {-}
+## 20. Candidates for the Gospel Ministry {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -399,7 +399,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-21-the-licensure-of-candidates-for-the-gospel-ministry" title="21. The Licensure of Candidates for the Gospel Ministry">
 
-# 21. The Licensure of Candidates for the Gospel Ministry {-}
+## 21. The Licensure of Candidates for the Gospel Ministry {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -444,7 +444,7 @@
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-22-the-election-of-pastors" title="22. The Election of Pastors">
 
-# 22. The Election of Pastors {-}
+## 22. The Election of Pastors {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -482,7 +482,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-23-the-ordination-and-installation-of-ministers" title="23. The Ordination and Installation of Ministers">
 
-# 23. The Ordination and Installation of Ministers {-}
+## 23. The Ordination and Installation of Ministers {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -591,7 +591,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-24-the-pastoral-relations" title="24. The Pastoral Relations">
 
-# 24. The Pastoral Relations {-}
+## 24. The Pastoral Relations {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -606,7 +606,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-25-the-dissolution-of-the-pastoral-relation" title="25. The Dissolution of the Pastoral Relation">
 
-# 25. The Dissolution of the Pastoral Relation {-}
+## 25. The Dissolution of the Pastoral Relation {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -621,7 +621,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-26-election-ordination-and-installation-of-ruling-elders-and-deacons" title="26. Election, Ordination, and Installation of Ruling Elders and Deacons">
 
-# 26. Election, Ordination, and Installation of Ruling Elders and Deacons {-}
+## 26. Election, Ordination, and Installation of Ruling Elders and Deacons {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -675,7 +675,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-27-congregational-meetings" title="27. Congregational Meetings">
 
-# 27. Congregational Meetings {-}
+## 27. Congregational Meetings {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -700,7 +700,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-28-declaration-of-doctrine-and-policies-concerning-sexuality" title="28. Declaration of Doctrine and Policies Concerning Sexuality">
 
-# 28. Declaration of Doctrine and Policies Concerning Sexuality {-}
+## 28. Declaration of Doctrine and Policies Concerning Sexuality {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 
@@ -831,7 +831,7 @@ Moderator of the Meeting</p>
 </section>
 <section data-type="chapter" class="chapter introduction" id="chapter-slug-29-amending-the-constitution-of-the-church" title="29. Amending the Constitution of the Church">
 
-# 29. Amending the Constitution of the Church {-}
+## 29. Amending the Constitution of the Church {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 

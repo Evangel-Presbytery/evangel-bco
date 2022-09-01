@@ -1,6 +1,6 @@
-# (PART) Directory for the Worship of God {-} 
+# Directory for the Worship of God {-} 
 
-# Preface to the Directory {-}
+## Preface to the Directory {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p><a id="dfw-preface"></a>The purpose of this Directory is to express the Church&#8217;s common understanding of the principles and practice of public worship that is Reformed according to the Scriptures and, subordinately, to the Confession and Catechisms. Where practices are understood by the Church to be required by the Word of God, either expressly or by good and necessary consequence, they are mandated. In matters of circumstance and form in worship not specifically provided for in Scripture, the Directory provides guidance for their ordering according to the light of nature and Christian prudence, consonant with the general rules of the Word.</p>
@@ -16,7 +16,7 @@
 
 <section data-type="chapter" class="chapter" id="chapter-slug-50-gods-institution-of-public-worship" title="50. God’s Institution of Public Worship">
 
-# 50. God’s Institution of Public Worship {-}
+## 50. God’s Institution of Public Worship {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch50">
@@ -41,7 +41,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-51-the-nature-of-public-worship" title="51. The Nature of Public Worship">
 
-# 51. The Nature of Public Worship {-}
+## 51. The Nature of Public Worship {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch51">
@@ -101,7 +101,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-52-the-parts-of-public-worship" title="52. The Parts of Public Worship">
 
-# 52. The Parts of Public Worship {-}
+## 52. The Parts of Public Worship {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch52">
@@ -127,7 +127,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-53-the-oversight-and-conduct-of-public-worship" title="53. The Oversight and Conduct of Public Worship">
 
-# 53. The Oversight and Conduct of Public Worship {-}
+## 53. The Oversight and Conduct of Public Worship {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch53">
@@ -157,7 +157,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-54-elements-of-ordinary-public-worship-from-god-to-the-people" title="54. Elements of Ordinary Public Worship—From God to the People">
 
-# 54. Elements of Ordinary Public Worship—From God to the People {-}
+## 54. Elements of Ordinary Public Worship—From God to the People {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch54">
@@ -212,7 +212,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-54-elements-of-ordinary-public-worship-from-the-people-to-god" title="55. Elements of Ordinary Public Worship—From the People to God">
 
-# 55. Elements of Ordinary Public Worship—From the People to God {-}
+## 55. Elements of Ordinary Public Worship—From the People to God {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch55">
@@ -263,7 +263,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-56-the-administration-of-the-sacraments-general-provisions" title="56. The Administration of the Sacraments—General Provisions">
 
-# 56. The Administration of the Sacraments—General Provisions {-}
+## 56. The Administration of the Sacraments—General Provisions {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch56">
@@ -276,7 +276,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-57-the-baptism-of-infants" title="57. The Baptism of Infants">
 
-# 57. The Baptism of Infants {-}
+## 57. The Baptism of Infants {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch57">
@@ -385,14 +385,14 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-58-a-note-on-infant-dedication" title="58. A Note on Infant Dedication">
 
-# 58. A Note on Infant Dedication {-}
+## 58. A Note on Infant Dedication {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="58"></a>While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. A suggested ceremony for infant dedication can be found in BCO <a href="#79">79</a>.</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-59-the-baptism-of-those-professing-faith" title="59. The Baptism of Those Professing Faith">
 
-# 59. The Baptism of Those Professing Faith {-}
+## 59. The Baptism of Those Professing Faith {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch59">
@@ -483,7 +483,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-60-the-lords-supper" title="60. The Lord's Supper">
 
-# 60. The Lord's Supper {-}
+## 60. The Lord's Supper {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch60">
@@ -575,7 +575,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-61-public-reception-of-church-members-general-provisions" title="61. Public Reception of Church Members—General Provisions">
 
-# 61. Public Reception of Church Members—General Provisions {-}
+## 61. Public Reception of Church Members—General Provisions {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch61">
@@ -592,7 +592,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-62-reception-into-full-communion-of-non-communing-members-by-profession-of-faith" title="62. Reception into Full Communion of Non-communing Members by Profession of Faith">
 
-# 62. Reception into Full Communion of Non-communing Members by Profession of Faith {-}
+## 62. Reception into Full Communion of Non-communing Members by Profession of Faith {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch62">
@@ -647,14 +647,14 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-63-reception-by-letter-of-transfer-from-another-church-within-evangel-presbytery" title="63. Reception by Letter of Transfer from Another Church within Evangel Presbytery">
 
-# 63. Reception by Letter of Transfer from Another Church within Evangel Presbytery {-}
+## 63. Reception by Letter of Transfer from Another Church within Evangel Presbytery {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="63"></a>When a person is received into membership on letter of transfer from another Evangel Presbytery congregation, that reception is effective at the time of the action of the session to receive him. Nevertheless, a session may deem it appropriate to welcome that person publicly into the congregation and allow him to give public expression to his faith. If this is done, it shall be made clear to the congregation that the person has already been received by action of the session. Nevertheless, the minister may address him in appropriate words similar to those found below in BCO <a href="#64.4">64.4</a>.</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-64-reception-by-letter-of-transfer-from-another-church-of-like-faith-and-practice" title="64. Reception by Letter of Transfer from Another Church of Like Faith and Practice">
 
-# 64. Reception by Letter of Transfer from Another Church of Like Faith and Practice {-}
+## 64. Reception by Letter of Transfer from Another Church of Like Faith and Practice {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch64">
@@ -708,7 +708,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-65-reception-by-reaffirmation-of-faith" title="65. Reception by Reaffirmation of Faith">
 
-# 65. Reception by Reaffirmation of Faith {-}
+## 65. Reception by Reaffirmation of Faith {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch65">
@@ -762,7 +762,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-66-reception-of-new-members-by-public-profession-of-faith" title="66. Reception of New Members by Public Profession of Faith">
 
-# 66. Reception of New Members by Public Profession of Faith {-}
+## 66. Reception of New Members by Public Profession of Faith {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch66">
@@ -816,21 +816,21 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-67-other-occasions-of-public-worship" title="67. Other Occasions of Public Worship">
 
-# 67. Other Occasions of Public Worship {-}
+## 67. Other Occasions of Public Worship {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p><a id="67"></a>Under the Gospel, we are commanded to keep no other particular day holy, except the Lord&#8217;s Day. Nevertheless, God&#8217;s people may observe other occasions of worship as the Lord allows. Such observance is both consonant with Scripture and pastorally appropriate.</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-68-prayer-meetings" title="68. Prayer Meetings">
 
-# 68. Prayer Meetings {-}
+## 68. Prayer Meetings {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p><a id="68"></a>Prayer meetings for the purpose of corporate prayer should be held under the direction of the Session. They may be conducted by the Pastor or member of the session. They may also be conducted by other members of the church when so authorized by the session. The exercises appropriate for the prayer meeting are prayer, reading of Scriptures, instruction and exhortation by men. All of the people of the church, young and old, male and female, should be encouraged to pray aloud in public and so have an active part in the prayer meeting.</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-69-prayer-and-fasting" title="69. Prayer and Fasting">
 
-# 69. Prayer and Fasting {-}
+## 69. Prayer and Fasting {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch69">
@@ -842,7 +842,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-70-thanksgiving" title="70. Thanksgiving">
 
-# 70. Thanksgiving {-}
+## 70. Thanksgiving {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch70">
@@ -854,7 +854,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-71-home-fellowship-groups" title="71. Home Fellowship Groups">
 
-# 71. Home Fellowship Groups {-}
+## 71. Home Fellowship Groups {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch71">
@@ -865,7 +865,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-72-the-solemnization-of-marriage" title="72. The Solemnization of Marriage">
 
-# 72. The Solemnization of Marriage {-}
+## 72. The Solemnization of Marriage {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch72">
@@ -889,7 +889,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-73-the-visitation-of-the-sick" title="73. The Visitation of the Sick">
 
-# 73. The Visitation of the Sick {-}
+## 73. The Visitation of the Sick {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch73">
@@ -899,7 +899,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-74-worship-in-the-home" title="74. Worship in the Home">
 
-# 74. Worship in the Home {-}
+## 74. Worship in the Home {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch74">
@@ -913,7 +913,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-75-suggested-form-for-the-solemnization-of-marriage" title="75. Suggested Form for the Solemnization of Marriage">
 
-# 75. Suggested Form for the Solemnization of Marriage {-}
+## 75. Suggested Form for the Solemnization of Marriage {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="75"></a><em>The requirements of BCO <a href="#72">72</a>, particularly <a href="#72.3">section 3</a>, are required regardless of what liturgy is used for the marriage ceremony.</em></p>
@@ -1032,7 +1032,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-76-suggested-form-for-a-funeral" title="76. Suggested Form for a Funeral">
 
-# 76. Suggested Form for a Funeral {-}
+## 76. Suggested Form for a Funeral {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="76"></a><em>Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.</em></p>
@@ -1108,7 +1108,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-77-suggested-form-for-a-childs-funeral" title="77. Suggested Form for a Child’s Funeral">
 
-# 77. Suggested Form for a Child’s Funeral {-}
+## 77. Suggested Form for a Child’s Funeral {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="77"></a><em>Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.</em></p>
@@ -1184,7 +1184,7 @@ And support you from Zion![^directoryForWorship.34]</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-78-suggested-form-for-a-graveside-committal-service" title="78. Suggested Form for a Graveside Committal Service">
 
-# 78. Suggested Form for a Graveside Committal Service {-}
+## 78. Suggested Form for a Graveside Committal Service {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="78"></a><em>The following form is from the 1549 Book of Common Prayer, modernized.</em></p>
@@ -1235,7 +1235,7 @@ And give you peace.</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-79-suggested-form-for-infant-dedication" title="79. Suggested Form for Infant Dedication">
 
-# 79. Suggested Form for Infant Dedication {-}
+## 79. Suggested Form for Infant Dedication {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p class="no-indent"><a id="79"></a><em>While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. The following is a sample form which may be used where parents would like to publicly dedicate their children to the Lord.</em></p>
@@ -1307,7 +1307,7 @@ Pastor: Do you confess your faith in God the Father, in Jesus Christ the only be
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-80-the-creeds" title="80. The Creeds">
 
-# 80. The Creeds {-}
+## 80. The Creeds {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch80">

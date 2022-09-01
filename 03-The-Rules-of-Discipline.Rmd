@@ -1,6 +1,6 @@
-# (PART) The Rules of Discipline {-} 
+# The Rules of Discipline {-} 
 
-# 30. Discipline—Its Nature, Subjects, and Ends {-}
+## 30. Discipline—Its Nature, Subjects, and Ends {-}
 <section data-type="chapter" class="chapter" id="chapter-slug-30-discipline-its-nature-subjects-and-ends" title="30. Discipline—Its Nature, Subjects, and Ends">
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch30">
@@ -22,7 +22,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-31-discipline-of-non-communing-members" title="31. Discipline of Non-communing Members">
 
-# 31. Discipline of Non-communing Members {-}
+## 31. Discipline of Non-communing Members {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch31">
@@ -41,7 +41,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-32-offenses" title="32. Offenses">
 
-# 32. Offenses {-}
+## 32. Offenses {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch32">
@@ -53,7 +53,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-33-church-censures" title="33. Church Censures">
 
-# 33. Church Censures {-}
+## 33. Church Censures {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch33">
@@ -66,7 +66,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-34-the-parties-in-cases-of-process" title="34. The Parties in Cases of Process">
 
-# 34. The Parties in Cases of Process {-}
+## 34. The Parties in Cases of Process {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch34">
@@ -89,7 +89,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-35-general-provisions-applicable-to-all-cases-of-process" title="35. General Provisions Applicable to All Cases of Process">
 
-# 35. General Provisions Applicable to All Cases of Process {-}
+## 35. General Provisions Applicable to All Cases of Process {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch35">
@@ -123,7 +123,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-36-special-rules-pertaining-to-process-before-sessions" title="36. Special Rules Pertaining to Process before Sessions">
 
-# 36. Special Rules Pertaining to Process before Sessions {-}
+## 36. Special Rules Pertaining to Process before Sessions {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch36">
@@ -135,7 +135,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-37-special-rules-pertaining-to-process-against-a-minister" title="37. Special Rules Pertaining to Process against a Minister">
 
-# 37. Special Rules Pertaining to Process against a Minister {-}
+## 37. Special Rules Pertaining to Process against a Minister {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch37">
@@ -158,7 +158,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-38-evidence" title="38. Evidence">
 
-# 38. Evidence {-}
+## 38. Evidence {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch38">
@@ -180,7 +180,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-39-the-infliction-of-church-censures" title="39. The Infliction of Church Censures">
 
-# 39. The Infliction of Church Censures {-}
+## 39. The Infliction of Church Censures {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch39">
@@ -217,7 +217,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-40-the-removal-of-censure" title="40. The Removal of Censure">
 
-# 40. The Removal of Censure {-}
+## 40. The Removal of Censure {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch40">
@@ -269,7 +269,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-41-cases-without-process" title="41. Cases without Process">
 
-# 41. Cases without Process {-}
+## 41. Cases without Process {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch41">
@@ -285,7 +285,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-42-modes-in-which-the-proceedings-of-lower-courts-come-under-the-supervision-of-higher-courts" title="42. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts">
 
-# 42. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts {-}
+## 42. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch42">
@@ -315,7 +315,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-43-general-review-and-control" title="43. General Review and Control">
 
-# 43. General Review and Control {-}
+## 43. General Review and Control {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch43">
@@ -336,7 +336,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-44-references" title="44. References">
 
-# 44. References {-}
+## 44. References {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch44">
@@ -350,7 +350,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-45-appeals" title="45. Appeals">
 
-# 45. Appeals {-}
+## 45. Appeals {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch45">
@@ -369,7 +369,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-46-complaints" title="46. Complaints">
 
-# 46. Complaints {-}
+## 46. Complaints {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch46">
@@ -387,7 +387,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-47-voting-in-appeals-and-complaints" title="47. Voting in Appeals and Complaints">
 
-# 47. Voting in Appeals and Complaints {-}
+## 47. Voting in Appeals and Complaints {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch47">
@@ -399,7 +399,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-48-dissents-protests-and-objections" title="48. Dissents, Protests, and Objections">
 
-# 48. Dissents, Protests, and Objections {-}
+## 48. Dissents, Protests, and Objections {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch48">
@@ -412,7 +412,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-49-jurisdiction" title="49. Jurisdiction">
 
-# 49. Jurisdiction {-}
+## 49. Jurisdiction {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch49">

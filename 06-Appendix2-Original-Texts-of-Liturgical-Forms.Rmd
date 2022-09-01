@@ -1,6 +1,6 @@
-# (PART) Appendix 2: Original Texts of Liturgical Forms {-} 
+# Appendix 2: Original Texts of Liturgical Forms {-} 
 
-# 1. Calvin’s Service of the Lord’s Supper (1542, 1566) {-}
+## 1. Calvin’s Service of the Lord’s Supper (1542, 1566) {-}
 
 <section data-type="chapter" class="chapter" id="chapter-slug-1-calvins-service-of-the-lords-supper-1542-1566" title="1. Calvin’s Service of the Lord’s Supper (1542, 1566)">
 <p data-type="subtitle" class="chapter-number"></p>
@@ -27,7 +27,7 @@
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-2-the-form-of-solemnization-of-matrimony-1549-book-of-common-prayer" title="2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer)">
 
-# 2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer) {-}
+## 2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer) {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p><a id="appendix2.2"></a><em>First, the banns must be asked three several Sundays or holy days in the service time, the people being present, after the accustomed manner. And if the persons that would be married dwell in divers parishes, the banns must be asked in both parishes, and the Curate of the one parish shall not solemnize matrimony betwixt them, without a certificate of the banns being thrice asked from the Curate of the other parish. At the day appointed for Solemnization of Matrimony, the persons to be married shall come into the body of the church, with their friends and neighbors. And there the priest shall thus say,</em></p>
@@ -155,7 +155,7 @@ Answer. Which put their trust in thee.<br />
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer" title="3. The Order for the Burial of the Dead (1549 Book of Common Prayer)">
 
-# 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) {-}
+## 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
 <p style="text-align: center"><a id="appendix2.3"></a><em>The priest meeting the corpse at the church style, shalt say: Or else the priests and clerks shalt sing, and so go either into the church, or towards the grave,</em></p>

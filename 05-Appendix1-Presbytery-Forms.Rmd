@@ -1,6 +1,6 @@
-# (PART) Appendix 1: Presbytery Forms {-} 
+# Appendix 1: Presbytery Forms {-} 
 
-# Form of Ministerial Obligation {-}
+## Form of Ministerial Obligation {-}
 
 <section data-type="chapter" class="chapter" id="chapter-form-of-ministerial-obligation" title="Form of Ministerial Obligation">
 <p data-type="subtitle" class="chapter-number"></p>
