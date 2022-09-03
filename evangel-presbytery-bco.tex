@@ -68,6 +68,13 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    }
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -93,6 +100,12 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
+\hypertarget{welcome}{%
+\chapter*{Welcome}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome}
+
+This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at \url{https://bco.evangelpresbytery.com} and download the \href{https://bco.evangelpresbytery.com/evangel-presbytery-bco.pdf}{latest PDF version here}. A record of the changes can be found in the \href{https://bco.evangelpresbytery.com/updates.html}{Updates} section at the end of the book.
+
 \hypertarget{preface}{%
 \chapter*{Preface}\label{preface}}
 \addcontentsline{toc}{chapter}{Preface}
