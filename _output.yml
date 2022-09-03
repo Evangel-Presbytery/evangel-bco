@@ -5,6 +5,7 @@ bookdown::bs4_book:
   css: "style.css"
   includes:
     in_header: in_header.html
+  download: [pdf]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
