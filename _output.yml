@@ -1,7 +1,4 @@
 bookdown::bs4_book:
-  repo:
-    base: https://github.com/Evangel-Presbytery/evangel-bco
-    branch: main
   css: "style.css"
   includes:
     in_header: in_header.html
