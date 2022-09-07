@@ -14,11 +14,11 @@ This is the official Book of Church Order for Evangel Presbytery. You can always
 
 # Preface {-}
 
-<div id="front-matter-preface"></div>
+[](){front-matter-preface}
 
 ## A. Historical Statement and Declaration of Intent {-}
 
-<p class="no-indent">The Lord has blessed His Church with many precious gifts for equipping the saints for the work of ministry and for building up the body of Christ. Among these gifts are basic biblical principles for the system of government and discipline of His Church. Applying this wisdom to our time and place, we learn how to conduct ourselves in the Household of Faith as we labor with other congregations and undershepherds in mutual accountability and love.
+The Lord has blessed His Church with many precious gifts for equipping the saints for the work of ministry and for building up the body of Christ. Among these gifts are basic biblical principles for the system of government and discipline of His Church. Applying this wisdom to our time and place, we learn how to conduct ourselves in the Household of Faith as we labor with other congregations and undershepherds in mutual accountability and love.
 
 We believe the Book of Church Order, whose roots stretch back to Calvin’s Geneva, is an excellent outworking of these principles. John Calvin wrote the first modern Presbyterian Book of Order for the church at Geneva in 1542.
 

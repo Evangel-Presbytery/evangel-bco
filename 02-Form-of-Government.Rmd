@@ -2,8 +2,8 @@
 
 ## 1. The Doctrine of Church Government {-}
 
-<div id="part-main-body-2"></div>
-<div id="chapter-slug-1-the-doctrine-of-church-government"></div>
+[](){part-main-body-2}
+[](){chapter-slug-1-the-doctrine-of-church-government}
 
 <ol class="ch1">
 <li class="no-indent">[](){1}The scriptural form of Church government, which is that of Presbytery, is comprehended under five heads, namely: 1. The Church; 2. Its Members; 3. Its Officers; 4. Its Courts; and 5. Its Orders.</li>
@@ -17,7 +17,7 @@
 
 ## 2. The King and Head of the Church {-}
 
-<div id="chapter-slug-2-the-king-and-head-of-the-church"></div>
+[](){chapter-slug-2-the-king-and-head-of-the-church}
 
 <ol class="ch2">
 <li class="no-indent">[](){2}Jesus Christ, upon whose shoulders the government is, whose name is called Wonderful, Counsellor, the Mighty God, the Everlasting Father, the Prince of Peace; of the increase of whose government and peace there shall be no end; who sits upon the throne of David, and upon His kingdom to order it and to establish it with judgment and with justice from henceforth, even for ever; having all power given unto him in heaven and in earth by the Father, who raised him from the dead, and set him on His own right hand, far above all principality and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come, and hath put all things under His feet, and gave him to be the Head over all things to the Church, which is His body, the fullness of him that filleth all in all; He, being ascended up far above all heavens, that He might fill all things, received gifts for His Church, and gave all officers necessary for the edification of His Church and the perfecting of His saints.</li>
@@ -28,7 +28,7 @@
 
 ## 3. The Visible Church Defined {-}
 
-<div id="chapter-slug-3-the-visible-church-defined"></div>
+[](){chapter-slug-3-the-visible-church-defined}
 
 <ol class="ch3">
 <li class="no-indent">[](){3}The Visible Church before the law, under the law, and now under the Gospel, is one and the same, and consists of all those who make profession of the true religion, together with their children.</li>
