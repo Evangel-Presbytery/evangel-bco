@@ -2,20 +2,32 @@
 
 ## Form of Ministerial Obligation {-}
 
-<section data-type="chapter" class="chapter" id="chapter-form-of-ministerial-obligation" title="Form of Ministerial Obligation">
-<p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent">[](){form-of-ministerial-obligation}Believing the Scriptures of the Old and New Testaments, as originally given, to be the infallible Word of God, which is the only infallible rule of faith and practice; and</p>
-<p class="no-indent">Sincerely receiving and adopting the Confession of Faith and the Catechisms of this Church, as containing the system of doctrine taught in the Holy Scriptures; and further promising that if at any time I find myself out of accord with any of the fundamentals of this system of doctrine, I will on my own initiative, make known to my Presbytery the change which has taken place in my views since the assumption of my ordination vows; and</p>
-<p class="no-indent">Approving of the form of government and discipline of Evangel Presbytery as being in conformity with the general principles of biblical polity; and</p>
-<p class="no-indent">Promising subjection to my brethren in the Lord; and</p>
-<p class="no-indent">Having been induced, as far as I know my own heart, to seek the office of the holy ministry from love to God and a sincere desire to promote His glory in the Gospel of His Son; and</p>
-<p class="no-indent">Promising to be zealous and faithful in maintaining the truths of the Gospel and the purity and peace of the Church, whatever persecution or opposition may arise unto me on that account; and</p>
-<p class="no-indent">Engaging to be faithful and diligent in the exercise of all my duties as a Christian and a minister of the Gospel, whether personal or relational, private or public; and to endeavor by the grace of God to adorn the profession of the Gospel in my manner of life, and to walk with exemplary piety before the flock of which God shall make me overseer; therefore</p>
-<p class="no-indent">I, _________________________, do sincerely receive and subscribe to the above obligation as a just and true exhibition of my faith and principles, and do resolve and promise to exercise my ministry in conformity therewith.</p>
-<p class="no-indent">Signed:</p>
-<p class="no-indent">Date:</p>
-<p class="no-indent">Work:</p>
-<p class="no-indent">Date ordained:</p>
-<p class="no-indent">By whom:</p>
-<p class="no-indent">On reverse side, feel free to indicate any approved differences you may have with the Westminster Standards, or differences you would now like to register.</p>
-</section>
+[](){#chapter-form-of-ministerial-obligation}
+
+[](){#form-of-ministerial-obligation}Believing the Scriptures of the Old and New Testaments, as originally given, to be the infallible Word of God, which is the only infallible rule of faith and practice; and
+
+Sincerely receiving and adopting the Confession of Faith and the Catechisms of this Church, as containing the system of doctrine taught in the Holy Scriptures; and further promising that if at any time I find myself out of accord with any of the fundamentals of this system of doctrine, I will on my own initiative, make known to my Presbytery the change which has taken place in my views since the assumption of my ordination vows; and
+
+Approving of the form of government and discipline of Evangel Presbytery as being in conformity with the general principles of biblical polity; and
+
+Promising subjection to my brethren in the Lord; and
+
+Having been induced, as far as I know my own heart, to seek the office of the holy ministry from love to God and a sincere desire to promote His glory in the Gospel of His Son; and
+
+Promising to be zealous and faithful in maintaining the truths of the Gospel and the purity and peace of the Church, whatever persecution or opposition may arise unto me on that account; and
+
+Engaging to be faithful and diligent in the exercise of all my duties as a Christian and a minister of the Gospel, whether personal or relational, private or public; and to endeavor by the grace of God to adorn the profession of the Gospel in my manner of life, and to walk with exemplary piety before the flock of which God shall make me overseer; therefore
+
+I, _________________________, do sincerely receive and subscribe to the above obligation as a just and true exhibition of my faith and principles, and do resolve and promise to exercise my ministry in conformity therewith.
+
+Signed:
+
+Date:
+
+Work:
+
+Date ordained:
+
+By whom:
+
+On reverse side, feel free to indicate any approved differences you may have with the Westminster Standards, or differences you would now like to register.
