@@ -411,7 +411,7 @@ The following three categories denote practices that are not mandated:
 
 <p class="no-indent">The minister shall then require the congregation to vow publicly their duty to welcome into Christian fellowship those being baptized:</p>
 
-> Do you, the members of this congregation, welcome this disciple [<em>or</em> these disciples] and promise by your fellowship to strengthen [his/her/their] tie[s] with the household of God? [If so, say, “We do.”]
+> Do you, the members of this congregation, welcome this disciple [*or* these disciples] and promise by your fellowship to strengthen [his/her/their] tie[s] with the household of God? [If so, say, “We do.”]
 
 <p class="no-indent">If the session deems it appropriate, it may also ask him to bear brief testimony to his faith in his own words.</p>
 <p class="no-indent">After answers to the above questions in the affirmative, the minister shall proceed to the baptism.</p>
@@ -488,7 +488,7 @@ The following three categories denote practices that are not mandated:
 > 
 > And since we are conscious of much frailty and misery in ourselves, as well as not having a perfect faith, but that we are prone rather to unbelief and distrust, so that we are not entirely dedicated to serving God and with such a zeal as we ought, but we have instead a battle daily against the lusts of our flesh; nevertheless, since our Lord has granted us this grace of having His Gospel engraved on our heart, so that we might resist all unbelief, and He has given us the desire and longing to renounce our own desires to pursue His righteousness and holy commandments; let us all be assured that the sins and imperfections that are in us will not prevent Him from receiving us, nor from making us worthy to share in this spiritual table. For we do not come insisting that we are perfect or righteous in ourselves, but rather, seeking our life in Jesus Christ, we confess that we are dead. Let us understand, therefore, that this Sacrament is a medicine for poor, spiritually sick people and that the only worthiness that our Lord requires of us is to know ourselves well enough to be displeased with our sins and to find all our pleasure, joy, and contentment in Him alone.[^directoryForWorship.19]</p>
 
-[^directoryForWorship.19]: From John Calvin’s Lord’s Supper liturgy, 1542, 1566, modernized. See Mark Earngey and Jonathan Gibson, <em>Reformation Worship</em> (New Growth Press, 2018), 326–27.
+[^directoryForWorship.19]: From John Calvin’s Lord’s Supper liturgy, 1542, 1566, modernized. See Mark Earngey and Jonathan Gibson, *Reformation Worship* (New Growth Press, 2018), 326–27.
 
 </blockquote>
 </li>
@@ -508,7 +508,7 @@ The following three categories denote practices that are not mandated:
 <li class="no-indent"><strong>Partaking of the Elements</strong>
 <p class="no-indent">Normally,[^directoryForWorship.21] the elements of the Lord’s Supper should be taken in the following manner.</p>
 
-[^directoryForWorship.21]: This portion of the Lord’s Supper liturgy follows the historical Reformed liturgies of the early Reformation. With the addition of the word “normally,” we do not intend to allow significant departure from this process of partaking of the elements. Intinction—the taking of the elements simultaneously by communicants—or the use of many individual cups does not <em>significantly</em> depart from the outlined process. The significance of both the bread and the cup should be described prior to eating and drinking.
+[^directoryForWorship.21]: This portion of the Lord’s Supper liturgy follows the historical Reformed liturgies of the early Reformation. With the addition of the word “normally,” we do not intend to allow significant departure from this process of partaking of the elements. Intinction—the taking of the elements simultaneously by communicants—or the use of many individual cups does not *significantly* depart from the outlined process. The significance of both the bread and the cup should be described prior to eating and drinking.
 
 <p class="no-indent">After prayer and thanksgiving, the minister shall take the bread, saying in the following or like words:</p>
 <blockquote>
@@ -541,7 +541,7 @@ The following three categories denote practices that are not mandated:
 </blockquote>
 </li>
 </ol>
-<p class="no-indent"><em>The above exhortations and explanations are in accord with the historic Reformed liturgies.</em></p>
+<p class="no-indent">*The above exhortations and explanations are in accord with the historic Reformed liturgies.*</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-61-public-reception-of-church-members-general-provisions" title="61. Public Reception of Church Members—General Provisions">
 
@@ -555,7 +555,7 @@ The following three categories denote practices that are not mandated:
 <li class="no-indent">In the public reception of church members, the minister shall follow the directions prescribed in this chapter, but he is not required to use the exact language of the forms (below), which are suggested as appropriate. He may employ these or similar forms, using his own liberty and godly wisdom as he deems best for the edification of the people.</li>
 <li class="no-indent">Whether baptized or unbaptized, children of communing members are non-communing members of the particular church and come to the Lord’s Table, also, by a credible profession of faith. Normally such professions should be actively sought in the regular course of the elder board’s shepherding work. Because God has limited the ability of infants and very young children to articulate a credible profession of faith, demonstrate the fruit of repentance, and discern the Lord’s body, they do not yet qualify for admission to communicant membership and the Lord’s Table.[^directoryForWorship.23] For further explanation, see BCO <a href="#1.3">1.3</a>.</li>
 
-[^directoryForWorship.23]: Calvin’s process for allowing covenant children to come to the Lord’s Supper is described by Scott Manetsch as follows: “By the time that students completed their studies at the schola privata at age eleven or twelve, they would have worked through Calvin’s <em>Catechism</em> six or seven times and most would have mastered its doctrinal contents. It is important to note, however, that admission to the Lord’s Table was not tied directly to a child’s level of schooling or age. The <em>Ecclesiastical Ordinances</em> made clear that boys and girls were welcomed to the Lord’s Supper only after they had reached the age of discretion (around ten years of age) and were able satisfactorily to articulate the basic doctrines of the reformed religion and confess it as their own. Toward that end, four times a year on the Sunday before Geneva’s quarterly communion service, young people who were prepared to confess their Christian faith stood in front of the worshiping congregation and, in response to the ministers’ questions, recited the shortened form of the <em>Catechism</em> that served as their formal profession of faith. A week later, they were invited for the first time to feed upon the body and blood of Jesus Christ offered in the sacred meal of the Lord’s Table.” <em>Calvin’s Company of Pastors: Pastoral Care and the Emerging Reformed Church, 1536-1609</em> (Oxford University Press, 2013), 270-71. Additionally: “Another primary source, though, describes the age of discretion and Geneva’s children coming to the Lord’s table as between ages eight and ten: ‘Throughout all this, somebody else reads from the pulpit in the vernacular, with head uncovered, the Gospel of Saint John, from the beginning of the thirteenth chapter, until everyone has taken their pieces, both men and women, each one at their different tables, along with the boys and girls of around eight to ten years of age.’” Ibid., 275, quoting Antoince Cathelan, <em>Passevent Parisien</em>, 74.
+[^directoryForWorship.23]: Calvin’s process for allowing covenant children to come to the Lord’s Supper is described by Scott Manetsch as follows: “By the time that students completed their studies at the schola privata at age eleven or twelve, they would have worked through Calvin’s *Catechism* six or seven times and most would have mastered its doctrinal contents. It is important to note, however, that admission to the Lord’s Table was not tied directly to a child’s level of schooling or age. The *Ecclesiastical Ordinances* made clear that boys and girls were welcomed to the Lord’s Supper only after they had reached the age of discretion (around ten years of age) and were able satisfactorily to articulate the basic doctrines of the reformed religion and confess it as their own. Toward that end, four times a year on the Sunday before Geneva’s quarterly communion service, young people who were prepared to confess their Christian faith stood in front of the worshiping congregation and, in response to the ministers’ questions, recited the shortened form of the *Catechism* that served as their formal profession of faith. A week later, they were invited for the first time to feed upon the body and blood of Jesus Christ offered in the sacred meal of the Lord’s Table.” *Calvin’s Company of Pastors: Pastoral Care and the Emerging Reformed Church, 1536-1609* (Oxford University Press, 2013), 270-71. Additionally: “Another primary source, though, describes the age of discretion and Geneva’s children coming to the Lord’s table as between ages eight and ten: ‘Throughout all this, somebody else reads from the pulpit in the vernacular, with head uncovered, the Gospel of Saint John, from the beginning of the thirteenth chapter, until everyone has taken their pieces, both men and women, each one at their different tables, along with the boys and girls of around eight to ten years of age.’” Ibid., 275, quoting Antoince Cathelan, *Passevent Parisien*, 74.
 
 <li class="no-indent">If they have been baptized, non-communing members of the congregation may be received into communicant membership by profession of faith.</li>
 </ol>
@@ -601,7 +601,7 @@ The following three categories denote practices that are not mandated:
 <p>This part of the service shall be concluded with prayer.</p>
 </li>
 </ol>
-<p class="no-indent"><em>For children of paedo-baptistic parents making a profession of faith in a credo-baptistic church, please see BCO <a href="#66.3">66.3</a>, <a href="#66.4">66.4</a>.</em></p>
+<p class="no-indent">*For children of paedo-baptistic parents making a profession of faith in a credo-baptistic church, please see BCO <a href="#66.3">66.3</a>, <a href="#66.4">66.4</a>.*</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-63-reception-by-letter-of-transfer-from-another-church-within-evangel-presbytery" title="63. Reception by Letter of Transfer from Another Church within Evangel Presbytery">
 
@@ -808,7 +808,7 @@ The following three categories denote practices that are not mandated:
 <li class="no-indent">Parents should neither compel their children to marry contrary to their will, nor deny their consent without just and significant reasons.</li>
 <li class="no-indent">Marriage and the welfare of civil society cannot be separated. The happiness of families and the credit of Christianity are deeply interested in it. Therefore, the intent to marry should be sufficiently published for objections to the marriage to be registered in a timely way, and for them to be adjudicated.[^directoryForWorship.26] Ministers should be careful that they obey the laws of the community to the extent that those laws do not transgress the laws of God as declared by the Constitution of Evangel Presbytery; and that they not destroy the peace and comfort of families, ministers should be assured that, with respect to the parties applying to them, no just objections lie against their marriage.</li>
 
-[^directoryForWorship.26]: This requirement is based upon the ancient practice of “publishing the banns.” In Calvin’s Geneva, for example, it was required that the minister publish the banns—that is, announce to the congregation the intent of a couple to marry—for the three Sundays preceding the wedding. This announcement allowed those who objected to the wedding to explain their reasons to the minister. It also taught the congregation about the public and solemn nature of the wedding ceremony. For more on Calvin’s practice, see John Witte Jr. and Robert M. Kingdon, <em>Courtship, Engagement, and Marriage</em>, vol. 1 of <em>Sex, Marriage, and Family Life in John Calvin’s Geneva</em> (Eerdmans, 2005).
+[^directoryForWorship.26]: This requirement is based upon the ancient practice of “publishing the banns.” In Calvin’s Geneva, for example, it was required that the minister publish the banns—that is, announce to the congregation the intent of a couple to marry—for the three Sundays preceding the wedding. This announcement allowed those who objected to the wedding to explain their reasons to the minister. It also taught the congregation about the public and solemn nature of the wedding ceremony. For more on Calvin’s practice, see John Witte Jr. and Robert M. Kingdon, *Courtship, Engagement, and Marriage*, vol. 1 of *Sex, Marriage, and Family Life in John Calvin’s Geneva* (Eerdmans, 2005).
 
 </ol>
 </section>
@@ -841,14 +841,14 @@ The following three categories denote practices that are not mandated:
 ## 75. Suggested Form for the Solemnization of Marriage {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent"><a id="75"></a><em>The requirements of BCO <a href="#72">72</a>, particularly <a href="#72.3">section 3</a>, are required regardless of what liturgy is used for the marriage ceremony.</em></p>
-<p class="no-indent"><em>The form that follows in this section is based upon the marriage solemnization found in the 1549 Book of Common Prayer</em></p>
+<p class="no-indent"><a id="75"></a>*The requirements of BCO <a href="#72">72</a>, particularly <a href="#72.3">section 3</a>, are required regardless of what liturgy is used for the marriage ceremony.*</p>
+<p class="no-indent">*The form that follows in this section is based upon the marriage solemnization found in the 1549 Book of Common Prayer*</p>
 <p>Prelude</p>
 <p>Seating of Mothers</p>
 <p>Bridal Party’s Entrance</p>
 <p>Bride’s Entrance</p>
 <p>Words of Institution</p>
-<p style="text-align: center"><em>The Minister says,</em></p>
+<p style="text-align: center">*The Minister says,*</p>
 
 > Dearly beloved, we are gathered here together in the sight of God, and in the presence of these witnesses, to join together this man and this woman in holy matrimony. Marriage is an honorable estate, instituted by God in the garden in the time of man’s innocence, before the corruption of sin, and signifying unto us the mystical union between Christ and His Church. This holy estate Christ adorned and beautified with His presence and first miracle in Cana of Galilee, and is commended by St. Paul to be honorable among all men.
 > 
@@ -858,68 +858,68 @@ The following three categories denote practices that are not mandated:
 > 
 > If any man can show just cause why they may not lawfully be joined, let him speak now, or else hereafter forever hold his peace.
 
-<p style="text-align: center"><em>And also speaking to the persons to be married, he shall say,</em></p>
+<p style="text-align: center">*And also speaking to the persons to be married, he shall say,*</p>
 <blockquote>
 <p>I require and charge you both, that if either of you know any reason why you may not lawfully be joined in matrimony, you tell it to me. For you can be certain that all who are joined together in any way besides what God’s word allows are not joined by God, nor is their marriage lawful, and they will answer on the dreadful day of judgement, when the secrets of all hearts shall be revealed.</p>
 </blockquote>
-<p style="text-align: center"><em>At this time, if anyone raises an objection why the couple may not be joined together in matrimony, and is willing to stand by his allegation while it is investigated, then the marriage must be deferred, until the truth is found.</em></p>
+<p style="text-align: center">*At this time, if anyone raises an objection why the couple may not be joined together in matrimony, and is willing to stand by his allegation while it is investigated, then the marriage must be deferred, until the truth is found.*</p>
 <p>Declaration of Consent</p>
-<p style="text-align: center"><em>If no objection is raised, then the minister shall say unto the man,</em></p>
+<p style="text-align: center">*If no objection is raised, then the minister shall say unto the man,*</p>
 <blockquote>
 <p>[Name of Groom], will you have this woman to be your wedded wife, to live together after God’s ordinance in the holy estate of matrimony? Will you love her, comfort her, honor, and keep her in sickness and in health? And, forsaking all others, keep yourself only unto her, so long as you both shall live?</p>
 </blockquote>
-<p style="text-align: center"><em>The man shall answer,</em></p>
+<p style="text-align: center">*The man shall answer,*</p>
 <blockquote>
 <p>I will.</p>
 </blockquote>
-<p style="text-align: center"><em>Then the minister shall say to the woman,</em></p>
+<p style="text-align: center">*Then the minister shall say to the woman,*</p>
 <blockquote>
 <p>[Name of Bride], will you have this man to be your wedded husband, to live together after God’s ordinance, in the holy estate of matrimony? Will you obey him, and serve him, love, honor, and keep him in sickness and in health? And, forsaking all others, keep yourself only unto him, so long as you both shall live?</p>
 </blockquote>
-<p style="text-align: center"><em>The woman shall answer,</em></p>
+<p style="text-align: center">*The woman shall answer,*</p>
 <blockquote>
 <p>I will.</p>
 </blockquote>
-<p style="text-align: center"><em>Then shall the Minister say,</em></p>
+<p style="text-align: center">*Then shall the Minister say,*</p>
 <blockquote>
 <p>Who gives this woman to be married to this man?</p>
 </blockquote>
-<p style="text-align: center"><em>The father of the bride or a man standing in his place shall say,</em></p>
+<p style="text-align: center">*The father of the bride or a man standing in his place shall say,*</p>
 <blockquote>
 <p>I do.</p>
 </blockquote>
-<p style="text-align: center;padding-left: 30px"><em>Then the minister, receiving the woman at her father’s or friend’s hands, will cause the man to take the woman by the right hand.</em></p>
+<p style="text-align: center;padding-left: 30px">*Then the minister, receiving the woman at her father’s or friend’s hands, will cause the man to take the woman by the right hand.*</p>
 <p>Invocation</p>
 <blockquote>
 <p>Let us pray. Almighty and ever blessed God, whose presence is the happiness of every condition and whose favor makes holy every relation; We ask You to be present and to look with favor upon these Your servants, as together they make their covenant before You. As You have brought them together by Your providence, sanctify them by Your Spirit, giving them a new frame of heart fit for their new estate. Pour out Your grace upon them so that they may enjoy the comforts, bear up under the cares, endure the trials, and perform the duties of life together under Your heavenly guidance and protection. May they be truly joined in the honorable estate of marriage, and may they know the salvation of the only true God. We ask these things through our Lord Jesus Christ. Amen.</p>
 </blockquote>
-<p style="text-align: center"><em>The Minister, Bride and Groom, Maid of Honor and Best Man, ascend to platform.</em></p>
+<p style="text-align: center">*The Minister, Bride and Groom, Maid of Honor and Best Man, ascend to platform.*</p>
 <p>Song</p>
 <p>Scripture Reading (for example, Genesis 2:18-25, Ephesians 5:22-33)</p>
 <p>Sermon</p>
 <p>Exchange of Vows</p>
-<p style="text-align: center"><em>The man and the woman turn and face each other and join hands. The man will say, repeating after the minister,</em></p>
+<p style="text-align: center">*The man and the woman turn and face each other and join hands. The man will say, repeating after the minister,*</p>
 <blockquote>
 <p>I [Name of Groom] take you [Name of Bride] to be my lawful wedded wife, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love and to cherish, till death us do part: according to God’s holy ordinance; and to this vow I pledge you my faithfulness.</p>
 </blockquote>
-<p style="text-align: center"><em>The woman will say, repeating after the minister,</em></p>
+<p style="text-align: center">*The woman will say, repeating after the minister,*</p>
 <blockquote>
 <p>I [Name of Bride] take you [Name of Groom] to be my lawful wedded husband, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love, cherish, and to obey, till death us do part: according to God’s holy ordinance; and to this vow I give you my faithfulness.</p>
 </blockquote>
 <p>Ring Ceremony</p>
-<p style="text-align: center"><em>The minister will say to the man,</em></p>
+<p style="text-align: center">*The minister will say to the man,*</p>
 <blockquote>
 <p>[Name of Groom], what keepsake do you give [Name of Bride] of your promise to fulfill these vows you have made?</p>
 </blockquote>
-<p style="text-align: center"><em>The best man gives the ring to the groom; the groom says, “This ring.” The groom takes the bride’s left hand the puts the ring on her fourth finger. The man says, repeating after the minister,</em></p>
+<p style="text-align: center">*The best man gives the ring to the groom; the groom says, “This ring.” The groom takes the bride’s left hand the puts the ring on her fourth finger. The man says, repeating after the minister,*</p>
 <blockquote>
 <p>As a pledge and symbol of the vows we have made, with this ring I thee wed, with my body I thee honor: and all my worldly goods I give to thee. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
 </blockquote>
-<p style="text-align: center"><em>The minister will say to the woman,</em></p>
+<p style="text-align: center">*The minister will say to the woman,*</p>
 <blockquote>
 <p>[Name of Bride], what keepsake do you give [Name of Groom] of your promise to fulfill these vows you have made?</p>
 </blockquote>
-<p style="text-align: center"><em>The maid of honor gives the ring to the bride; the bride says, “This ring.” The bride takes the groom’s left hand the puts the ring on his fourth finger. The woman says, repeating after the minister,</em></p>
+<p style="text-align: center">*The maid of honor gives the ring to the bride; the bride says, “This ring.” The bride takes the groom’s left hand the puts the ring on his fourth finger. The woman says, repeating after the minister,*</p>
 <blockquote>
 <p>As a pledge and symbol of the vows we have made, with this ring I am wedded to thee, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
 </blockquote>
@@ -930,11 +930,11 @@ The following three categories denote practices that are not mandated:
 > O Eternal God, Father of our Lord Jesus Christ, Creator and Preserver of all mankind, Giver of all spiritual grace, and the Author of everlasting life: send Your blessing upon these Your servants, this man and this woman, whom we bless in Your name; that as Isaac and Rebecca lived faithfully together in the bonds of matrimony, so may this man and wife surely perform and keep the vow and covenant made between them, of which these rings are a token and pledge. And may they ever remain in perfect love and peace together, and live according to Your laws, through Jesus Christ our Lord. Amen.
 
 <p>Pronouncement</p>
-<p style="text-align: center"><em>Then the minister shall speak to the people,</em></p>
+<p style="text-align: center">*Then the minister shall speak to the people,*</p>
 <blockquote>
 <p>Forasmuch as [Name of Groom] and [Name of Bride] have consented together to holy wedlock, and have witnessed their vow here before God and this company; and have given and pledged their faithfulness to each other by the joining of hands and exchanging of rings: By the authority committed unto me as a Minister of the Church of Jesus Christ, I pronounce that this man and this woman be man and wife, according to the ordinance of God. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
 </blockquote>
-<p style="text-align: center"><em>Then the minister shall join their right hands together, and say,</em></p>
+<p style="text-align: center">*Then the minister shall join their right hands together, and say,*</p>
 
 > Those whom God has joined together, let no man separate.[^directoryForWorship.27]
 > 
@@ -943,7 +943,7 @@ The following three categories denote practices that are not mandated:
 [^directoryForWorship.27]: Matthew 19:6.
 
 <p>Presentation of the Couple</p>
-<p style="text-align: center"><em>The couple turns and faces the congregation. The minister shall say,</em></p>
+<p style="text-align: center">*The couple turns and faces the congregation. The minister shall say,*</p>
 <blockquote>
 <p>I now have the honor of presenting to you: Mr. and Mrs. _______________________.</p>
 </blockquote>
@@ -954,8 +954,8 @@ The following three categories denote practices that are not mandated:
 ## 76. Suggested Form for a Funeral {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent"><a id="76"></a><em>Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.</em></p>
-<p class="no-indent"><em>The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.</em></p>
+<p class="no-indent"><a id="76"></a>*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*</p>
+<p class="no-indent">*The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.*</p>
 <p>Scripture Readings</p>
 <blockquote>
 <p>“Jesus said to her, ‘I am the resurrection and the life; he who believes in Me will live even if he dies, and everyone who lives and believes in Me will never die. Do you believe this?’”[^directoryForWorship.28]</p>
@@ -1013,8 +1013,8 @@ The following three categories denote practices that are not mandated:
 ## 77. Suggested Form for a Child’s Funeral {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent"><a id="77"></a><em>Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.</em></p>
-<p class="no-indent"><em>The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.</em></p>
+<p class="no-indent"><a id="77"></a>*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*</p>
+<p class="no-indent">*The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.*</p>
 <p>Scripture Readings</p>
 <blockquote>
 <p>May the LORD answer you in the day of trouble!<br />
@@ -1073,43 +1073,43 @@ And support you from Zion![^directoryForWorship.34]</p>
 ## 78. Suggested Form for a Graveside Committal Service {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent"><a id="78"></a><em>The following form is from the 1549 Book of Common Prayer, modernized.</em></p>
-<p style="text-align: center"><em>At the grave, while the corpse is made ready to be laid into the earth, the minister shall say,</em></p>
+<p class="no-indent"><a id="78"></a>*The following form is from the 1549 Book of Common Prayer, modernized.*</p>
+<p style="text-align: center">*At the grave, while the corpse is made ready to be laid into the earth, the minister shall say,*</p>
 <blockquote>
 <p>Man that is born of a woman has but a short time to live and is full of misery. He comes up and is cut down, like a flower; he flees like a shadow and never continues in one place.</p>
 <p>In the midst of life, we are in death: and of whom may we seek for relief, but of You, O Lord, who for our sins are justly displeased?</p>
 <p>Yet, O Lord God most holy, O Lord most mighty, O holy and most merciful Savior, deliver us not into the bitter pains of eternal death. You know, O Lord, the secrets of our hearts: shut not your merciful ears to our prayers; but spare us, Lord most holy, O God most mighty, O holy and merciful Savior, O most worthy Judge eternal, suffer us not at our last hour for any pains of death to fall from You.</p>
 </blockquote>
-<p style="text-align: center"><em>Then shall follow this lesson, taken from the fifteenth chapter of the First Epistle to the Corinthians:</em></p>
+<p style="text-align: center">*Then shall follow this lesson, taken from the fifteenth chapter of the First Epistle to the Corinthians:*</p>
 <blockquote>
-<p>But now Christ has been raised from the dead, the first fruits of those who are asleep. For since by a man <em>came</em> death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ the first fruits, after that those who are Christ’s at His coming, then <em>comes</em> the end, when He hands over the kingdom to the God and Father, when He has abolished all rule and all authority and power. For He must reign until He has put all His enemies under His feet. The last enemy that will be abolished is death. For HE HAS PUT ALL THINGS IN SUBJECTION UNDER HIS FEET. But when He says, “All things are put in subjection,” it is evident that He is excepted who put all things in subjection to Him. When all things are subjected to Him, then the Son Himself also will be subjected to the One who subjected all things to Him, so that God may be all in all.</p>
-<p>Otherwise, what will those do who are baptized for the dead? If the dead are not raised at all, why then are they baptized for them? Why are we also in danger every hour? I affirm, brethren, by the boasting in you which I have in Christ Jesus our Lord, I die daily. If from human motives I fought with wild beasts at Ephesus, what does it profit me? If the dead are not raised, LET US EAT AND DRINK, FOR TOMORROW WE DIE. Do not be deceived: “Bad company corrupts good morals.” Become sober-minded as you ought, and stop sinning; for some have no knowledge of God. I speak <em>this</em> to your shame.</p>
-<p>But someone will say, “How are the dead raised? And with what kind of body do they come?” You fool! That which you sow does not come to life unless it dies; and that which you sow, you do not sow the body which is to be, but a bare grain, perhaps of wheat or of something else. But God gives it a body just as He wished, and to each of the seeds a body of its own. All flesh is not the same flesh, but there is one <em>flesh</em> of men, and another flesh of beasts, and another flesh of birds, and another of fish. There are also heavenly bodies and earthly bodies, but the glory of the heavenly is one, and the <em>glory</em> of the earthly is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory.</p>
-<p>So also is the resurrection of the dead. It is sown a perishable <em>body</em>, it is raised an imperishable <em>body</em>; it is sown in dishonor, it is raised in glory; it is sown in weakness, it is raised in power; it is sown a natural body, it is raised a spiritual body. If there is a natural body, there is also a spiritual <em>body</em>. So also it is written, “The first MAN, Adam, BECAME A LIVING SOUL.” The last Adam <em>became</em> a life-giving spirit. However, the spiritual is not first, but the natural; then the spiritual. The first man is from the earth, earthy; the second man is from heaven. As is the earthy, so also are those who are earthy; and as is the heavenly, so also are those who are heavenly. Just as we have borne the image of the earthy, we will also bear the image of the heavenly.</p>
+<p>But now Christ has been raised from the dead, the first fruits of those who are asleep. For since by a man *came* death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ the first fruits, after that those who are Christ’s at His coming, then *comes* the end, when He hands over the kingdom to the God and Father, when He has abolished all rule and all authority and power. For He must reign until He has put all His enemies under His feet. The last enemy that will be abolished is death. For HE HAS PUT ALL THINGS IN SUBJECTION UNDER HIS FEET. But when He says, “All things are put in subjection,” it is evident that He is excepted who put all things in subjection to Him. When all things are subjected to Him, then the Son Himself also will be subjected to the One who subjected all things to Him, so that God may be all in all.</p>
+<p>Otherwise, what will those do who are baptized for the dead? If the dead are not raised at all, why then are they baptized for them? Why are we also in danger every hour? I affirm, brethren, by the boasting in you which I have in Christ Jesus our Lord, I die daily. If from human motives I fought with wild beasts at Ephesus, what does it profit me? If the dead are not raised, LET US EAT AND DRINK, FOR TOMORROW WE DIE. Do not be deceived: “Bad company corrupts good morals.” Become sober-minded as you ought, and stop sinning; for some have no knowledge of God. I speak *this* to your shame.</p>
+<p>But someone will say, “How are the dead raised? And with what kind of body do they come?” You fool! That which you sow does not come to life unless it dies; and that which you sow, you do not sow the body which is to be, but a bare grain, perhaps of wheat or of something else. But God gives it a body just as He wished, and to each of the seeds a body of its own. All flesh is not the same flesh, but there is one *flesh* of men, and another flesh of beasts, and another flesh of birds, and another of fish. There are also heavenly bodies and earthly bodies, but the glory of the heavenly is one, and the *glory* of the earthly is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory.</p>
+<p>So also is the resurrection of the dead. It is sown a perishable *body*, it is raised an imperishable *body*; it is sown in dishonor, it is raised in glory; it is sown in weakness, it is raised in power; it is sown a natural body, it is raised a spiritual body. If there is a natural body, there is also a spiritual *body*. So also it is written, “The first MAN, Adam, BECAME A LIVING SOUL.” The last Adam *became* a life-giving spirit. However, the spiritual is not first, but the natural; then the spiritual. The first man is from the earth, earthy; the second man is from heaven. As is the earthy, so also are those who are earthy; and as is the heavenly, so also are those who are heavenly. Just as we have borne the image of the earthy, we will also bear the image of the heavenly.</p>
 <p>Now I say this, brethren, that flesh and blood cannot inherit the kingdom of God; nor does the perishable inherit the imperishable. Behold, I tell you a mystery; we will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be changed. For this perishable must put on the imperishable, and this mortal must put on immortality. But when this perishable will have put on the imperishable, and this mortal will have put on immortality, then will come about the saying that is written, “DEATH IS SWALLOWED UP in victory. “O DEATH, WHERE IS YOUR VICTORY? O DEATH, WHERE IS YOUR STING?” The sting of death is sin, and the power of sin is the law; but thanks be to God, who gives us the victory through our Lord Jesus Christ.</p>
 </blockquote>
-<p style="text-align: center"><em>Then shall follow this lesson, taken from the fourteenth chapter of the Gospel of John:</em></p>
+<p style="text-align: center">*Then shall follow this lesson, taken from the fourteenth chapter of the Gospel of John:*</p>
 <blockquote>
-<p>“Do not let your heart be troubled; believe in God, believe also in Me. In My Father’s house are many dwelling places; if it were not so, I would have told you; for I go to prepare a place for you. If I go and prepare a place for you, I will come again and receive you to Myself, that where I am, <em>there</em> you may be also. And you know the way where I am going.” Thomas said to Him, “Lord, we do not know where You are going, how do we know the way?” Jesus said to him, “I am the way, and the truth, and the life; no one comes to the Father but through Me.”</p>
+<p>“Do not let your heart be troubled; believe in God, believe also in Me. In My Father’s house are many dwelling places; if it were not so, I would have told you; for I go to prepare a place for you. If I go and prepare a place for you, I will come again and receive you to Myself, that where I am, *there* you may be also. And you know the way where I am going.” Thomas said to Him, “Lord, we do not know where You are going, how do we know the way?” Jesus said to him, “I am the way, and the truth, and the life; no one comes to the Father but through Me.”</p>
 </blockquote>
-<p style="text-align: center"><em>Then the minister shall say,</em></p>
+<p style="text-align: center">*Then the minister shall say,*</p>
 <blockquote>
 <p>Forasmuch as it hath pleased Almighty God in His infinite wisdom and mercy to take out of this world the soul of our [brother/sister] departed, we now commit [his/her] body to the ground, earth to earth, ashes to ashes, and dust to dust.</p>
 </blockquote>
-<p style="text-align: center"><em>Then shall follow this lesson, taken from the fourth chapter of the Apostle Paul’s First Epistle to the Thessalonians,</em></p>
+<p style="text-align: center">*Then shall follow this lesson, taken from the fourth chapter of the Apostle Paul’s First Epistle to the Thessalonians,*</p>
 <blockquote>
-<p>But we do not want you to be uninformed, brethren, about those who are asleep, so that you will not grieve as do the rest who have no hope. For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus. For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord, will not precede those who have fallen asleep. For the Lord Himself will descend from heaven with a shout, with the voice of <em>the</em> archangel and with the trumpet of God, and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord. Therefore comfort one another with these words.</p>
+<p>But we do not want you to be uninformed, brethren, about those who are asleep, so that you will not grieve as do the rest who have no hope. For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus. For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord, will not precede those who have fallen asleep. For the Lord Himself will descend from heaven with a shout, with the voice of *the* archangel and with the trumpet of God, and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord. Therefore comfort one another with these words.</p>
 </blockquote>
-<p style="text-align: center"><em>Then shall be said,</em></p>
+<p style="text-align: center">*Then shall be said,*</p>
 <blockquote>
 <p>I heard a voice from heaven, saying, “Write, ‘Blessed are the dead who die in the Lord from now on!’” “Yes,” says the Spirit, “so that they may rest from their labors,&#8230;”</p>
 </blockquote>
-<p style="text-align: center"><em>Then the minister shall say,</em></p>
+<p style="text-align: center">*Then the minister shall say,*</p>
 <blockquote>
 <p>Let us pray.</p>
 <p>Almighty God, our heavenly Father, who, in thy perfect wisdom and mercy has ended for your servants departed, the voyage of this troubled life, grant we ask you, that we who are still to continue our course amidst earthly dangers, temptations, and troubles may evermore be protected by Your mercy, and finally come to the haven of eternal salvation, through Jesus Christ our Lord. Amen.</p>
 </blockquote>
-<p style="text-align: center"><em>Then the minister shall pronounce a benediction,</em></p>
+<p style="text-align: center">*Then the minister shall pronounce a benediction,*</p>
 <blockquote>
 <p>The LORD bless you, and keep you;<br />
 The LORD make His face shine on you,<br />
@@ -1124,7 +1124,7 @@ And give you peace.</p>
 ## 79. Suggested Form for Infant Dedication {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent"><a id="79"></a><em>While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. The following is a sample form which may be used where parents would like to publicly dedicate their children to the Lord.</em></p>
+<p class="no-indent"><a id="79"></a>*While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. The following is a sample form which may be used where parents would like to publicly dedicate their children to the Lord.*</p>
 <p><strong>Explanation of Infant Dedication</strong></p>
 <blockquote>
 <p>It has always been a custom among God’s people to mark the blessing of the Lord in the birth of a child. Today, this family [these families] has come to give thanks to God for bringing this child safely into the world, to continue the duty and privilege given our father Adam in naming this child, and to testify to God’s promises concerning our children. We have therefore set aside this time to seek God’s blessing on this child, and for these parents to proclaim their commitment to raise him within the household of God, the Church, and to tenderly care for, disciple, and teach him the truths of Scripture. Alongside them, our church family pledges to be responsible for this child, to share in their duty to care for him, and to assist them in their teaching and discipleship.</p>
