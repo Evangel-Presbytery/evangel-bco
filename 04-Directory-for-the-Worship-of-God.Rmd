@@ -379,7 +379,7 @@ The following three categories denote practices that are not mandated:
 ## 58. A Note on Infant Dedication {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent">[](){58}While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. A suggested ceremony for infant dedication can be found in BCO <a href="#79">79</a>.</p>
+<p class="no-indent">[](){58}While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. A suggested ceremony for infant dedication can be found in BCO [79](#79).</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-59-the-baptism-of-those-professing-faith" title="59. The Baptism of Those Professing Faith">
 
@@ -388,7 +388,7 @@ The following three categories denote practices that are not mandated:
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch59">
 <li class="no-indent">[](){59}<strong>Prerequisites</strong>
-<p class="no-indent">He who seeks to be baptized shall make a public profession of his faith before the congregation prior to the baptism. He shall previously have received instruction in the Christian faith in accordance with the confessional standards of this Church, including instruction as to the meaning of baptism, and have also made before the session of the church a credible profession of faith in Christ according to the provisions of BCO <a href="#61.3">61.3</a>.</p>
+<p class="no-indent">He who seeks to be baptized shall make a public profession of his faith before the congregation prior to the baptism. He shall previously have received instruction in the Christian faith in accordance with the confessional standards of this Church, including instruction as to the meaning of baptism, and have also made before the session of the church a credible profession of faith in Christ according to the provisions of BCO [61.3](#61.3).</p>
 </li>
 <li class="no-indent"><strong>The Administration of Baptism to Those Professing Faith</strong>
 <ol type="a">
@@ -553,7 +553,7 @@ The following three categories denote practices that are not mandated:
 <li class="no-indent">In order to aid those who contemplate making public profession or reaffirmation of faith in Christ to understand the implication of this significant act and to perform it meaningfully, the pastor or someone approved by the session shall conduct classes in Christian doctrine and life, both for the children of the church and for any others who may manifest an interest in the way of salvation.</li>
 <li class="no-indent">[](){61.3}In order for the session to assure itself so far as possible that the candidate makes a credible profession, it shall examine him to ascertain that he possesses the knowledge requisite for saving faith in the Lord Jesus Christ, relies on the merits of Christ alone, and is determined by the grace of God to lead a Christian life.</li>
 <li class="no-indent">In the public reception of church members, the minister shall follow the directions prescribed in this chapter, but he is not required to use the exact language of the forms (below), which are suggested as appropriate. He may employ these or similar forms, using his own liberty and godly wisdom as he deems best for the edification of the people.</li>
-<li class="no-indent">Whether baptized or unbaptized, children of communing members are non-communing members of the particular church and come to the Lord’s Table, also, by a credible profession of faith. Normally such professions should be actively sought in the regular course of the elder board’s shepherding work. Because God has limited the ability of infants and very young children to articulate a credible profession of faith, demonstrate the fruit of repentance, and discern the Lord’s body, they do not yet qualify for admission to communicant membership and the Lord’s Table.[^directoryForWorship.23] For further explanation, see BCO <a href="#1.3">1.3</a>.</li>
+<li class="no-indent">Whether baptized or unbaptized, children of communing members are non-communing members of the particular church and come to the Lord’s Table, also, by a credible profession of faith. Normally such professions should be actively sought in the regular course of the elder board’s shepherding work. Because God has limited the ability of infants and very young children to articulate a credible profession of faith, demonstrate the fruit of repentance, and discern the Lord’s body, they do not yet qualify for admission to communicant membership and the Lord’s Table.[^directoryForWorship.23] For further explanation, see BCO [1.3](#1.3).</li>
 
 [^directoryForWorship.23]: Calvin’s process for allowing covenant children to come to the Lord’s Supper is described by Scott Manetsch as follows: “By the time that students completed their studies at the schola privata at age eleven or twelve, they would have worked through Calvin’s *Catechism* six or seven times and most would have mastered its doctrinal contents. It is important to note, however, that admission to the Lord’s Table was not tied directly to a child’s level of schooling or age. The *Ecclesiastical Ordinances* made clear that boys and girls were welcomed to the Lord’s Supper only after they had reached the age of discretion (around ten years of age) and were able satisfactorily to articulate the basic doctrines of the reformed religion and confess it as their own. Toward that end, four times a year on the Sunday before Geneva’s quarterly communion service, young people who were prepared to confess their Christian faith stood in front of the worshiping congregation and, in response to the ministers’ questions, recited the shortened form of the *Catechism* that served as their formal profession of faith. A week later, they were invited for the first time to feed upon the body and blood of Jesus Christ offered in the sacred meal of the Lord’s Table.” *Calvin’s Company of Pastors: Pastoral Care and the Emerging Reformed Church, 1536-1609* (Oxford University Press, 2013), 270-71. Additionally: “Another primary source, though, describes the age of discretion and Geneva’s children coming to the Lord’s table as between ages eight and ten: ‘Throughout all this, somebody else reads from the pulpit in the vernacular, with head uncovered, the Gospel of Saint John, from the beginning of the thirteenth chapter, until everyone has taken their pieces, both men and women, each one at their different tables, along with the boys and girls of around eight to ten years of age.’” Ibid., 275, quoting Antoince Cathelan, *Passevent Parisien*, 74.
 
@@ -601,14 +601,14 @@ The following three categories denote practices that are not mandated:
 <p>This part of the service shall be concluded with prayer.</p>
 </li>
 </ol>
-<p class="no-indent">*For children of paedo-baptistic parents making a profession of faith in a credo-baptistic church, please see BCO <a href="#66.3">66.3</a>, <a href="#66.4">66.4</a>.*</p>
+<p class="no-indent">*For children of paedo-baptistic parents making a profession of faith in a credo-baptistic church, please see BCO [66.3](#66.3), [66.4](#66.4).*</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-63-reception-by-letter-of-transfer-from-another-church-within-evangel-presbytery" title="63. Reception by Letter of Transfer from Another Church within Evangel Presbytery">
 
 ## 63. Reception by Letter of Transfer from Another Church within Evangel Presbytery {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent">[](){63}When a person is received into membership on letter of transfer from another Evangel Presbytery congregation, that reception is effective at the time of the action of the session to receive him. Nevertheless, a session may deem it appropriate to welcome that person publicly into the congregation and allow him to give public expression to his faith. If this is done, it shall be made clear to the congregation that the person has already been received by action of the session. Nevertheless, the minister may address him in appropriate words similar to those found below in BCO <a href="#64.4">64.4</a>.</p>
+<p class="no-indent">[](){63}When a person is received into membership on letter of transfer from another Evangel Presbytery congregation, that reception is effective at the time of the action of the session to receive him. Nevertheless, a session may deem it appropriate to welcome that person publicly into the congregation and allow him to give public expression to his faith. If this is done, it shall be made clear to the congregation that the person has already been received by action of the session. Nevertheless, the minister may address him in appropriate words similar to those found below in BCO [64.4](#64.4).</p>
 </section>
 <section data-type="chapter" class="chapter" id="chapter-slug-64-reception-by-letter-of-transfer-from-another-church-of-like-faith-and-practice" title="64. Reception by Letter of Transfer from Another Church of Like Faith and Practice">
 
@@ -701,7 +701,7 @@ The following three categories denote practices that are not mandated:
 
 <p data-type="subtitle" class="chapter-number"></p>
 <ol class="ch66">
-<li class="no-indent">When an unbaptized person is received into membership by profession of faith, that reception is effective at the time of his public profession of faith and baptism. He shall be received in accord with BCO <a href="#59">59</a>. When a previously baptized person who is not a member of the congregation and has not previously made a confession of his faith is received into membership by profession of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person’s public reception, the minister shall address him in these or like words:<br />
+<li class="no-indent">When an unbaptized person is received into membership by profession of faith, that reception is effective at the time of his public profession of faith and baptism. He shall be received in accord with BCO [59](#59). When a previously baptized person who is not a member of the congregation and has not previously made a confession of his faith is received into membership by profession of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person’s public reception, the minister shall address him in these or like words:<br />
 <blockquote>
 <p>Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that our Savior has sought and found you and through faith you have become a partaker of the covenant of grace. We rejoice that in His grace He has brought you to this congregation and given you the desire to profess your faith before us and to unite with us. We ask that you testify before us to the faith that you profess by giving assent to the following questions.</p>
 </blockquote>
@@ -802,7 +802,7 @@ The following three categories denote practices that are not mandated:
 <li class="no-indent">[](){72.3}During the solemnization of the marriage, the three Scriptural purposes of marriage as described by the Westminster Confession of Faith shall be stated: “Marriage was ordained for the mutual help of husband and wife, for the increase of mankind with a legitimate issue, and of the Church with an holy seed; and for preventing of uncleanness.” Additionally, the man is required to vow to love and cherish the woman, and the woman is required to vow to love, cherish, and obey the man.</li>
 <li class="no-indent">Marriage is to be a lifelong, monogamous union between one man and one woman,[^directoryForWorship.25] in accordance with the Word of God.</li>
 
-[^directoryForWorship.25]: For the intended meaning of the words “man” and “woman,” please refer to BCO <a href="#28">28</a>, particularly <a href="#28.7">section 7</a>.
+[^directoryForWorship.25]: For the intended meaning of the words “man” and “woman,” please refer to BCO [28](#28), particularly [section 7](#28.7).
 
 <li class="no-indent">The parties should be of such years of discretion as to be capable of making their own choice; and if they be under age, or live with their parents, the consent of the parents or others, under whose care they are, should be previously obtained, and well proven to the minister before he proceeds to solemnize the marriage.</li>
 <li class="no-indent">Parents should neither compel their children to marry contrary to their will, nor deny their consent without just and significant reasons.</li>
@@ -841,7 +841,7 @@ The following three categories denote practices that are not mandated:
 ## 75. Suggested Form for the Solemnization of Marriage {-}
 
 <p data-type="subtitle" class="chapter-number"></p>
-<p class="no-indent">[](){75}*The requirements of BCO <a href="#72">72</a>, particularly <a href="#72.3">section 3</a>, are required regardless of what liturgy is used for the marriage ceremony.*</p>
+<p class="no-indent">[](){75}*The requirements of BCO [72](#72), particularly [section 3](#72.3), are required regardless of what liturgy is used for the marriage ceremony.*</p>
 <p class="no-indent">*The form that follows in this section is based upon the marriage solemnization found in the 1549 Book of Common Prayer*</p>
 <p>Prelude</p>
 <p>Seating of Mothers</p>
