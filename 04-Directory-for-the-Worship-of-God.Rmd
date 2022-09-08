@@ -565,6 +565,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     > Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that you have accepted God’s promise of salvation and publicly confessed your faith in the Savior, Jesus Christ. We rejoice that God, in His gracious providence, has brought you into this congregation and given you a desire to reaffirm the faith that you have previously professed, and to unite with us. We ask that you testify before us to the faith that you profess by giving assent to the following questions.
     
 2. The minister shall then require the person to profess publicly his Christian faith by giving assent to these questions:  
+
     > (1) Do you believe in God the Father Almighty, Maker of heaven and earth; and in Jesus Christ His only Son our Lord; and in the Holy Spirit, the Lord and Giver of life? 
     > (2) Do you acknowledge yourself to be a sinner in the sight of God, justly deserving His wrath, and without hope apart from His sovereign mercy? 
     > (3) Do you believe the Bible, consisting of the Old and New Testaments, to be the infallible Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation? 
@@ -600,6 +601,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     > Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that our Savior has sought and found you and through faith you have become a partaker of the covenant of grace. We rejoice that in His grace He has brought you to this congregation and given you the desire to profess your faith before us and to unite with us. We ask that you testify before us to the faith that you profess by giving assent to the following questions.
     
 2. The minister shall then require the person to profess publicly his Christian faith by giving assent to these questions:  
+
     > (1) Do you believe in God the Father Almighty, Maker of heaven and earth; and in Jesus Christ His only Son our Lord; and in the Holy Spirit, the Lord and Giver of life? 
     > (2) Do you acknowledge yourself to be a sinner in the sight of God, justly deserving His wrath, and without hope apart from His sovereign mercy? 
     > (3) Do you believe the Bible, consisting of the Old and New Testaments, to be the infallible Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation? 
@@ -728,7 +730,10 @@ Bride’s Entrance
 
 Words of Institution
 
-<p style="text-align: center">*The Minister says,*</p>
+::: {.center data-latex=""}
+*The Minister says,*
+:::
+
 > Dearly beloved, we are gathered here together in the sight of God, and in the presence of these witnesses, to join together this man and this woman in holy matrimony. Marriage is an honorable estate, instituted by God in the garden in the time of man’s innocence, before the corruption of sin, and signifying unto us the mystical union between Christ and His Church. This holy estate Christ adorned and beautified with His presence and first miracle in Cana of Galilee, and is commended by St. Paul to be honorable among all men.
 > 
 > Therefore, it is not to be entered into lightly or unadvisedly, nor is it to be undertaken loosely as satisfaction for carnal lusts, as if men were unrestrained animals with no understanding; but rather, it is to be sought reverently, discreetly, advisedly, soberly, and in the fear of God. In ordaining the gift of marriage, our Lord has commended to us three purposes for it. First, marriage is given for the mutual society, help, and comfort that man and wife should have from the other, both in prosperity and adversity. Second, marriage is given for the procreation of children, to be brought up in the fear and nurture of the Lord, and to the praise of God. Third, marriage is instituted as a remedy against sin, and to avoid fornication, so that those who are married might live in the purity of marriage, and keep themselves undefiled as members of Christ’s body.
