@@ -1,6 +1,7 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
 ]{book}
@@ -68,13 +69,29 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=cyan,
-    }
+
+\usepackage[a4paper]{geometry}
+\geometry{left=2cm}
+\geometry{right=2cm}
+\geometry{bottom=2cm}
+\geometry{top=2cm}
+
+%\usepackage{hyperref}
+%\hypersetup{
+%    colorlinks=true,
+%    linkcolor=blue,
+%    filecolor=magenta,
+%    urlcolor=cyan,
+%    }
+
+% https://tex.stackexchange.com/a/233271
+\usepackage[explicit]{titlesec}
+\titleformat{name=\section,numberless}[hang]{}{}{0cm}{%
+  \LARGE #1\markboth{#1}{#1}%
+}
+
+\clearpage\pagenumbering{roman}
+\frontmatter
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -86,17 +103,25 @@
 \hypersetup{
   pdftitle={Evangel Presbytery Book of Church Order},
   pdfauthor={Evangel Presbytery},
-  hidelinks,
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
   pdfcreator={LaTeX via pandoc}}
 
 \title{Evangel Presbytery Book of Church Order}
 \author{Evangel Presbytery}
-\date{2022-09-08}
+\date{2022-09-09}
 
 \begin{document}
 \maketitle
 
+\mainmatter
+\pagenumbering{roman}
+
 {
+\hypersetup{linkcolor=}
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
@@ -105,6 +130,9 @@
 \addcontentsline{toc}{chapter}{Welcome}
 
 This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at \url{https://bco.evangelpresbytery.com} and download the \href{https://bco.evangelpresbytery.com/evangel-presbytery-bco.pdf}{latest PDF version here}. A record of the changes can be found in the \href{https://bco.evangelpresbytery.com/updates.html}{Updates} section at the end of the book.
+
+\clearpage
+\setcounter{page}{1}\pagenumbering{arabic}
 
 \hypertarget{preface}{%
 \chapter*{Preface}\label{preface}}
@@ -420,12 +448,24 @@ The Constitution of Evangel Presbytery, which is subject to and subordinate to t
     \item
       If a pastor is being ordained and/or installed at the service, the organizing commission shall act according to the provisions of BCO \protect\hyperlink{23}{23} so far as they may be applicable.
     \item
-      A member of the organizing commission shall require communicant members of the mission church present to enter into covenant, by answering the following question affirmatively:\\
-      \textgreater{} Do you, in reliance on God for strength, solemnly promise and covenant that you will walk together as a particular church, on the principles of the faith and order of Evangel Presbytery, and that you will be zealous and faithful in maintaining the purity and peace of the whole body?
-    \item
-      A member of the organizing commission shall then say:\\
-      \textgreater{} I now pronounce and declare that you are constituted a church according to the Word of God and the faith and order of Evangel Presbytery. In the name of the Father and of the Son and of the Holy Spirit. Amen.
+      A member of the organizing commission shall require communicant members of the mission church present to enter into covenant, by answering the following question affirmatively:
     \end{enumerate}
+
+    \begin{quote}
+    Do you, in reliance on God for strength, solemnly promise and covenant that you will walk together as a particular church, on the principles of the faith and order of Evangel Presbytery, and that you will be zealous and faithful in maintaining the purity and peace of the whole body?
+    \end{quote}
+
+    \begin{enumerate}
+    \def\labelenumiii{\roman{enumiii}.}
+    \setcounter{enumiii}{3}
+    \tightlist
+    \item
+      A member of the organizing commission shall then say:
+    \end{enumerate}
+
+    \begin{quote}
+    I now pronounce and declare that you are constituted a church according to the Word of God and the faith and order of Evangel Presbytery. In the name of the Father and of the Son and of the Holy Spirit. Amen.
+    \end{quote}
   \end{enumerate}
 \item
   Upon organization, the newly elected session should meet as soon as is practicable to elect a stated clerk and formulate a budget. If there is no pastor, the session may elect as moderator one of their own number or any teaching elder of the Presbytery with Presbytery's approval. Alternatively, the administrative committee has the power of committee to appoint a moderator for the new session, giving approval on behalf of Presbytery. Further, if there is no pastor, action shall be taken to secure, as soon as practicable, the regular administration of Word and Sacraments.
@@ -854,7 +894,7 @@ The Constitution of Evangel Presbytery, which is subject to and subordinate to t
   Record shall be made of the licensure in the following or like form:
 
   \begin{quote}
-  At\_\_\_\_\_\_\_\_\_\_\_\_\_, the \_\_\_\_\_\_\_\_\_\_day of\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Presbytery, having received testimonials commending \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, proceeded to submit him to the prescribed examination for licensure, which was met to the approval of the Presbytery. Having satisfactorily answered the questions for licensure, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ was licensed by the Presbytery to preach the Gospel within the bounds of this Presbytery.
+  At \_\_\_\_\_\_\_\_\_\_\_\_\_, the \_\_\_\_\_\_\_\_ day of\_\_\_\_\_\_\_\_, the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Presbytery, having received testimonials commending \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, proceeded to submit him to the prescribed examination for licensure, which was met to the approval of the Presbytery. Having satisfactorily answered the questions for licensure, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ was licensed by the Presbytery to preach the Gospel within the bounds of this Presbytery.
   \end{quote}
 \item
   The license to preach the Gospel shall expire at the end of four years. The Presbytery may, if it thinks proper, renew it without further examination. The licentiate must apply for renewal prior to expiration. If the license expires, the stated clerk shall report the expiration to the Presbytery and to the individual's Session, and such action shall be recorded in the minutes. The procedures of BCO \protect\hyperlink{21.2}{21.2} must be followed for re-licensure and such fact shall be recorded in the minutes. The license may be terminated at any time by a simple majority vote of the Presbytery. The Presbytery shall always record its reasons for this action in its minutes.
@@ -3866,112 +3906,102 @@ Father, please guide these parents with your counsel as they train and teach the
 \addcontentsline{toc}{section}{80. The Creeds}
 
 \protect\hypertarget{chapter-slug-80-the-creeds}{\href{}{}}
+\protect\hypertarget{80}{\href{}{}}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
-  \protect\hypertarget{80}{\href{}{}}\textbf{The Apostles' Creed}
+\hypertarget{the-apostles-creed}{%
+\subsection*{\texorpdfstring{1. \textbf{The Apostles' Creed}}{1. The Apostles' Creed}}\label{the-apostles-creed}}
+\addcontentsline{toc}{subsection}{1. \textbf{The Apostles' Creed}}
 
-  \begin{quote}
-  I believe in God, the Father Almighty,\\
-  Maker of heaven and earth,\\
-  and in Jesus Christ, His only Son, our Lord:
+\begin{quote}
+I believe in God, the Father Almighty,\\
+Maker of heaven and earth,\\
+and in Jesus Christ, His only Son, our Lord:
 
-  Who was conceived by the Holy Ghost,\footnote{Or, ``Holy Spirit.''}\\
-  born of the virgin Mary,\\
-  suffered under Pontius Pilate,\\
-  was crucified, dead, and buried;
+Who was conceived by the Holy Ghost,\footnote{Or, ``Holy Spirit.''}\\
+born of the virgin Mary,\\
+suffered under Pontius Pilate,\\
+was crucified, dead, and buried;
 
-  He descended into hell;
+He descended into hell;
 
-  The third day He arose again from the dead;
+The third day He arose again from the dead;
 
-  He ascended into heaven,\\
-  and sitteth\footnote{Or, ``sits.''} on the right hand of God the Father Almighty;\\
-  from thence\footnote{Or, ``there.''} He shall come to judge the quick\footnote{Or, ``living.''} and the dead.
+He ascended into heaven,\\
+and sitteth\footnote{Or, ``sits.''} on the right hand of God the Father Almighty;\\
+from thence\footnote{Or, ``there.''} He shall come to judge the quick\footnote{Or, ``living.''} and the dead.
 
-  I believe in the Holy Ghost,\footnote{Or, ``Holy Spirit.''}\\
-  the holy catholic\footnote{Or, ``universal.''} church,\\
-  the communion of saints,\\
-  the forgiveness of sins,\\
-  the resurrection of the body,\\
-  and the life everlasting.
+I believe in the Holy Ghost,\footnote{Or, ``Holy Spirit.''}\\
+the holy catholic\footnote{Or, ``universal.''} church,\\
+the communion of saints,\\
+the forgiveness of sins,\\
+the resurrection of the body,\\
+and the life everlasting.
 
-  Amen.
-  \end{quote}
-\end{enumerate}
+Amen.
+\end{quote}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
-\item
-  \textbf{The Nicene Creed}
+\hypertarget{the-nicene-creed}{%
+\subsection*{\texorpdfstring{2. \textbf{The Nicene Creed}}{2. The Nicene Creed}}\label{the-nicene-creed}}
+\addcontentsline{toc}{subsection}{2. \textbf{The Nicene Creed}}
 
-  \begin{quote}
-  We believe in one God, the Father Almighty,\\
-  Maker of heaven and earth,\\
-  and of all things visible and invisible.
+\begin{quote}
+We believe in one God, the Father Almighty,\\
+Maker of heaven and earth,\\
+and of all things visible and invisible.
 
-  And in one Lord Jesus Christ, the only-begotten Son of God,\\
-  begotten of the Father before all worlds;\\
-  God of God, Light of Light,\\
-  very God of very God;\\
-  begotten, not made,\\
-  being of one substance with the Father,\\
-  by whom all things were made.\\
-  Who, for us men and for our salvation,\\
-  came down from heaven,\\
-  and was incarnate by the Holy Spirit of the virgin Mary,\\
-  and was made man;\\
-  and was crucified also for us under Pontius Pilate;\\
-  He suffered and was buried;\\
-  and the third day He rose again, according to the Scriptures;\\
-  and ascended into heaven, and sits on the right hand of the Father;\\
-  and He shall come again, with glory, to judge the quick\footnote{Or, ``living.''} and the dead;\\
-  whose kingdom shall have no end.
+And in one Lord Jesus Christ, the only-begotten Son of God,\\
+begotten of the Father before all worlds;\\
+God of God, Light of Light,\\
+very God of very God;\\
+begotten, not made,\\
+being of one substance with the Father,\\
+by whom all things were made.\\
+Who, for us men and for our salvation,\\
+came down from heaven,\\
+and was incarnate by the Holy Spirit of the virgin Mary,\\
+and was made man;\\
+and was crucified also for us under Pontius Pilate;\\
+He suffered and was buried;\\
+and the third day He rose again, according to the Scriptures;\\
+and ascended into heaven, and sits on the right hand of the Father;\\
+and He shall come again, with glory, to judge the quick\footnote{Or, ``living.''} and the dead;\\
+whose kingdom shall have no end.
 
-  And we believe in the Holy Spirit,\\
-  the Lord and Giver of Life;\\
-  who proceeds from the Father and the Son;\\
-  who with the Father and the Son together is worshiped and glorified;\\
-  who spoke by the prophets.
+And we believe in the Holy Spirit,\\
+the Lord and Giver of Life;\\
+who proceeds from the Father and the Son;\\
+who with the Father and the Son together is worshiped and glorified;\\
+who spoke by the prophets.
 
-  And we believe (in) one holy catholic\footnote{Or, ``universal.''} and apostolic Church.\\
-  We acknowledge one baptism for the remission of sins;\\
-  and we look for the resurrection of the dead,\\
-  and the life of the world to come.
+And we believe (in) one holy catholic\footnote{Or, ``universal.''} and apostolic Church.\\
+We acknowledge one baptism for the remission of sins;\\
+and we look for the resurrection of the dead,\\
+and the life of the world to come.
 
-  Amen.
-  \end{quote}
-\end{enumerate}
+Amen.
+\end{quote}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{2}
-\item
-  \textbf{The Athanasian Creed}
+\hypertarget{the-athanasian-creed}{%
+\subsection*{\texorpdfstring{3. \textbf{The Athanasian Creed}}{3. The Athanasian Creed}}\label{the-athanasian-creed}}
+\addcontentsline{toc}{subsection}{3. \textbf{The Athanasian Creed}}
 
-  \begin{quote}
-  {[}1{]} Whoever desires to be saved should above all hold to the catholic\footnote{Or, ``universal.''} faith.~{[}2{]} Anyone who does not keep it whole and unbroken will doubtless perish eternally.
+\begin{quote}
+{[}1{]} Whoever desires to be saved should above all hold to the catholic\footnote{Or, ``universal.''} faith.~{[}2{]} Anyone who does not keep it whole and unbroken will doubtless perish eternally.
 
-  {[}3{]} Now this is the catholic faith: that we worship one God in Trinity and~the Trinity in unity, {[}4{]} neither confounding their persons nor dividing the~essence. {[}5{]} For the person of the Father is a distinct person, the person of the Son is another, and that of the Holy Spirit still another. {[}6{]} But the divinity of the Father, Son, and Holy Spirit is one, the glory equal, the majesty coeternal. {[}7{]} Such as the Father is, such is the Son and such is the Holy Spirit. {[}8{]} The Father is uncreated, the Son is uncreated, the Holy Spirit is uncreated. {[}9{]} The Father is immeasurable, the Son is immeasurable, the Holy Spirit is immeasurable. {[}10{]} The Father is eternal, the Son is eternal, the Holy Spirit is eternal. {[}11{]} And yet there are not three eternal beings; there is but one eternal being. {[}12{]} So too there are not three uncreated or immeasurable beings; there is but one uncreated and immeasurable being. {[}13{]} Similarly the Father is almighty, the Son is almighty, the Holy Spirit is almighty. {[}14{]} Yet there are not three almighty beings; there is but one almighty being. {[}15{]} Thus, the Father is God, the Son is God, the Holy Spirit is God. {[}16{]} Yet there are not three gods; there is but one God. {[}17{]} Thus, the Father is Lord, the Son is Lord, the Holy Spirit is Lord. {[}18{]} Yet there are not three lords; there is but one Lord. {[}19{]} Just as Christian truth compels us to confess each person individually as both God and Lord, {[}20{]} so catholic religion forbids us to say that there are three gods or lords. {[}21{]} The Father was neither made nor created nor begotten from anyone. {[}22{]} The Son was neither made nor created; He was begotten from the Father alone. {[}23{]} The Holy Spirit was neither made nor created nor begotten; He proceeds from the Father and the Son. {[}24{]} Accordingly, there is one Father, not three fathers; there is one Son, not three sons; there is one Holy Spirit, not three holy spirits. {[}25{]} None in this Trinity is before or after, none is greater or smaller; {[}26{]} in their entirety the three persons are coeternal and coequal with each other. {[}27{]} So in everything, as was said earlier, the unity in Trinity, and the Trinity in unity, is to be worshiped. {[}28{]} Anyone then who desires to be saved should think thus about the Trinity.
+{[}3{]} Now this is the catholic faith: that we worship one God in Trinity and~the Trinity in unity, {[}4{]} neither confounding their persons nor dividing the~essence. {[}5{]} For the person of the Father is a distinct person, the person of the Son is another, and that of the Holy Spirit still another. {[}6{]} But the divinity of the Father, Son, and Holy Spirit is one, the glory equal, the majesty coeternal. {[}7{]} Such as the Father is, such is the Son and such is the Holy Spirit. {[}8{]} The Father is uncreated, the Son is uncreated, the Holy Spirit is uncreated. {[}9{]} The Father is immeasurable, the Son is immeasurable, the Holy Spirit is immeasurable. {[}10{]} The Father is eternal, the Son is eternal, the Holy Spirit is eternal. {[}11{]} And yet there are not three eternal beings; there is but one eternal being. {[}12{]} So too there are not three uncreated or immeasurable beings; there is but one uncreated and immeasurable being. {[}13{]} Similarly the Father is almighty, the Son is almighty, the Holy Spirit is almighty. {[}14{]} Yet there are not three almighty beings; there is but one almighty being. {[}15{]} Thus, the Father is God, the Son is God, the Holy Spirit is God. {[}16{]} Yet there are not three gods; there is but one God. {[}17{]} Thus, the Father is Lord, the Son is Lord, the Holy Spirit is Lord. {[}18{]} Yet there are not three lords; there is but one Lord. {[}19{]} Just as Christian truth compels us to confess each person individually as both God and Lord, {[}20{]} so catholic religion forbids us to say that there are three gods or lords. {[}21{]} The Father was neither made nor created nor begotten from anyone. {[}22{]} The Son was neither made nor created; He was begotten from the Father alone. {[}23{]} The Holy Spirit was neither made nor created nor begotten; He proceeds from the Father and the Son. {[}24{]} Accordingly, there is one Father, not three fathers; there is one Son, not three sons; there is one Holy Spirit, not three holy spirits. {[}25{]} None in this Trinity is before or after, none is greater or smaller; {[}26{]} in their entirety the three persons are coeternal and coequal with each other. {[}27{]} So in everything, as was said earlier, the unity in Trinity, and the Trinity in unity, is to be worshiped. {[}28{]} Anyone then who desires to be saved should think thus about the Trinity.
 
-  {[}29{]} But it is necessary for eternal salvation that one also believe in the incarnation of our Lord Jesus Christ faithfully. {[}30{]} Now this is the true faith: that we believe and confess that our Lord Jesus Christ, God's Son, is both God and man, equally. {[}31{]} He is God from the essence of the Father, begotten before time; and He is man from the essence of His mother, born in time; {[}32{]} completely God, completely man, with a rational soul and human flesh; {[}33{]} equal to the Father as regards divinity, less than the Father as regards humanity. {[}34{]} Although He is God and man, yet Christ is not two, but one. {[}35{]} He is one, however, not by His divinity being turned into flesh, but by God's taking humanity to Himself. {[}36{]} He is one, certainly not by the blending of His essence, but by the unity of His person. {[}37{]} For just as one man is both rational soul and flesh, so too the one Christ is both God and man. {[}38{]} He suffered for our salvation; He descended to hell; He arose from the dead on the third day; {[}39{]} He ascended to heaven; He is seated at the Father's right hand; {[}40{]} from there He will come to judge the living and the dead. {[}41{]} At His coming all people will arise bodily {[}42{]} and give an accounting of their own deeds. {[}43{]} Those who have done good will enter eternal life, and those who have done evil will enter eternal fire.
+{[}29{]} But it is necessary for eternal salvation that one also believe in the incarnation of our Lord Jesus Christ faithfully. {[}30{]} Now this is the true faith: that we believe and confess that our Lord Jesus Christ, God's Son, is both God and man, equally. {[}31{]} He is God from the essence of the Father, begotten before time; and He is man from the essence of His mother, born in time; {[}32{]} completely God, completely man, with a rational soul and human flesh; {[}33{]} equal to the Father as regards divinity, less than the Father as regards humanity. {[}34{]} Although He is God and man, yet Christ is not two, but one. {[}35{]} He is one, however, not by His divinity being turned into flesh, but by God's taking humanity to Himself. {[}36{]} He is one, certainly not by the blending of His essence, but by the unity of His person. {[}37{]} For just as one man is both rational soul and flesh, so too the one Christ is both God and man. {[}38{]} He suffered for our salvation; He descended to hell; He arose from the dead on the third day; {[}39{]} He ascended to heaven; He is seated at the Father's right hand; {[}40{]} from there He will come to judge the living and the dead. {[}41{]} At His coming all people will arise bodily {[}42{]} and give an accounting of their own deeds. {[}43{]} Those who have done good will enter eternal life, and those who have done evil will enter eternal fire.
 
-  {[}44{]} This is the catholic faith: that one cannot be saved without believing it firmly and faithfully.
-  \end{quote}
-\end{enumerate}
+{[}44{]} This is the catholic faith: that one cannot be saved without believing it firmly and faithfully.
+\end{quote}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
-\item
-  \textbf{The Chalcedonian Creed}
+\hypertarget{the-chalcedonian-creed}{%
+\subsection*{\texorpdfstring{4. \textbf{The Chalcedonian Creed}}{4. The Chalcedonian Creed}}\label{the-chalcedonian-creed}}
+\addcontentsline{toc}{subsection}{4. \textbf{The Chalcedonian Creed}}
 
-  \begin{quote}
-  We, then, following the holy Fathers, all with one consent, teach men to confess one and the same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable\footnote{Or, ``rational.''} soul and body; consubstantial with the Father according to the Godhead, and consubstantial with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the God-bearer,\footnote{τῆς θεοτόκου, sometimes rendered ``Mother of God.''} according to the Manhood; one and the same Christ, Son, Lord, Only-begotten, to be acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably; the distinction of natures being by no means taken away by the union, but rather the property of each nature being preserved, and concurring in one Person and one Subsistence, not parted or divided into two persons, but one and the same Son, and only begotten, God the Word, the Lord Jesus Christ, as the prophets from the beginning have declared concerning Him, and the Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
-  \end{quote}
-\end{enumerate}
+\begin{quote}
+We, then, following the holy Fathers, all with one consent, teach men to confess one and the same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable\footnote{Or, ``rational.''} soul and body; consubstantial with the Father according to the Godhead, and consubstantial with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the God-bearer,\footnote{τῆς θεοτόκου, sometimes rendered ``Mother of God.''} according to the Manhood; one and the same Christ, Son, Lord, Only-begotten, to be acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably; the distinction of natures being by no means taken away by the union, but rather the property of each nature being preserved, and concurring in one Person and one Subsistence, not parted or divided into two persons, but one and the same Son, and only begotten, God the Word, the Lord Jesus Christ, as the prophets from the beginning have declared concerning Him, and the Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
+\end{quote}
 
 \hypertarget{appendix-1-presbytery-forms}{%
 \chapter*{Appendix 1: Presbytery Forms}\label{appendix-1-presbytery-forms}}
