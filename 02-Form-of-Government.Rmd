@@ -1,4 +1,4 @@
-# Form of Government {-} 
+# Form of Government {-}
 
 ## 1. The Doctrine of Church Government {-}
 
@@ -98,9 +98,13 @@
         i.  The organizing commission shall ordain and/or install ruling elders and/or deacons according to the provisions of BCO [26.5](#26.5) so far as they may be applicable.
         ii.  If a pastor is being ordained and/or installed at the service, the organizing commission shall act according to the provisions of BCO [23](#23) so far as they may be applicable.
         iii.  A member of the organizing commission shall require communicant members of the mission church present to enter into covenant, by answering the following question affirmatively:  
-            > Do you, in reliance on God for strength, solemnly promise and covenant that you will walk together as a particular church, on the principles of the faith and order of Evangel Presbytery, and that you will be zealous and faithful in maintaining the purity and peace of the whole body?
+        
+          > Do you, in reliance on God for strength, solemnly promise and covenant that you will walk together as a particular church, on the principles of the faith and order of Evangel Presbytery, and that you will be zealous and faithful in maintaining the purity and peace of the whole body?
+        
         iv.  A member of the organizing commission shall then say:  
-            > I now pronounce and declare that you are constituted a church according to the Word of God and the faith and order of Evangel Presbytery. In the name of the Father and of the Son and of the Holy Spirit. Amen.
+        
+          > I now pronounce and declare that you are constituted a church according to the Word of God and the faith and order of Evangel Presbytery. In the name of the Father and of the Son and of the Holy Spirit. Amen.
+        
 3. Upon organization, the newly elected session should meet as soon as is practicable to elect a stated clerk and formulate a budget. If there is no pastor, the session may elect as moderator one of their own number or any teaching elder of the Presbytery with Presbytery’s approval. Alternatively, the administrative committee has the power of committee to appoint a moderator for the new session, giving approval on behalf of Presbytery. Further, if there is no pastor, action shall be taken to secure, as soon as practicable, the regular administration of Word and Sacraments.
 
 
@@ -319,7 +323,7 @@
     
     Record shall be made of the licensure in the following or like form:
     
-    > At_____________, the __________day of_______________, the ____________________Presbytery, having received testimonials commending _________________________, proceeded to submit him to the prescribed examination for licensure, which was met to the approval of the Presbytery. Having satisfactorily answered the questions for licensure, _____________________ was licensed by the Presbytery to preach the Gospel within the bounds of this Presbytery.
+    > At _____________, the ________ day of________, the ____________________ Presbytery, having received testimonials commending ____________________, proceeded to submit him to the prescribed examination for licensure, which was met to the approval of the Presbytery. Having satisfactorily answered the questions for licensure, ____________________ was licensed by the Presbytery to preach the Gospel within the bounds of this Presbytery.
     
 5. The license to preach the Gospel shall expire at the end of four years. The Presbytery may, if it thinks proper, renew it without further examination. The licentiate must apply for renewal prior to expiration. If the license expires, the stated clerk shall report the expiration to the Presbytery and to the individual’s Session, and such action shall be recorded in the minutes. The procedures of BCO [21.2](#21.2) must be followed for re-licensure and such fact shall be recorded in the minutes. The license may be terminated at any time by a simple majority vote of the Presbytery. The Presbytery shall always record its reasons for this action in its minutes.
 
