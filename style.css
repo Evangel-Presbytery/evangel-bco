@@ -43,6 +43,10 @@ blockquote {
     margin-bottom: 0;
 }
 
+.center {
+    text-align: center;
+}
+
 .copyable {
     margin: 0 0 1rem;
     padding: 1.25rem 1.25rem;
