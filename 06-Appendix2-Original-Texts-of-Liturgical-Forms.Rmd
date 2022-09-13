@@ -41,63 +41,93 @@
 
 > Dearly beloved friends, we are gathered together here in the sight of God, and in the face of his congregation, to join together this man and this woman in holy matrimony, which is an honorable estate instituted of God in paradise, in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church: which holy estate, Christ adorned and beautified with his presence, and first miracle that he wrought in Cana of Galilee, and is commended of Saint Paul to be honorable among all men; and therefore is not to be enterprised, nor taken in hand unadvisedly, lightly, or wantonly, to satisfy men’s carnal lusts and appetites, like brute beasts that have no understanding: but reverently, discreetly, advisedly, soberly, and in the fear of God. Duly considering the causes for the which matrimony was ordained. One cause was the procreation of children, to be brought up in the fear and nurture of the Lord, and praise of God. Secondly it was ordained for a remedy against sin, and to avoid fornication, that such persons as be married, might live chastely in matrimony, and keep themselves undefiled members of Christ’s body. Thirdly, for the mutual society, help, and comfort, that the one ought to have of the other, both in prosperity and adversity. Into the which holy estate these two persons present: come now to be joined. Therefore if any man can shew any just cause why they may not lawfully be joined so together: Let him now speak, or else hereafter for ever hold his peace.
 
-<p style="text-align: center">*And also speaking to the persons that shall be married, he shall say,*</p>
+::: {.center data-latex=""}
+*And also speaking to the persons that shall be married, he shall say,*
+:::
 
 > I require and charge you (as you will answer at the dreadful day of judgement, when the secrets of all hearts shall be disclosed) that if either of you do know any impediment, why ye may not be lawfully joined together in matrimony, that ye confess it. For be ye well assured, that so many as be coupled together otherwise then God’s word doth allow: are not joined of God, neither is their matrimony lawful.
 
-<p style="text-align: center">*At which day of marriage if any man do allege any impediment why they may not be coupled together in matrimony; And will be bound, and sureties with him, to the parties, or else put in a caution to the full value of such charges as the persons to be married do sustain to prove his allegation: then the Solemnization must be deferred, unto such time as the truth be tried. If no impediment be alleged, then shall the Curate say unto the man,*</p>
+::: {.center data-latex=""}
+*At which day of marriage if any man do allege any impediment why they may not be coupled together in matrimony; And will be bound, and sureties with him, to the parties, or else put in a caution to the full value of such charges as the persons to be married do sustain to prove his allegation: then the Solemnization must be deferred, unto such time as the truth be tried. If no impediment be alleged, then shall the Curate say unto the man,*
+:::
 
 > N.Wilt thou have this woman to thy wedded wife, to live together after God’s ordinance in the holy estate of matrimony? Wilt thou love her, comfort her, honor, and keep her in sickness and in health? And forsaking all other keep thee only to her, so long as you both shall live?
 
-<p style="text-align: center">*The man shall answer,*</p>
+::: {.center data-latex=""}
+*The man shall answer,*
+:::
 
 > I will.
 
-<p style="text-align: center">*Then shall the priest say to the woman,*</p>
+::: {.center data-latex=""}
+*Then shall the priest say to the woman,*
+:::
 
 > N.Wilt thou have this man to thy wedded husband, to live together after God’s ordinance, in the holy estate of matrimony? Wilt thou obey him, and serve him, love, honor, and keep him in sickness and in health? And forsaking all other keep thee only to him, so long as you both shall live?
 
-<p style="text-align: center">*The woman shall answer,*</p>
+::: {.center data-latex=""}
+*The woman shall answer,*
+:::
 
 > I will.
 
-<p style="text-align: center">*Then shall the Minister say,*</p>
+::: {.center data-latex=""}
+*Then shall the Minister say,*
+:::
 
 > Who giveth this woman to be married to this man?
 
-<p style="text-align: center">*And the minister receiving the woman at her father or friend’s hands: shall cause the man to take the woman by the right hand, and so either to give their troth to other: The man first saying,*</p>
+::: {.center data-latex=""}
+*And the minister receiving the woman at her father or friend’s hands: shall cause the man to take the woman by the right hand, and so either to give their troth to other: The man first saying,*
+:::
 
 > I N. take thee N. to my wedded wife, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love and to cherish, till death us depart: according to God’s holy ordinance: And thereto I plight thee my troth.
 
-<p style="text-align: center">*Then shall they loose their hands, and the woman taking again the man by the right hand shall say,*</p>
+::: {.center data-latex=""}
+*Then shall they loose their hands, and the woman taking again the man by the right hand shall say,*
+:::
 
 > I N. take thee N. to my wedded husband, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love, cherish, and to obey, till death us depart: according to God’s holy ordinance: And thereto I give thee my troth.
 
-<p style="text-align: center">*Then shall they again loose their hands, and the man shall give unto the woman a ring, and other tokens of spousage, as gold or silver, laying the same upon the book: And the Priest taking the ring shall deliver it unto the man: to put it upon the fourth finger of the woman’s left hand. And the man taught by the priest, shall say,*</p>
+::: {.center data-latex=""}
+*Then shall they again loose their hands, and the man shall give unto the woman a ring, and other tokens of spousage, as gold or silver, laying the same upon the book: And the Priest taking the ring shall deliver it unto the man: to put it upon the fourth finger of the woman’s left hand. And the man taught by the priest, shall say,*
+:::
 
 > With this ring I thee wed: This gold and silver I thee give: with my body I thee worship: and withal my worldly Goods I thee endow. In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
-<p style="text-align: center">*Then the man leaving the ring upon the fourth finger of the woman’s left hand, the minister shall say,*</p>
+::: {.center data-latex=""}
+*Then the man leaving the ring upon the fourth finger of the woman’s left hand, the minister shall say,*
+:::
 
 > Let us pray.
 > 
 > O Eternal God creator and preserver of all mankind, giver of all spiritual grace, the author of everlasting life: Send thy blessing upon these thy servants, this man, and this woman, whom we bless in thy name, that as Isaac and Rebecca (after bracelets and jewels of gold given of the one to the other for tokens of their matrimony) lived faithfully together; So these persons may surely perform and keep the vow and covenant betwixt them made, whereof this ring given, and received, is a token and pledge. And may ever remain in perfect love and peace together; And live according to thy laws; through Jesus Christ our Lord. Amen.
 
-<p style="text-align: center">*Then shall the priest join their right hands together, and say,*</p>
+::: {.center data-latex=""}
+*Then shall the priest join their right hands together, and say,*
+:::
 
 > Those whom God hath joined together: let no man put asunder.
 
-<p style="text-align: center">*Then shall the minister speak unto the people,*</p>
+::: {.center data-latex=""}
+*Then shall the minister speak unto the people,*
+:::
 
 > Forasmuch as N. and N. have consented together in holy wedlock, and have witnessed the same here before God and this company; And thereto have given and pledged their troth either to other, and have declared the same by giving and receiving gold and silver, and by joining of hands: I pronounce that they be man and wife together. In the name of the Father, of the Son, and of the Holy Ghost. Amen.
 
-<p style="text-align: center">*And the minister shall add this blessing,*</p>
+::: {.center data-latex=""}
+*And the minister shall add this blessing,*
+:::
 
 > God the Father bless you. God the Son keep you: God the Holy Ghost lighten your understanding: The Lord mercifully with his favor look upon you, and so fill you with all spiritual benediction, and grace, that you may have remission of your sins in this life, and in the world to come life everlasting. Amen.
 
-<p style="text-align: center">*Then shall they go into the quire, and the ministers or clerks shall say or sing, this psalm following,*</p>
-<p class="hanging-indent" style="padding-left: 30px">*Beati omnes. cxxviii.*</p>
-<p class="hanging-indent" style="padding-left: 30px">Blessed are all they that fear the Lord, and walk in his ways. \
+::: {.center data-latex=""}
+*Then shall they go into the quire, and the ministers or clerks shall say or sing, this psalm following,*
+:::
+
+*Beati omnes. cxxviii.*
+
+Blessed are all they that fear the Lord, and walk in his ways. \
 For thou shalt eat the labour of thy hands. O well is thee, and happy shalt thou be. \
 Thy wife shall be as the fruitful vine, upon the walls of thy house. \
 Thy children like the olive branches round about thy table. \
@@ -105,18 +135,26 @@ Lo, thus shall the man be blessed, that feareth the Lord. \
 The Lord from out of Zion, shall so bless thee: that thou shalt see Jerusalem in prosperity, all thy life long. \
 Yea that thou shalt see thy children’s children: and peace upon Israel. \
 Glory to the Father, etc. \
-As it was in the beginning, etc.</p>
-<p style="text-align: center">*Or else this psalm following,*</p>
-<p class="hanging-indent" style="padding-left: 30px">*Deus misereatur nostri. Psalm lxvii.*</p>
-<p class="hanging-indent" style="padding-left: 30px">God be merciful unto us, and bless us, and shew us the light of his countenance: and be merciful unto us. \
+As it was in the beginning, etc.
+
+::: {.center data-latex=""}
+*Or else this psalm following,*
+:::
+
+*Deus misereatur nostri. Psalm lxvii.*
+
+God be merciful unto us, and bless us, and shew us the light of his countenance: and be merciful unto us. \
 That thy way may be known upon the earth, thy saving health among all nations. \
 Let the people praise thee (O God) yea let all people praise thee. \
 O let the nations rejoice and be glad, for thou shalt judge the folk righteously, and govern the nations upon the earth. \
 Let the people praise thee (O God) let all people praise thee. Then shall the earth bring forth her increase: and God, even our own God, shall give us his blessing. \
 God shall bless us, and all the ends of the world shall fear him. \
 Glory to the Father, etc. \
-As it was in the beginning, etc.</p>
-<p style="text-align: center">*The psalm ended, and the man and woman kneeling afore the altar: the priest standing at the altar, and turning his face toward them, shall say,*</p>
+As it was in the beginning, etc.
+
+::: {.center data-latex=""}
+*The psalm ended, and the man and woman kneeling afore the altar: the priest standing at the altar, and turning his face toward them, shall say,*
+:::
 
 > Lord have mercy upon us. \
 *Answer*. Christ have mercy upon us. \
@@ -136,17 +174,23 @@ Answer. Which put their trust in thee. \
 > 
 > O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their minds, that whatsoever in thy holy word they shall profitably learn: they may indeed fulfill the same. Look, O Lord, mercifully upon them from heaven, and bless them: And as thou didst send thy Angel Raphael to Tobit, and Sara, the daughter of Raguel, to their great comfort; so vouchsafe to send thy blessing upon these thy servants, that they obeying thy will, and alway being in safety under thy protection: may abide in thy love unto their lives’ end: through Jesus Christ our Lord. Amen.
 
-<p style="text-align: center">*This prayer following shall be omitted where the woman is past childbirth,*</p>
+::: {.center data-latex=""}
+*This prayer following shall be omitted where the woman is past childbirth,*
+:::
 
 > O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee assist with thy blessing these two persons, that they may both be fruitful in procreation of children; and also live together so long in godly love and honesty, that they may see their children’s children, unto the third and fourth generation, unto thy praise and honour: through Jesus Christ our Lord. Amen.
 > 
 > O God which by thy mighty power hast made all things of naught, which also after other things set in order didst appoint that out of man (created after thine own image and similitude) woman should take her beginning: and, knitting them together, didst teach, that it should never be lawful to put asunder those, whom thou by matrimony hadst made one: O God, which hast consecrated the state of matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy word (as Christ did love his spouse the church, who gave himself for it, loving and cherishing it even as his own flesh); And also that this woman may be loving and amiable to her husband as Rachel, wise as Rebecca, faithful and obedient as Sara; And in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom, through Jesus Christ our Lord. Amen.
 
-<p style="text-align: center">*Then shall the priest bless the man and the woman, saying,*</p>
+::: {.center data-latex=""}
+*Then shall the priest bless the man and the woman, saying,*
+:::
 
 > Almighty God, which at the beginning did create our first parents Adam and Eve, and did sanctify and join them together in marriage: Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul; and live together in holy love unto your lives’ end. Amen.
 
-<p style="text-align: center">*Then shall be said after the gospel a sermon, wherein ordinarily (so oft as there is any marriage) the office of man and wife shall be declared according to Holy Scripture. Or if there be no sermon, the minister shall read this that followeth,*</p>
+::: {.center data-latex=""}
+*Then shall be said after the gospel a sermon, wherein ordinarily (so oft as there is any marriage) the office of man and wife shall be declared according to Holy Scripture. Or if there be no sermon, the minister shall read this that followeth,*
+:::
 
 > All ye which be married, or which intend to take the holy estate of matrimony upon you: hear what Holy Scripture doth say, as touching the duty of husbands toward their wives, and wives toward their husbands.
 > 
@@ -166,16 +210,19 @@ Answer. Which put their trust in thee. \
 > 
 > Saint Peter also doth instruct you very godly, thus saying, Let wives be subject to their own husbands, so that if any obey not the word, they may be won without the word, by the conversation of the wives; While they behold your chaste conversation, coupled with fear, whose apparel let it not be outward, with braided hair, and trimming about with gold, either in putting on of gorgeous apparel: But let the hid man which is in the heart, be without all corruption, so that the spirit be mild and quiet, which is a precious thing in the sight of God. For after this manner (in the old time) did the holy women, which trusted in God, apparel themselves, being subject to their own husbands: as Sara obeyed Abraham calling him lord, whose daughters ye are made, doing well, and being not dismayed with any fear. 1 Pet. iii.
 
-<p style="text-align: center">*The new married persons (the same day of their marriage) must receive the holy communion.*[^appendix2.02]</p>
+::: {.center data-latex=""}
+*The new married persons (the same day of their marriage) must receive the holy communion.*[^appendix2.02]
+:::
 
 [^appendix2.02]: Original text from the 1549 Book of Common Prayer, with modernized spelling.
 
-</section>
 [](){#chapter-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer}
 
 ## 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) {-}
 
-<p style="text-align: center">[](){#appendix2.3}*The priest meeting the corpse at the church style, shalt say: Or else the priests and clerks shalt sing, and so go either into the church, or towards the grave,*</p>
+::: {.center data-latex=""}
+[](){#appendix2.3}*The priest meeting the corpse at the church style, shalt say: Or else the priests and clerks shalt sing, and so go either into the church, or towards the grave,*
+:::
 
 > I am the resurrection and the life (saith the Lord): he that believeth in me, yea though he were dead, yet shall he live. And whosoever liveth and believeth in me: shall not die forever. *John* xi.
 > 
@@ -183,17 +230,23 @@ Answer. Which put their trust in thee. \
 > 
 > We brought nothing into this world, neither may we carry anything out of this world. The Lord giveth, and the Lord taketh away. Even as it pleaseth the Lord, so cometh things to pass: blessed be the name of the Lord.
 
-<p style="text-align: center">*When they come at the grave, while the corpse is made ready to be laid into the earth, the priest shall say, or else the priest and clerks shall sing,*</p>
+::: {.center data-latex=""}
+*When they come at the grave, while the corpse is made ready to be laid into the earth, the priest shall say, or else the priest and clerks shall sing,*
+:::
 
 > Man that is born of a woman hath but a short time to live, and is full of misery: he cometh up and is cut down like a flower; he flieth as it were a shadow, and never continueth in one stay. 1 *Tim*. vi. *Job* i.
 > 
 > In the midst of life we be in death, of whom may we seek for succor but of thee, O Lord, which for our sins justly art moved? Yet O Lord God most holy, O Lord most mighty, O holy and most merciful Savior, deliver us not into the bitter pains of eternal death. Thou knowest, Lord, the secrets of our hearts: shut not up thy merciful eyes to our prayers: But spare us, Lord most holy, O God most mighty, O holy and merciful Savior, thou most worthy judge eternal, suffer us not at our last hour for any pains of death to fall from thee.
 
-<p style="text-align: center">*Then the priest casting earth upon the corpse, shall say,*</p>
+::: {.center data-latex=""}
+*Then the priest casting earth upon the corpse, shall say,*
+:::
 
 > I commend thy soul to God the Father Almighty, and thy body to the ground, earth to earth, ashes to ashes, dust to dust, in sure and certain hope of resurrection to eternal life, through our Lord Jesus Christ, who shall change our vile body, that it may be like to his glorious body, according to the mighty working whereby he is able to subdue all things to himself.
 
-<p style="text-align: center">*Then shall be said or sung,*</p>
+::: {.center data-latex=""}
+*Then shall be said or sung,*
+:::
 
 > I heard a voice from heaven saying, unto me: Write, blessed are the dead which die in the Lord. Even so saith the spirit, that they rest from their labors.
 > 
@@ -201,13 +254,19 @@ Answer. Which put their trust in thee. \
 > 
 > We commend into thy hands of mercy (most merciful Father) the soul of this our brother departed, *N*. And his body we commit to the earth, beseeching thine infinite goodness, to give us grace to live in thy fear and love, and to die in thy favor: that when the judgement shall come which thou hast committed to thy well-beloved Son, both this our brother, and we, may be found acceptable in thy sight, and receive that blessing, which thy well-beloved Son shall then pronounce to all that love and fear thee, saying: Come ye blessed children of my Father: Receive the kingdom prepared for you before the beginning of the world. Grant this, merciful Father, for the honor of Jesus Christ our only Savior, Mediator, and Advocate. Amen.
 
-<p style="text-align: center">*This prayer shalt also be added,*</p>
+::: {.center data-latex=""}
+*This prayer shalt also be added,*
+:::
 
 > Almighty God, we give thee hearty thanks for this thy servant, whom thou hast delivered from the miseries of this wretched world, from the body of death and all temptation. And, as we trust, hast brought his soul which he committed into thy holy hands, into sure consolation and rest: Grant, we beseech thee, that at the day of judgement his soul and all the souls of thy elect, departed out of this life, may with us and we with them, fully receive thy promises, and be made perfect altogether through the glorious resurrection of thy Son Jesus Christ our Lord.
 
-<p style="text-align: center">*These psalms with other suffrages following are to be said in the church either before or after the burial of the corpse,*</p>
-<p class="hanging-indent" style="padding-left: 30px">*Dilexi, quoniam*. Psalm cxvi.</p>
-<p class="hanging-indent" style="padding-left: 30px">I am well pleased that the Lord hath heard the voice of my prayer. \
+::: {.center data-latex=""}
+*These psalms with other suffrages following are to be said in the church either before or after the burial of the corpse,*
+:::
+
+*Dilexi, quoniam*. Psalm cxvi.
+
+I am well pleased that the Lord hath heard the voice of my prayer. \
 That he hath inclined his ear unto me, therefore will I call upon him as long as I live. \
 The snares of death compassed me round about, and the pains of hell gat hold upon me: I shall find trouble and heaviness, and I shall call upon the name of the Lord, (O Lord,) I beseech thee deliver my soul. \
 Gracious is the Lord, and righteous, yea, our God is merciful. \
@@ -223,10 +282,15 @@ Behold (O Lord) how that I am thy servant: I am thy servant, and the son of thy 
 I will offer to thee the sacrifice of thanksgiving, and will call upon the Name of the Lord. \
 I will pay my vows unto the Lord, in the sight of all his people, in the courts of the Lord’s house, even in the midst of thee, O Jerusalem. \
 Glory to the Father, etc. \
-As it was in the beginning, etc.</p>
-<p class="hanging-indent" style="padding-left: 30px">*Lauda, anima, mea*. Psalm cxlvi.</p>
-<p class="hanging-indent" style="padding-left: 30px">Praise the Lord, (O my soul), while I live will I praise the Lord: yea, as long as I have any being, I will sing praises unto my God.</p>
-<p style="text-align: center">*Note that this psalm is to be said after the others that followeth,*</p>
+As it was in the beginning, etc.
+
+*Lauda, anima, mea*. Psalm cxlvi.
+
+Praise the Lord, (O my soul), while I live will I praise the Lord: yea, as long as I have any being, I will sing praises unto my God.
+
+::: {.center data-latex=""}
+*Note that this psalm is to be said after the others that followeth,*
+:::
 
 > O put not your trust in princes, nor in any child of man, for there is no help in them. \
 For when the breath of man goeth forth, he shall turn again to his earth, and then all his thoughts perish. \
@@ -267,11 +331,15 @@ Look well if there be any way of wickedness in me, and lead me in the way everla
 Glory to the Father, etc. \
 As it was in the beginning, etc.
 
-<p style="text-align: center">*Then shall follow this lesson, taken out of the XV. Chapter to the Corinthians, the first Epistle,*</p>
+::: {.center data-latex=""}
+*Then shall follow this lesson, taken out of the XV. Chapter to the Corinthians, the first Epistle,*
+:::
 
 > Christ is risen from the dead, and become the firstfruits of them that slept. For by a man came death, and by a man came the resurrection of the dead. For as by Adam all die: even so by Christ shall all be made alive, but every man in his own order. The first is Christ, then they that are Christ’s, at his coming. Then cometh the end, when he hath delivered up the kingdom to God the Father, when he hath put down all rule and all authority and power. For he must reign till he have put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put all things under his feet. But when he sayeth all things are put under him, it is manifest that he is excepted, which did put all things under him. When all things are subdued unto him, then shall the son also himself be subject unto him that put all things under him, that God may be all in all. Else what do they, which are baptized over the dead, if the dead rise not at all? Why are they then baptized over them? yea, and why stand we alway then in jeopardy? By our rejoicing which I have in Christ Jesus our Lord, I die daily. That I have fought with beasts at Ephesus after the manner of men, what advantageth it me, if the dead rise not again? Let us eat and drink, for tomorrow we shall die. Be not ye deceived: evil words corrupt good manners. Awake truly out of sleep, and sin not. For some have not the knowledge of God. I speak this to your shame. But some man will say: how arise the dead? with what body shall they come? Thou fool, that which thou sowest, is not quickened, except it die. And what sowest thou? Thou sowest not that body that shall be; but bare corn as of wheat, or of some other: but God giveth it a body at his pleasure, to every seed his own body. All flesh is not one manner of flesh: but there is one manner of flesh of men, another manner of flesh of beasts, another of fishes, another of birds. There are also celestial bodies, and there are bodies terrestrial. But the glory of the celestial is one, and the glory of the terrestrial is another. There is one manner glory of the sun, and another glory of the moon, and another glory of the stars. For one star differeth from another in glory. So is the resurrection of the dead. It is sown in corruption, it riseth again in incorruption. It is sown in dishonor, it riseth again in honor. It is sown in weakness, it riseth again in power. It is sown a natural body, it riseth again a spiritual body. There is a natural body, and there is a spiritual body: as it is also written: The first man Adam was made a living soul, and the last Adam was made a quickening spirit. Howbeit, that is not first which is spiritual: but that which is natural, and then that which is spiritual. The first man is of the earth, earthy: The second man is the Lord from heaven (heavenly). As is the earthy, such are they that are earthy. And as is the heavenly, such are they that are heavenly. And as we have borne the image of the earthy, so shall we bear the image of the heavenly. This say I brethren, that flesh and blood cannot inherit the kingdom of God: Neither doth corruption inherit uncorruption. Behold, I shew you a mystery. We shall not all sleep: but we shall all be changed, and that in a moment, in the twinkling of an eye by the last trump. For the trump shall blow, and the dead shall rise incorruptible, and we shall be changed. For this corruptible must put on incorruption: and this mortal must put on immortality. When this corruptible hath put on incorruption, and this mortal hath put on immortality: then shall be brought to pass the saying that is written: Death is swallowed up in victory: Death where is thy sting? Hell where is thy victory? The sting of death is sin: and the strength of sin is the law. But thanks be unto God, which hath given us victory, through our Lord Jesus Christ. Therefore, my dear brethren, be ye steadfast and unmovable, always rich in the work of the Lord, forasmuch as ye know that your labor is not in vain, in the Lord.
 
-<p style="text-align: center">*The lesson ended then shall the Priest say,*</p>
+::: {.center data-latex=""}
+*The lesson ended then shall the Priest say,*
+:::
 
 > Lord, have mercy upon us. \
 Christ, have mercy upon us. \
@@ -293,7 +361,9 @@ And lead us not into temptation. \
 > 
 > O Lord, with whom do live the spirits of them that be dead: and in whom the souls of them that be elected, after they be delivered from the burden of the flesh, be in joy and felicity: Grant unto us thy servant, that the sins which he committed in this world be not imputed unto him, but that he, escaping the gates of hell and pains of eternal darkness: may ever dwell in the region of height, with Abraham, Isaac, and Jacob, in the place where is no weeping, sorrow, nor heaviness: and when that dreadful day of the general resurrection shall come, make him to rise also with the just and righteous, and receive this body again to glory, then made pure and incorruptible, set him on the right hand of thy Son Jesus Christ, among thy holy and elect, that then he may hear with them these most sweet and comfortable words: Come to me ye blessed of my father, possess the kingdom which hath been prepared for you from the beginning of the world: Grant this we beseech thee, O merciful Father: through Jesus Christ our mediator and redeemer. Amen.
 
-<p style="text-align: center">*The Celebration of Holy Communion when there is a Burial of the Dead*</p>
+::: {.center data-latex=""}
+*The Celebration of Holy Communion when there is a Burial of the Dead*
+:::
 
 > *Quemadmodum*. Psalm xlii.
 > 
@@ -313,15 +383,21 @@ O put thy trust in God, for I will yet thank him which is the help of my counten
 Glory to the Father, etc. \
 As it was in the beginning, etc.
 
-<p style="text-align: center">*Collette.*</p>
+::: {.center data-latex=""}
+*Collette.*
+:::
 
 > O merciful God the father of our Lord Jesus Christ, who is the resurrection and the life: In whom whosoever believeth shall live though he die: And whosoever liveth, and believeth in him, shall not die eternally: who also hath taught us (by his holy Apostle Paul) not to be sorry as men without hope for them that sleep in him: We meekly beseech thee (O Father) to raise us from the death of sin, unto the life of righteousness, that when we shall depart this life, we may sleep in him (as our hope is this our brother doeth), and at the general resurrection in the last day, both we and this our brother departed, receiving again our bodies, and rising again in thy most gracious favor: may with all thine elect Saints, obtain eternal joy. Grant this, O Lord God, by the means of our advocate Jesus Christ: which with thee and the Holy Ghost, liveth and reigneth one God for ever. Amen.
 
-<p style="text-align: center">*The Epistle*. 1 Thess. iv.</p>
+::: {.center data-latex=""}
+*The Epistle*. 1 Thess. iv.
+:::
 
 > I would not brethren that ye should be ignorant concerning them which are fallen asleep, that ye sorrow not as other do, which have no hope. For if we believe that Jesus died, and rose again: even so them also which sleep by Jesus, will God bring again with him. For this say we unto you in the word of the Lord: that we which shall live, and shall remain in the coming of the Lord, shall not come ere they which sleep. For the Lord himself shall descend from heaven with a shout, and the voice of the Archangel, and trump of God. And the dead in Christ shall arise first: then we which shall live (even we which shall remain) shall be caught up with them also in the clouds, to meet the Lord in the air. And so shall we ever be with the Lord. Wherefore comfort yourselves one another with these words.
 
-<p style="text-align: center">*The gospel*. John vi.</p>
+::: {.center data-latex=""}
+*The gospel*. John vi.
+:::
 
 > Jesus said to his disciples and to the Jews: All that the Father giveth me, shall come to me: and he that cometh to me, I cast not away. For I came down from heaven: not to do that I will, but that he will, which hath sent me. And this is the Father’s will which hath sent me, that of all which he hath given me, I shall lose nothing: but raise them up again at the last day. And this is the will of him that sent me: that every one which seeth the son and believeth on him, have everlasting life: And I will raise him up at the last day.[^appendix2.03]
 
