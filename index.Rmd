@@ -13,9 +13,6 @@ description: "This is Evangel Presbytery's Book of Church Order."
 
 This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com and download the [latest PDF version here](https://bco.evangelpresbytery.com/evangel-presbytery-bco.pdf). A record of the changes can be found in the [Updates](https://bco.evangelpresbytery.com/updates.html) section at the end of the book. 
 
-<!--- End of frontmatter, start of regular page numbering-->
-\mainmatter
-
 # Preface {-}
 
 [](){#front-matter-preface}
@@ -89,3 +86,6 @@ The Constitution of Evangel Presbytery, which is subject to and subordinate to t
 [^preface.06]: https://evangelpresbytery.com/westminster-larger-catechism.
 
 [^preface.07]: https://evangelpresbytery.com/westminster-shorter-catechism.
+
+<!--- End of frontmatter, start of regular page numbering-->
+\mainmatter
