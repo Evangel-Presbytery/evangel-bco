@@ -229,9 +229,9 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 
     c.  **Exhortation to the Members of the Congregation to Improve Their Baptism**
         
-        Then the minister may exhort the congregation in these or like words:</p>
+        Then the minister may exhort the congregation in these or like words:
         
-        > As solemn vows are about to be made before you, and baptism is now to be administered, you who are baptized will do well to take this occasion to reflect on your own baptism. Christ has put His name and claim on you. He calls you to be repentant for your sins against your covenant God, to confess your faith before men, and to live in newness of life to God, who sealed His covenant with you by the blood of His own Son.</p>
+        > As solemn vows are about to be made before you, and baptism is now to be administered, you who are baptized will do well to take this occasion to reflect on your own baptism. Christ has put His name and claim on you. He calls you to be repentant for your sins against your covenant God, to confess your faith before men, and to live in newness of life to God, who sealed His covenant with you by the blood of His own Son.
 
     d.  **The Ground of Baptizing Infants**
 
@@ -241,7 +241,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 		> 
 		> God made the promise of the covenant to believers and to their offspring. In the Old Testament, He declared to Abraham: &#8220;I will establish My covenant between Me and you and your descendants after you throughout their generations for an everlasting covenant, to be a God unto you, and to your descendants after you.&#8221;[^directoryForWorship.11] For this reason, in the Old Testament, God commanded that covenant infants be given the sign of circumcision.
 		> 
-		> The covenant is the same in essence in both the Old and the New Testaments. Indeed, the grace of God for the consolation of believers is even more fully manifested in the New Testament. He declares that &#8220;For the promise is for you and your children.&#8221;[^directoryForWorship.12] He promises, &#8220;Believe in the Lord Jesus Christ, and you will be saved, you and your household.&#8221;[^directoryForWorship.13] He affirms that if even one parent is a believer, the children are &#8220;holy.&#8221;[^directoryForWorship.14] Moreover, our Savior admitted little children into His presence, embracing and blessing them, and saying, &#8220;for the kingdom of God belongs to such as these.&#8221;[^directoryForWorship.15]</p>
+		> The covenant is the same in essence in both the Old and the New Testaments. Indeed, the grace of God for the consolation of believers is even more fully manifested in the New Testament. He declares that &#8220;For the promise is for you and your children.&#8221;[^directoryForWorship.12] He promises, &#8220;Believe in the Lord Jesus Christ, and you will be saved, you and your household.&#8221;[^directoryForWorship.13] He affirms that if even one parent is a believer, the children are &#8220;holy.&#8221;[^directoryForWorship.14] Moreover, our Savior admitted little children into His presence, embracing and blessing them, and saying, &#8220;for the kingdom of God belongs to such as these.&#8221;[^directoryForWorship.15]
 		> 
 		> And so, in the New Testament no less than in the Old, the children of believers have an interest in the covenant and a right to the covenant sign and to the outward privileges of the covenant people, the church. In the New Testament, baptism has replaced circumcision as the covenant sign.[^directoryForWorship.16] Therefore, by the covenant sign of baptism the children of believers are to be distinguished from the world and solemnly admitted into the visible church.
 
@@ -742,45 +742,65 @@ Words of Institution
 > 
 > If any man can show just cause why they may not lawfully be joined, let him speak now, or else hereafter forever hold his peace.
 
-<p style="text-align: center">*And also speaking to the persons to be married, he shall say,*</p>
+::: {.center data-latex=""}
+*And also speaking to the persons to be married, he shall say,*
+:::
 
 > I require and charge you both, that if either of you know any reason why you may not lawfully be joined in matrimony, you tell it to me. For you can be certain that all who are joined together in any way besides what God’s word allows are not joined by God, nor is their marriage lawful, and they will answer on the dreadful day of judgement, when the secrets of all hearts shall be revealed.
 
-<p style="text-align: center">*At this time, if anyone raises an objection why the couple may not be joined together in matrimony, and is willing to stand by his allegation while it is investigated, then the marriage must be deferred, until the truth is found.*</p>
+::: {.center data-latex=""}
+*At this time, if anyone raises an objection why the couple may not be joined together in matrimony, and is willing to stand by his allegation while it is investigated, then the marriage must be deferred, until the truth is found.*
+:::
 
 Declaration of Consent
 
-<p style="text-align: center">*If no objection is raised, then the minister shall say unto the man,*</p>
+::: {.center data-latex=""}
+*If no objection is raised, then the minister shall say unto the man,*
+:::
 
 > [Name of Groom], will you have this woman to be your wedded wife, to live together after God’s ordinance in the holy estate of matrimony? Will you love her, comfort her, honor, and keep her in sickness and in health? And, forsaking all others, keep yourself only unto her, so long as you both shall live?
 
-<p style="text-align: center">*The man shall answer,*</p>
+::: {.center data-latex=""}
+*The man shall answer,*
+:::
 
 > I will.
 
-<p style="text-align: center">*Then the minister shall say to the woman,*</p>
+::: {.center data-latex=""}
+*Then the minister shall say to the woman,*
+:::
 
 > [Name of Bride], will you have this man to be your wedded husband, to live together after God’s ordinance, in the holy estate of matrimony? Will you obey him, and serve him, love, honor, and keep him in sickness and in health? And, forsaking all others, keep yourself only unto him, so long as you both shall live?
 
-<p style="text-align: center">*The woman shall answer,*</p>
+::: {.center data-latex=""}
+*The woman shall answer,*
+:::
 
 > I will.
 
-<p style="text-align: center">*Then shall the Minister say,*</p>
+::: {.center data-latex=""}
+*Then shall the Minister say,*
+:::
 
 > Who gives this woman to be married to this man?
 
-<p style="text-align: center">*The father of the bride or a man standing in his place shall say,*</p>
+::: {.center data-latex=""}
+*The father of the bride or a man standing in his place shall say,*
+:::
 
 > I do.
 
-<p style="text-align: center;padding-left: 30px">*Then the minister, receiving the woman at her father’s or friend’s hands, will cause the man to take the woman by the right hand.*</p>
+::: {.center data-latex=""}
+*Then the minister, receiving the woman at her father’s or friend’s hands, will cause the man to take the woman by the right hand.*
+:::
 
 Invocation
 
 > Let us pray. Almighty and ever blessed God, whose presence is the happiness of every condition and whose favor makes holy every relation; We ask You to be present and to look with favor upon these Your servants, as together they make their covenant before You. As You have brought them together by Your providence, sanctify them by Your Spirit, giving them a new frame of heart fit for their new estate. Pour out Your grace upon them so that they may enjoy the comforts, bear up under the cares, endure the trials, and perform the duties of life together under Your heavenly guidance and protection. May they be truly joined in the honorable estate of marriage, and may they know the salvation of the only true God. We ask these things through our Lord Jesus Christ. Amen.
 
-<p style="text-align: center">*The Minister, Bride and Groom, Maid of Honor and Best Man, ascend to platform.*</p>
+::: {.center data-latex=""}
+*The Minister, Bride and Groom, Maid of Honor and Best Man, ascend to platform.*
+:::
 
 Song
 
@@ -789,29 +809,41 @@ Scripture Reading (for example, Genesis 2:18-25, Ephesians 5:22-33)
 Sermon
 
 Exchange of Vows
-<p style="text-align: center">*The man and the woman turn and face each other and join hands. The man will say, repeating after the minister,*</p>
+::: {.center data-latex=""}
+*The man and the woman turn and face each other and join hands. The man will say, repeating after the minister,*
+:::
 
 > I [Name of Groom] take you [Name of Bride] to be my lawful wedded wife, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love and to cherish, till death us do part: according to God’s holy ordinance; and to this vow I pledge you my faithfulness.
 
-<p style="text-align: center">*The woman will say, repeating after the minister,*</p>
+::: {.center data-latex=""}
+*The woman will say, repeating after the minister,*
+:::
 
 > I [Name of Bride] take you [Name of Groom] to be my lawful wedded husband, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness, and in health, to love, cherish, and to obey, till death us do part: according to God’s holy ordinance; and to this vow I give you my faithfulness.
 
 Ring Ceremony
 
-<p style="text-align: center">*The minister will say to the man,*</p>
+::: {.center data-latex=""}
+*The minister will say to the man,*
+:::
 
 > [Name of Groom], what keepsake do you give [Name of Bride] of your promise to fulfill these vows you have made?
 
-<p style="text-align: center">*The best man gives the ring to the groom; the groom says, “This ring.” The groom takes the bride’s left hand the puts the ring on her fourth finger. The man says, repeating after the minister,*</p>
+::: {.center data-latex=""}
+*The best man gives the ring to the groom; the groom says, “This ring.” The groom takes the bride’s left hand the puts the ring on her fourth finger. The man says, repeating after the minister,*
+:::
 
 > As a pledge and symbol of the vows we have made, with this ring I thee wed, with my body I thee honor: and all my worldly goods I give to thee. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-<p style="text-align: center">*The minister will say to the woman,*</p>
+::: {.center data-latex=""}
+*The minister will say to the woman,*
+:::
 
 > [Name of Bride], what keepsake do you give [Name of Groom] of your promise to fulfill these vows you have made?
 
-<p style="text-align: center">*The maid of honor gives the ring to the bride; the bride says, “This ring.” The bride takes the groom’s left hand the puts the ring on his fourth finger. The woman says, repeating after the minister,*</p>
+::: {.center data-latex=""}
+*The maid of honor gives the ring to the bride; the bride says, “This ring.” The bride takes the groom’s left hand the puts the ring on his fourth finger. The woman says, repeating after the minister,*
+:::
 
 > As a pledge and symbol of the vows we have made, with this ring I am wedded to thee, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
@@ -822,11 +854,15 @@ Prayer
 > O Eternal God, Father of our Lord Jesus Christ, Creator and Preserver of all mankind, Giver of all spiritual grace, and the Author of everlasting life: send Your blessing upon these Your servants, this man and this woman, whom we bless in Your name; that as Isaac and Rebecca lived faithfully together in the bonds of matrimony, so may this man and wife surely perform and keep the vow and covenant made between them, of which these rings are a token and pledge. And may they ever remain in perfect love and peace together, and live according to Your laws, through Jesus Christ our Lord. Amen.
 
 Pronouncement
-<p style="text-align: center">*Then the minister shall speak to the people,*</p>
+::: {.center data-latex=""}
+*Then the minister shall speak to the people,*
+:::
 
 > Forasmuch as [Name of Groom] and [Name of Bride] have consented together to holy wedlock, and have witnessed their vow here before God and this company; and have given and pledged their faithfulness to each other by the joining of hands and exchanging of rings: By the authority committed unto me as a Minister of the Church of Jesus Christ, I pronounce that this man and this woman be man and wife, according to the ordinance of God. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-<p style="text-align: center">*Then the minister shall join their right hands together, and say,*</p>
+::: {.center data-latex=""}
+*Then the minister shall join their right hands together, and say,*
+:::
 
 > Those whom God has joined together, let no man separate.[^directoryForWorship.27]
 > 
@@ -835,7 +871,9 @@ Pronouncement
 [^directoryForWorship.27]: Matthew 19:6.
 
 Presentation of the Couple
-<p style="text-align: center">*The couple turns and faces the congregation. The minister shall say,*</p>
+::: {.center data-latex=""}
+*The couple turns and faces the congregation. The minister shall say,*
+:::
 
 > I now have the honor of presenting to you: Mr. and Mrs. _______________________.
 
@@ -979,7 +1017,9 @@ Benediction
 
 [](){#78}*The following form is from the 1549 Book of Common Prayer, modernized.*
 
-<p style="text-align: center">*At the grave, while the corpse is made ready to be laid into the earth, the minister shall say,*</p>
+::: {.center data-latex=""}
+*At the grave, while the corpse is made ready to be laid into the earth, the minister shall say,*
+:::
 
 > Man that is born of a woman has but a short time to live and is full of misery. He comes up and is cut down, like a flower; he flees like a shadow and never continues in one place.
 > 
@@ -987,7 +1027,9 @@ Benediction
 > 
 > Yet, O Lord God most holy, O Lord most mighty, O holy and most merciful Savior, deliver us not into the bitter pains of eternal death. You know, O Lord, the secrets of our hearts: shut not your merciful ears to our prayers; but spare us, Lord most holy, O God most mighty, O holy and merciful Savior, O most worthy Judge eternal, suffer us not at our last hour for any pains of death to fall from You.
 
-<p style="text-align: center">*Then shall follow this lesson, taken from the fifteenth chapter of the First Epistle to the Corinthians:*</p>
+::: {.center data-latex=""}
+*Then shall follow this lesson, taken from the fifteenth chapter of the First Epistle to the Corinthians:*
+:::
 
 > But now Christ has been raised from the dead, the first fruits of those who are asleep. For since by a man *came* death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ the first fruits, after that those who are Christ’s at His coming, then *comes* the end, when He hands over the kingdom to the God and Father, when He has abolished all rule and all authority and power. For He must reign until He has put all His enemies under His feet. The last enemy that will be abolished is death. For HE HAS PUT ALL THINGS IN SUBJECTION UNDER HIS FEET. But when He says, “All things are put in subjection,” it is evident that He is excepted who put all things in subjection to Him. When all things are subjected to Him, then the Son Himself also will be subjected to the One who subjected all things to Him, so that God may be all in all.
 > 
@@ -999,29 +1041,41 @@ Benediction
 > 
 > Now I say this, brethren, that flesh and blood cannot inherit the kingdom of God; nor does the perishable inherit the imperishable. Behold, I tell you a mystery; we will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be changed. For this perishable must put on the imperishable, and this mortal must put on immortality. But when this perishable will have put on the imperishable, and this mortal will have put on immortality, then will come about the saying that is written, “DEATH IS SWALLOWED UP in victory. “O DEATH, WHERE IS YOUR VICTORY? O DEATH, WHERE IS YOUR STING?” The sting of death is sin, and the power of sin is the law; but thanks be to God, who gives us the victory through our Lord Jesus Christ.
 
-<p style="text-align: center">*Then shall follow this lesson, taken from the fourteenth chapter of the Gospel of John:*</p>
+::: {.center data-latex=""}
+*Then shall follow this lesson, taken from the fourteenth chapter of the Gospel of John:*
+:::
 
 > “Do not let your heart be troubled; believe in God, believe also in Me. In My Father’s house are many dwelling places; if it were not so, I would have told you; for I go to prepare a place for you. If I go and prepare a place for you, I will come again and receive you to Myself, that where I am, *there* you may be also. And you know the way where I am going.” Thomas said to Him, “Lord, we do not know where You are going, how do we know the way?” Jesus said to him, “I am the way, and the truth, and the life; no one comes to the Father but through Me.”
 
-<p style="text-align: center">*Then the minister shall say,*</p>
+::: {.center data-latex=""}
+*Then the minister shall say,*
+:::
 
 > Forasmuch as it hath pleased Almighty God in His infinite wisdom and mercy to take out of this world the soul of our [brother/sister] departed, we now commit [his/her] body to the ground, earth to earth, ashes to ashes, and dust to dust.
 
-<p style="text-align: center">*Then shall follow this lesson, taken from the fourth chapter of the Apostle Paul’s First Epistle to the Thessalonians,*</p>
+::: {.center data-latex=""}
+*Then shall follow this lesson, taken from the fourth chapter of the Apostle Paul’s First Epistle to the Thessalonians,*
+:::
 
 > But we do not want you to be uninformed, brethren, about those who are asleep, so that you will not grieve as do the rest who have no hope. For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus. For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord, will not precede those who have fallen asleep. For the Lord Himself will descend from heaven with a shout, with the voice of *the* archangel and with the trumpet of God, and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord. Therefore comfort one another with these words.
 
-<p style="text-align: center">*Then shall be said,*</p>
+::: {.center data-latex=""}
+*Then shall be said,*
+:::
 
 > I heard a voice from heaven, saying, “Write, ‘Blessed are the dead who die in the Lord from now on!’” “Yes,” says the Spirit, “so that they may rest from their labors,&#8230;”
 
-<p style="text-align: center">*Then the minister shall say,*</p>
+::: {.center data-latex=""}
+*Then the minister shall say,*
+:::
 
 > Let us pray.
 > 
 > Almighty God, our heavenly Father, who, in thy perfect wisdom and mercy has ended for your servants departed, the voyage of this troubled life, grant we ask you, that we who are still to continue our course amidst earthly dangers, temptations, and troubles may evermore be protected by Your mercy, and finally come to the haven of eternal salvation, through Jesus Christ our Lord. Amen.
 
-<p style="text-align: center">*Then the minister shall pronounce a benediction,*</p>
+::: {.center data-latex=""}
+*Then the minister shall pronounce a benediction,*
+:::
 
 > The LORD bless you, and keep you; \
   The LORD make His face shine on you, \
