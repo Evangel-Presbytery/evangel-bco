@@ -809,6 +809,7 @@ Scripture Reading (for example, Genesis 2:18-25, Ephesians 5:22-33)
 Sermon
 
 Exchange of Vows
+
 ::: {.center data-latex=""}
 *The man and the woman turn and face each other and join hands. The man will say, repeating after the minister,*
 :::
@@ -854,6 +855,7 @@ Prayer
 > O Eternal God, Father of our Lord Jesus Christ, Creator and Preserver of all mankind, Giver of all spiritual grace, and the Author of everlasting life: send Your blessing upon these Your servants, this man and this woman, whom we bless in Your name; that as Isaac and Rebecca lived faithfully together in the bonds of matrimony, so may this man and wife surely perform and keep the vow and covenant made between them, of which these rings are a token and pledge. And may they ever remain in perfect love and peace together, and live according to Your laws, through Jesus Christ our Lord. Amen.
 
 Pronouncement
+
 ::: {.center data-latex=""}
 *Then the minister shall speak to the people,*
 :::
@@ -871,6 +873,7 @@ Pronouncement
 [^directoryForWorship.27]: Matthew 19:6.
 
 Presentation of the Couple
+
 ::: {.center data-latex=""}
 *The couple turns and faces the congregation. The minister shall say,*
 :::
