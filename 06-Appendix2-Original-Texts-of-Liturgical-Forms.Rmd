@@ -1,5 +1,6 @@
 # Appendix 2: Original Texts of Liturgical Forms {-}
 
+
 ## 1. Calvin’s Service of the Lord’s Supper (1542, 1566) {-}
 
 [](){#chapter-slug-1-calvins-service-of-the-lords-supper-1542-1566}
@@ -31,6 +32,7 @@
 *That done, the ministers distribute the bread and the cup to the people, having warned that they should approach with reverence and good order. Meanwhile, we sing some psalms or read a text from Scripture, which is appropriate for that which is signified by the Sacrament. At the end, we offer thanksgiving, as it has been said.*[^appendix2.01]
 
 [^appendix2.01]: From Mark Earngey and Jonathan Gibson, *Reformation Worship* (New Growth Press, 2018), 324–29.
+
 
 ## 2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer) {-}
 
@@ -217,6 +219,7 @@ Answer. Which put their trust in thee. \
 [^appendix2.02]: Original text from the 1549 Book of Common Prayer, with modernized spelling.
 
 [](){#chapter-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer}
+
 
 ## 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) {-}
 

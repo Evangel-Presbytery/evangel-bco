@@ -1,5 +1,6 @@
 # The Rules of Discipline {-}
 
+
 ## 30. Discipline—Its Nature, Subjects, and Ends {-}
 
 [](){#chapter-slug-30-discipline-its-nature-subjects-and-ends}
@@ -368,4 +369,3 @@
 5. When a Presbytery shall dismiss a Minister, licentiate, or candidate, the name of the Presbytery to which he is dismissed shall be given in the certificate, and he shall remain under the jurisdiction of the Presbytery dismissing him until received by the other.
 6. No certificate of dismissal from either a Session or a Presbytery shall be valid testimony of good standing for a longer period than one year, unless its earlier presentation be hindered by some providential cause; and such certificates given to persons who have left the bounds of the Session or Presbytery granting them, shall certify the standing of such persons only to the time of their leaving those bounds.
 7. [](){#49.7}When a Presbytery shall divest a Minister of his office without censure, or depose him without excommunication, it shall assign him to membership in some particular church, subject to the approval of the Session of that church.
-
