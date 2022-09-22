@@ -71,7 +71,6 @@ a {
 
 a:hover {
     color: #6b0009;
-    text-decoration: none !important;
 }
 
 .btn-outline-primary {
@@ -85,7 +84,7 @@ a:hover {
 }
 
 .bg-primary {
-    background-color: #6b0009 !important;
+    background-color: #343434 !important;
 }
 
 main ul > li > ul {
