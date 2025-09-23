@@ -1,0 +1,26 @@
+{
+  "author": "Evangel Presbytery",
+  "name": "evangel-bco",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The official Book of Church Order for Evangel Presbytery",
+  "main": "_book/index.html",
+  "scripts": {
+    "dev": "npm-run-all --parallel dev:quarto dev:vite",
+    "dev:quarto": "quarto preview --port 3001",
+    "dev:vite": "vite dev --port 3000",
+    "build": "npm run build:quarto && npm run build:vite",
+    "build:quarto": "quarto render",
+    "build:vite": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "vite": "7.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evangel-Presbytery/evangel-bco.git"
+  },
+  "private": true
+}

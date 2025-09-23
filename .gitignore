@@ -13,3 +13,9 @@ _quarto_files
 /.luarc.json
 **/*.quarto_ipynb
 .idea
+
+node_modules
+dist
+dist-ssr
+*.local
+.vite/
