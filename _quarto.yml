@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Evangel Presbytery Book of Church Order"
+  author: "Evangel Presbytery"
+  description: "*This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book.*"
+  date: today
+  repo-url: https://github.com/Evangel-Presbytery/evangel-bylaws
+  chapters:
+    - index.qmd
+    - 02-Form-of-Government.qmd
+    - 03-The-Rules-of-Discipline.qmd
+    - 04-Directory-for-the-Worship-of-God.qmd
+    - 05-Appendix1-Presbytery-Forms.qmd
+    - 06-Appendix2-Original-Texts-of-Liturgical-Forms.qmd
+    - 07-Updates.qmd
+  sidebar:
+    header: TOCheader.qmd
+    search: true
+  favicon: "evangel-favicon-196.png"
+
+format:
+  html:
+    number-sections: false
+    css: "style.css"
+    footnotes-hover: false
+    include-in-header:
+      - text: <script src="https://kit.fontawesome.com/c2565ebea9.js" crossorigin="anonymous"></script>
