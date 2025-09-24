@@ -1,11 +1,11 @@
-# Appendix 1: Presbytery Forms {-}
+# Appendix 1: Presbytery Forms 
 
 
-## Form of Ministerial Obligation {-}
+## Form of Ministerial Obligation 
 
-[](){#chapter-form-of-ministerial-obligation}
+<a id="sec-chapter-form-of-ministerial-obligation"></a>
 
-[](){#form-of-ministerial-obligation}Believing the Scriptures of the Old and New Testaments, as originally given, to be the infallible Word of God, which is the only infallible rule of faith and practice; and
+<a id="sec-form-of-ministerial-obligation"></a>Believing the Scriptures of the Old and New Testaments, as originally given, to be the infallible Word of God, which is the only infallible rule of faith and practice; and
 
 Sincerely receiving and adopting the Confession of Faith and the Catechisms of this Church, as containing the system of doctrine taught in the Holy Scriptures; and further promising that if at any time I find myself out of accord with any of the fundamentals of this system of doctrine, I will on my own initiative, make known to my Presbytery the change which has taken place in my views since the assumption of my ordination vows; and
 

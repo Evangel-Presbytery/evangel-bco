@@ -1,11 +1,11 @@
-# Appendix 2: Original Texts of Liturgical Forms {-}
+# Appendix 2: Original Texts of Liturgical Forms 
 
 
-## 1. Calvin’s Service of the Lord’s Supper (1542, 1566) {-}
+## 1. Calvin’s Service of the Lord’s Supper (1542, 1566) 
 
-[](){#chapter-slug-1-calvins-service-of-the-lords-supper-1542-1566}
+<a id="sec-chapter-slug-1-calvins-service-of-the-lords-supper-1542-1566"></a>
 
-[](){#appendix2.1}
+<a id="sec-appendix2-1"></a>
 
 *We must note that the Sunday before the Supper is celebrated, we announce it to the people: first, in order that each may be ready and prepared to receive it worthily and with appropriate reverence; second, so that we would not present children unless they are well instructed and have made a profession of their faith in the church; third, so that if there are strangers who are still untaught and ignorant, they would come to be instructed privately. The day when we celebrate it, the minister touches upon it at the end of the sermon, or, if necessary, makes it the entire sermon, an exposition to the people of what our Lord intends to say and signify by this mystery and how we ought to receive it.*
 
@@ -34,12 +34,12 @@
 [^appendix2.01]: From Mark Earngey and Jonathan Gibson, *Reformation Worship* (New Growth Press, 2018), 324–29.
 
 
-## 2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer) {-}
+## 2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer) 
 
-[](){#chapter-slug-2-the-form-of-solemnization-of-matrimony-1549-book-of-common-prayer}
+<a id="sec-chapter-slug-2-the-form-of-solemnization-of-matrimony-1549-book-of-common-prayer"></a>
 
 
-[](){#appendix2.2}*First, the banns must be asked three several Sundays or holy days in the service time, the people being present, after the accustomed manner. And if the persons that would be married dwell in divers parishes, the banns must be asked in both parishes, and the Curate of the one parish shall not solemnize matrimony betwixt them, without a certificate of the banns being thrice asked from the Curate of the other parish. At the day appointed for Solemnization of Matrimony, the persons to be married shall come into the body of the church, with their friends and neighbors. And there the priest shall thus say,*
+<a id="sec-appendix2-2"></a>*First, the banns must be asked three several Sundays or holy days in the service time, the people being present, after the accustomed manner. And if the persons that would be married dwell in divers parishes, the banns must be asked in both parishes, and the Curate of the one parish shall not solemnize matrimony betwixt them, without a certificate of the banns being thrice asked from the Curate of the other parish. At the day appointed for Solemnization of Matrimony, the persons to be married shall come into the body of the church, with their friends and neighbors. And there the priest shall thus say,*
 
 > Dearly beloved friends, we are gathered together here in the sight of God, and in the face of his congregation, to join together this man and this woman in holy matrimony, which is an honorable estate instituted of God in paradise, in the time of man’s innocency, signifying unto us the mystical union that is betwixt Christ and his Church: which holy estate, Christ adorned and beautified with his presence, and first miracle that he wrought in Cana of Galilee, and is commended of Saint Paul to be honorable among all men; and therefore is not to be enterprised, nor taken in hand unadvisedly, lightly, or wantonly, to satisfy men’s carnal lusts and appetites, like brute beasts that have no understanding: but reverently, discreetly, advisedly, soberly, and in the fear of God. Duly considering the causes for the which matrimony was ordained. One cause was the procreation of children, to be brought up in the fear and nurture of the Lord, and praise of God. Secondly it was ordained for a remedy against sin, and to avoid fornication, that such persons as be married, might live chastely in matrimony, and keep themselves undefiled members of Christ’s body. Thirdly, for the mutual society, help, and comfort, that the one ought to have of the other, both in prosperity and adversity. Into the which holy estate these two persons present: come now to be joined. Therefore if any man can shew any just cause why they may not lawfully be joined so together: Let him now speak, or else hereafter for ever hold his peace.
 
@@ -218,13 +218,13 @@ Answer. Which put their trust in thee. \
 
 [^appendix2.02]: Original text from the 1549 Book of Common Prayer, with modernized spelling.
 
-[](){#chapter-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer}
+<a id="sec-chapter-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer"></a>
 
 
-## 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) {-}
+## 3. The Order for the Burial of the Dead (1549 Book of Common Prayer) 
 
 ::: {.center data-latex=""}
-[](){#appendix2.3}*The priest meeting the corpse at the church style, shalt say: Or else the priests and clerks shalt sing, and so go either into the church, or towards the grave,*
+<a id="sec-appendix2-3"></a>*The priest meeting the corpse at the church style, shalt say: Or else the priests and clerks shalt sing, and so go either into the church, or towards the grave,*
 :::
 
 > I am the resurrection and the life (saith the Lord): he that believeth in me, yea though he were dead, yet shall he live. And whosoever liveth and believeth in me: shall not die forever. *John* xi.

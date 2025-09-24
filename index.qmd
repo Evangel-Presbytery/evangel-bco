@@ -1,23 +1,8 @@
---- 
-title: "Evangel Presbytery Book of Church Order"
-author: "Evangel Presbytery"
-date: "`r Sys.Date()`"
-documentclass: book
-colorlinks: true
-site: bookdown::bookdown_site
-github-repo: Evangel-Presbytery/evangel-bco
-description: "This is Evangel Presbytery's Book of Church Order."
----
+# Preface
 
-# Book of Church Order {-}
+<a id="sec-front-matter-preface"></a>
 
-*This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com and download the [latest PDF version here](https://bco.evangelpresbytery.com/evangel-presbytery-bco.pdf). A record of the changes can be found in the [Updates](https://bco.evangelpresbytery.com/updates.html) section at the end of the book.*
-
-## Preface {-}
-
-[](){#front-matter-preface}
-
-### A. Historical Statement and Declaration of Intent {-}
+## A. Historical Statement and Declaration of Intent 
 
 The Lord has blessed His Church with many precious gifts for equipping the saints for the work of ministry and for building up the body of Christ. Among these gifts are basic biblical principles for the system of government and discipline of His Church. Applying this wisdom to our time and place, we learn how to conduct ourselves in the Household of Faith as we labor with other congregations and undershepherds in mutual accountability and love.
 
@@ -53,7 +38,7 @@ Our work to keep the unity of the Spirit through the bond of peace means placing
 
 Now, 120 years later, we are in no less need of the Holy Spirit’s sanctifying presence and power. And so we commit this work to God’s hands, trusting Him to supply all our needs according to His riches in glory in Christ Jesus.
 
-### B. Preliminary Principles {-}
+## B. Preliminary Principles 
 
 The members of Evangel Presbytery, in presenting to the Christian public the system of union, and the form of government and discipline which they have adopted, have thought proper to state, by way of introduction, a few of the general principles by which they have been governed in the formation of the plan. This, it is hoped, will, in some measure, prevent those rash misconstructions, and uncandid reflections, which usually proceed from an imperfect view of any subject; as well as make the several parts of the system plain, and the whole perspicuous and fully understood. They are unanimously of opinion:
 
@@ -77,9 +62,9 @@ The members of Evangel Presbytery, in presenting to the Christian public the sys
 
 If the preceding scriptural principles be steadfastly adhered to, the vigor and strictness of disciplines will contribute to the glory and well-being of the Church.
 
-### C. Constitution Defined {-}
+## C. Constitution Defined 
 
-The Constitution of Evangel Presbytery, which is subject to and subordinate to the Scriptures of the Old and New Testaments, the infallible Word of God, consists of its doctrinal standards set forth in the Westminster Confession of Faith,[^preface.05] together with the Larger[^preface.06] and Shorter Catechisms[^preface.07]; the Doctrinal Declarations of the Presbytery;[^preface.08] the Book of Church Order, which comprises the Form of Government, the Rules of Discipline, and the Directory for the Worship of God; and the Apostles’ Creed, Nicene Creed, Chalcedonian Creed, and Athanasian Creed; all as adopted by the Presbytery (BCO [28.1](#28.1)).
+The Constitution of Evangel Presbytery, which is subject to and subordinate to the Scriptures of the Old and New Testaments, the infallible Word of God, consists of its doctrinal standards set forth in the Westminster Confession of Faith,[^preface.05] together with the Larger[^preface.06] and Shorter Catechisms[^preface.07]; the Doctrinal Declarations of the Presbytery;[^preface.08] the Book of Church Order, which comprises the Form of Government, the Rules of Discipline, and the Directory for the Worship of God; and the Apostles’ Creed, Nicene Creed, Chalcedonian Creed, and Athanasian Creed; all as adopted by the Presbytery (BCO [30.1](02-Form-of-Government.qmd#sec-30-1)).
 
 [^preface.05]: American revisions as adopted by the Orthodox Presbyterian Church in 1936, https://evangelpresbytery.com/westminster-confession-of-faith.
 
