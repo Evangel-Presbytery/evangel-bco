@@ -4,6 +4,10 @@
 }
 /*--*/
 
+.navbar-logo {
+  max-height: 65px;
+}
+
 .sidebar li {
     break-inside: avoid-column;
 }
