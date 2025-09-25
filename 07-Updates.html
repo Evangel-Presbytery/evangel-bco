@@ -73,6 +73,21 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script src="https://kit.fontawesome.com/c2565ebea9.js" crossorigin="anonymous"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var toc = document.getElementById('TOC');
+  if (toc) {
+    var tocTitle = document.getElementById('toc-title');
+    if (tocTitle) {
+      tocTitle.remove();
+    }
+    var activeSidebarItem = document.querySelector('.sidebar-item .active');
+    if (activeSidebarItem) {
+      activeSidebarItem.closest('.sidebar-item').appendChild(toc);
+    }
+  }
+});
+</script>
 
 
 <link rel="stylesheet" href="style.css">
@@ -156,11 +171,11 @@ ul.task-list li input[type="checkbox"] {
 </li>
     </ul>
     </div>
+    
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
