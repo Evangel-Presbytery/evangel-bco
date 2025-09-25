@@ -2,11 +2,12 @@ project:
   type: book
   post-render: scripts/fix_links.py
 
+date: today
+date-format: "MMMM D, YYYY"
+
 book:
   title: "Evangel Presbytery Book of Church Order"
-  author: "Evangel Presbytery"
-  description: "This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book."
-  date: today
+  description: "<br>This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at <https://bco.evangelpresbytery.com>. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book. <p>Last updated on {{< meta date >}}.</p>"
   repo-url: https://github.com/Evangel-Presbytery/evangel-bylaws
   chapters:
     - index.qmd

@@ -2,7 +2,7 @@
 
 *Significant changes to this Book of Church Order will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-bco).*
 
-* **Current version:** Migration to [Quarto](https://quarto.org/). September 24, 2025.
+* **Current version:** 
 * Amendment to BCO 26.1 regarding the notice required before congregational meetings. Ratified at the February 6, 2025 meeting of Presbytery.
 * Amendment to BCO 15.10 regarding special called meetings. Ratified at the June 6, 2024 meeting of Presbytery.
 * Amendments to BCO 6.3, 12.3 and 22.11 regarding the use of "Teaching Elder"; amendment to BCO 12.3 regarding who is required to preach at presbytery; amendment inserting a new section 29 on abortion to the BCO (subsequent sections, and all internal links, were re-numbered as a result). These amendments were ratified at the presbytery meeting held on October 6, 2023.
