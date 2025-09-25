@@ -4,7 +4,7 @@ project:
 book:
   title: "Evangel Presbytery Book of Church Order"
   author: "Evangel Presbytery"
-  description: "*This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book.*"
+  description: "This is the official Book of Church Order for Evangel Presbytery. You can always find the latest online version at https://bco.evangelpresbytery.com. A record of the changes can be found in the [Updates](07-Updates.qmd) section at the end of the book."
   date: today
   repo-url: https://github.com/Evangel-Presbytery/evangel-bylaws
   chapters:
