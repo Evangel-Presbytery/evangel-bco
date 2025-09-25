@@ -26,6 +26,6 @@ format:
   html:
     number-sections: false
     css: "style.css"
+    toc-location: left
     footnotes-hover: false
-    include-in-header:
-      - text: <script src="https://kit.fontawesome.com/c2565ebea9.js" crossorigin="anonymous"></script>
+    include-in-header: in_header.html
