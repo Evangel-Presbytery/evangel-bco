@@ -21,6 +21,18 @@ book:
     header: TOCheader.qmd
     search: true
   favicon: "evangel-favicon-196.png"
+  navbar: 
+    title: false
+    logo: logo-white.png
+    logo-href: https://evangelpresbytery.com
+    search: false
+    left:
+      - text: Book of Church Order
+        href: https://bco.evangelpresbytery.com
+      - text: Doctrinal Declarations
+        href: https://ddp.evangelpresbytery.com
+      - text: Bylaws
+        href: https://bylaws.evangelpresbytery.com
 
 format:
   html:
