@@ -1,5 +1,6 @@
 project:
   type: book
+  post-render: scripts/fix_links.py
 
 book:
   title: "Evangel Presbytery Book of Church Order"
