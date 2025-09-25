@@ -127,3 +127,9 @@ main ol, main ul {
 .sc {
     font-variant: small-caps;
 }
+
+@media (max-width: 991.98px) {
+  #TOC {
+    display: block !important;
+  }
+}
