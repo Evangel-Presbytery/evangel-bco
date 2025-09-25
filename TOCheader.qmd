@@ -1,1 +1,1 @@
-### Book of Church Order
+### {{< meta book.title >}}
