@@ -86,9 +86,9 @@ document.addEventListener("DOMContentLoaded", function() {
       activeSidebarItem.closest('.sidebar-item').appendChild(toc);
     }
 
-    // Add click listener to TOC links to close sidebar
+    // Add click listener to TOC links to close sidebar on mobile
     toc.addEventListener('click', function(e) {
-      if (e.target.tagName === 'A') {
+      if (e.target.tagName === 'A' && window.innerWidth < 992) {
         var toggleButton = document.querySelector('.quarto-btn-toggle');
         if (toggleButton) {
           toggleButton.click();
