@@ -11,6 +11,16 @@ document.addEventListener("DOMContentLoaded", function() {
     if (activeSidebarItem) {
       activeSidebarItem.closest('.sidebar-item').appendChild(toc);
     }
+
+    // Add click listener to TOC links to close sidebar
+    toc.addEventListener('click', function(e) {
+      if (e.target.tagName === 'A') {
+        var toggleButton = document.querySelector('.quarto-btn-toggle');
+        if (toggleButton) {
+          toggleButton.click();
+        }
+      }
+    });
   }
 });
 </script>
