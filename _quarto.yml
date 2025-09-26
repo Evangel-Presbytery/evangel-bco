@@ -1,6 +1,8 @@
 project:
   type: book
-  post-render: scripts/fix_links.py
+  post-render:
+    - scripts/fix_links.py
+    - scripts/fix_search_highlight.py
 
 date: today
 date-format: "MMMM D, YYYY"
