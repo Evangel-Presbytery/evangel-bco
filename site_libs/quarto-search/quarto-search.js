@@ -72,8 +72,8 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
 
   // Register this event after the initial scrolling and settling of events
   // on the page
-  window.addEventListener("quarto-hrChanged", resetFn);
-  window.addEventListener("quarto-sectionChanged", resetFn);
+  // window.addEventListener("quarto-hrChanged", resetFn);
+  // window.addEventListener("quarto-sectionChanged", resetFn);
 
   // Responsively switch to overlay mode if the search is present on the navbar
   // Note that switching the sidebar to overlay mode requires more coordinate (not just
