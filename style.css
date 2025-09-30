@@ -7,6 +7,21 @@
 }
 /*--*/
 
+/* Search button styling */
+
+.aa-DetachedSearchButton {
+  background-color: #eee;
+  width: 100%;
+  text-align: left;
+}
+
+/* remove extra space in sidebar header */
+.quarto-sidebar-header {
+  margin-bottom: -1.5em;
+}
+
+/*--*/
+
 .navbar-logo {
   max-height: 65px;
 }
