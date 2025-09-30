@@ -1156,10 +1156,9 @@ Benediction
 > Father, please guide these parents with your counsel as they train and teach their child; and help them to lead their household into an ever-increasing knowledge of Christ. We commend to Your care the children and families of this congregation. Help us in our homes to honor You, and to lovingly serve one another. To Your name be all blessing and glory through Jesus Christ our Lord. Amen.
 
 
-## 80. The Creeds 
+## 80. []{#anchor-80}The Creeds 
 
-[]{#anchor-80}
-### 1. **The Apostles’ Creed** 
+### 1. []{#the-apostles-creed}**The Apostles’ Creed** 
     
 > I believe in God, the Father Almighty,  
 > Maker of heaven and earth,  
@@ -1200,7 +1199,7 @@ Benediction
 
 [^directoryForWorship.52]: Or, “universal.”
     
-### 2. **The Nicene Creed** 
+### 2. []{#the-nicene-creed}**The Nicene Creed** 
     
 > We believe in one God, the Father Almighty,  
 > Maker of heaven and earth,  
@@ -1241,7 +1240,7 @@ Benediction
 
 [^directoryForWorship.54]: Or, “universal.”
     
-### 3. **The Athanasian Creed** 
+### 3. []{#the-athanasian-creed}**The Athanasian Creed** 
     
 > [1] Whoever desires to be saved should above all hold to the catholic[^directoryForWorship.55] faith. [2] Anyone who does not keep it whole and unbroken will doubtless perish eternally.
 > 
@@ -1253,7 +1252,7 @@ Benediction
     
 [^directoryForWorship.55]: Or, “universal.”
     
-### 4. **The Chalcedonian Creed** 
+### 4. []{#the-chalcedonian-creed}**The Chalcedonian Creed** 
     
 > We, then, following the holy Fathers, all with one consent, teach men to confess one and the same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable[^directoryForWorship.56] soul and body; consubstantial with the Father according to the Godhead, and consubstantial with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the God-bearer,[^directoryForWorship.57] according to the Manhood; one and the same Christ, Son, Lord, Only-begotten, to be acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably; the distinction of natures being by no means taken away by the union, but rather the property of each nature being preserved, and concurring in one Person and one Subsistence, not parted or divided into two persons, but one and the same Son, and only begotten, God the Word, the Lord Jesus Christ, as the prophets from the beginning have declared concerning Him, and the Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
 
