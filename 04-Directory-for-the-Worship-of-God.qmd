@@ -1156,10 +1156,12 @@ Benediction
 > Father, please guide these parents with your counsel as they train and teach their child; and help them to lead their household into an ever-increasing knowledge of Christ. We commend to Your care the children and families of this congregation. Help us in our homes to honor You, and to lovingly serve one another. To Your name be all blessing and glory through Jesus Christ our Lord. Amen.
 
 
-## 80. []{#anchor-80}The Creeds 
+## 80. The Creeds 
+[]{#anchor-80}
 
-### 1. []{#the-apostles-creed}**The Apostles’ Creed** 
-    
+### 1. **The Apostles’ Creed** 
+[]{#the-apostles-creed}
+
 > I believe in God, the Father Almighty,  
 > Maker of heaven and earth,  
 > and in Jesus Christ, His only Son, our Lord:
@@ -1199,8 +1201,9 @@ Benediction
 
 [^directoryForWorship.52]: Or, “universal.”
     
-### 2. []{#the-nicene-creed}**The Nicene Creed** 
-    
+### 2. **The Nicene Creed** 
+[]{#the-nicene-creed}
+
 > We believe in one God, the Father Almighty,  
 > Maker of heaven and earth,  
 > and of all things visible and invisible.
@@ -1240,8 +1243,9 @@ Benediction
 
 [^directoryForWorship.54]: Or, “universal.”
     
-### 3. []{#the-athanasian-creed}**The Athanasian Creed** 
-    
+### 3. **The Athanasian Creed** 
+[]{#the-athanasian-creed}
+
 > [1] Whoever desires to be saved should above all hold to the catholic[^directoryForWorship.55] faith. [2] Anyone who does not keep it whole and unbroken will doubtless perish eternally.
 > 
 > [3] Now this is the catholic faith: that we worship one God in Trinity and the Trinity in unity, [4] neither confounding their persons nor dividing the essence. [5] For the person of the Father is a distinct person, the person of the Son is another, and that of the Holy Spirit still another. [6] But the divinity of the Father, Son, and Holy Spirit is one, the glory equal, the majesty coeternal. [7] Such as the Father is, such is the Son and such is the Holy Spirit. [8] The Father is uncreated, the Son is uncreated, the Holy Spirit is uncreated. [9] The Father is immeasurable, the Son is immeasurable, the Holy Spirit is immeasurable. [10] The Father is eternal, the Son is eternal, the Holy Spirit is eternal. [11] And yet there are not three eternal beings; there is but one eternal being. [12] So too there are not three uncreated or immeasurable beings; there is but one uncreated and immeasurable being. [13] Similarly the Father is almighty, the Son is almighty, the Holy Spirit is almighty. [14] Yet there are not three almighty beings; there is but one almighty being. [15] Thus, the Father is God, the Son is God, the Holy Spirit is God. [16] Yet there are not three gods; there is but one God. [17] Thus, the Father is Lord, the Son is Lord, the Holy Spirit is Lord. [18] Yet there are not three lords; there is but one Lord. [19] Just as Christian truth compels us to confess each person individually as both God and Lord, [20] so catholic religion forbids us to say that there are three gods or lords. [21] The Father was neither made nor created nor begotten from anyone. [22] The Son was neither made nor created; He was begotten from the Father alone. [23] The Holy Spirit was neither made nor created nor begotten; He proceeds from the Father and the Son. [24] Accordingly, there is one Father, not three fathers; there is one Son, not three sons; there is one Holy Spirit, not three holy spirits. [25] None in this Trinity is before or after, none is greater or smaller; [26] in their entirety the three persons are coeternal and coequal with each other. [27] So in everything, as was said earlier, the unity in Trinity, and the Trinity in unity, is to be worshiped. [28] Anyone then who desires to be saved should think thus about the Trinity.
@@ -1252,8 +1256,9 @@ Benediction
     
 [^directoryForWorship.55]: Or, “universal.”
     
-### 4. []{#the-chalcedonian-creed}**The Chalcedonian Creed** 
-    
+### 4. **The Chalcedonian Creed** 
+[]{#the-chalcedonian-creed}
+
 > We, then, following the holy Fathers, all with one consent, teach men to confess one and the same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable[^directoryForWorship.56] soul and body; consubstantial with the Father according to the Godhead, and consubstantial with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the God-bearer,[^directoryForWorship.57] according to the Manhood; one and the same Christ, Son, Lord, Only-begotten, to be acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably; the distinction of natures being by no means taken away by the union, but rather the property of each nature being preserved, and concurring in one Person and one Subsistence, not parted or divided into two persons, but one and the same Son, and only begotten, God the Word, the Lord Jesus Christ, as the prophets from the beginning have declared concerning Him, and the Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
 
 [^directoryForWorship.56]: Or, “rational.” 
