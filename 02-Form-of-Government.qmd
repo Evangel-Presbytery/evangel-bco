@@ -60,9 +60,10 @@
 
 ## 6. The Organization of a Particular Church 
 
+[]{#anchor-6}
 
+1. A mission church may be properly described in the same manner as the particular church is described in BCO [5.1](#anchor-5-1). It is distinguished from a particular church in that it has no permanent governing body, and thus must be governed or supervised by others. However, its goal is to mature and be organized as a particular church as soon as this can be done decently and in good order.
 
-1. []{#anchor-6}A mission church may be properly described in the same manner as the particular church is described in BCO [5.1](#anchor-5-1). It is distinguished from a particular church in that it has no permanent governing body, and thus must be governed or supervised by others. However, its goal is to mature and be organized as a particular church as soon as this can be done decently and in good order.
     a.  Ordinarily, mission churches are established by Presbyteries within their boundaries.
         i.  Initiatives to which the Presbytery may respond in establishing a mission church include, but are not limited to, the following:
             1.  The Presbytery establishes a mission church at its own initiative.
@@ -70,20 +71,27 @@
             3.  The Presbytery responds to the petition of an independent gathering of believers who have expressed their desire to become a congregation by submitting to the Presbytery a written request.
         ii.  In the event an existing non-Evangel Presbytery church is interested in coming into Evangel Presbytery, the Presbytery shall work with the church leadership to determine whether the church should come into Evangel Presbytery as a mission church or seek Presbytery approval to be received under the provisions of BCO [15.7](#anchor-15-7).
         iii.  Should it become necessary, the Presbytery may dissolve the mission church. Church members enrolled should be cared for according to the procedures of BCO [15.9](#anchor-15-9).
+
     b.  The mission church, because of its transitional condition, requires a temporary system of government. Depending on the circumstances and at its own discretion, the Presbytery may provide for such government in one of several ways:
         i.  Appoint an Evangelist as prescribed in BCO [9.6](#anchor-9-6).
         ii.  Cooperate with the Session of a particular church in arranging a mother-daughter relationship with a mission church. The Session may then serve as the temporary governing body of the mission church.
         iii.  Appoint a BCO [17.1](#anchor-17-1) commission to serve as a temporary Session of the mission church. When a minister of the Presbytery has been approved to serve as pastor of the mission church, he shall be included as a member of the commission and serve as its moderator. The temporary system of government shall record and submit its records to Presbytery for annual review in the same manner as Sessions of particular churches.
-    c.  []{#anchor-6-1-c}Pastoral ministry for the mission church may be provided:
+
+    c.  Pastoral []{#anchor-6-1-c} ministry for the mission church may be provided:
         i.  by a minister of the Presbytery called by Presbytery to serve as pastor, or
         ii.  by stated, student, or ruling elder supply (BCO [24.5-6](#anchor-24-5)), or
         iii.  by a series of qualified preachers approved by the temporary government
-    d.  []{#anchor-6-1-d}The temporary government shall receive members (BCO [14.5](#anchor-14-5)) into the mission church according to the provisions of BCO [54](#anchor-54) so far as they may be applicable. As members of the mission church those received are communing or non-communing members of Evangel Presbytery.
+
+    d.  The []{#anchor-6-1-d} temporary government shall receive members (BCO [14.5](#anchor-14-5)) into the mission church according to the provisions of BCO [54](#anchor-54) so far as they may be applicable. As members of the mission church those received are communing or non-communing members of Evangel Presbytery.
         i.  If there is a minister approved by Presbytery to serve the mission church as its pastor (BCO [6.1.c](#anchor-6-1-c)), each member so received shall be understood to assent to the call of that minister and to affirm the promises made to the pastor in BCO [23.10](#anchor-23-10).
         ii.  Meetings of the members of the mission church shall be governed according to the provisions of BCO [27](#anchor-27) so far as they may be applicable.
+
     e.  Mission churches and their members shall have the right of judicial process to the court having oversight of their temporary governing body.
+
     f.  Mission churches shall maintain a roll of communicant and non-communicant members, in the same manner as, but separate from, other particular churches.
+
     g.  It is the intention of Evangel Presbytery that mission churches enjoy the same status as particular churches in relation to civil government.
+
 2. A new particular church can be organized only by the authority of Presbytery.
     a.  The Presbytery should establish standing rules setting forth the prerequisites that qualify a mission church to begin the organization process, e.g., the minimum number of petitioners and the level of financial support to be provided by the congregation. The number of officers sufficient to constitute the quorum for a session shall be necessary to complete the organization process.
     b.  The temporary government of the mission church shall oversee the steps necessary for organization.
@@ -202,9 +210,9 @@
 
 ## 15. The Presbytery 
 
+[]{#anchor-15}[]{#anchor-15-1}
 
-
-1. []{#anchor-15}[]{#anchor-15-1}The Presbytery consists of all the Ministers and churches within its bounds that have been accepted by the Presbytery. All Ministers and Ruling Elders in good standing of Evangel Presbytery shall have floor privileges.
+1. The Presbytery consists of all the Ministers and churches within its bounds that have been accepted by the Presbytery. All Ministers and Ruling Elders in good standing of Evangel Presbytery shall have floor privileges.
     
     In presbytery votes, in order to promote parity between Ministers and Ruling Elders and to prevent centralization of power in large churches, voting privileges for members of presbytery shall be capped at two Ministers per church. Up to two Ruling Elders from each church may be appointed by their sessions as voting commissioners. A voting Ruling Elder shall be added to each church’s allowed number of voting commissioners for each full one hundred communicant members over fifty members, up to four additional voting Ruling Elders.
     
@@ -224,9 +232,9 @@
 
 ## 16. Provisions Concerning Baptism 
 
+[]{#anchor-16}
 
-
-1. []{#anchor-16}Being diligent to preserve the unity of the Spirit in the bond of peace” (Eph. 4:3), the members and churches of the Presbytery are committed to the formal communion of Christians who hold differing convictions concerning time and mode of baptism. The members and churches of the Presbytery agree to the following:
+1. Being diligent to preserve the unity of the Spirit in the bond of peace” (Eph. 4:3), the members and churches of the Presbytery are committed to the formal communion of Christians who hold differing convictions concerning time and mode of baptism. The members and churches of the Presbytery agree to the following:
     a.  Both paedo-baptists and credo-baptists recognize the Westminster Standards (Confession of Faith and Larger and Shorter Catechisms) as an excellent summary of the system of doctrine taught in Scripture and believe submission to a single standard best promotes the peaceable government and unity of the Presbytery.
     b.  Evangel Presbytery will permit no exceptions to the Westminster Standards’ teaching that all who profess faith in Jesus Christ along with their children are members of the visible Church of Christ and all members of that visible Church are under obligation to love, honor and obey their God and proper subjects of the discipline of the Church.
     c.  Exceptions to the Westminster Standards concerning baptism will be granted in the following areas, and such exceptions will be deemed “not out of accord with any fundamental of our system of doctrine because the difference is neither hostile to the system nor strikes at the vitals of religion” (BCO [23.4.f](#anchor-23-4-f)):
@@ -303,7 +311,10 @@
 
 
 1. []{#anchor-21}[]{#anchor-21-1}To preserve the purity of the preaching of the Gospel, no man is permitted to preach in the pulpits of Evangel Presbytery on a regular basis without proper licensure from the Presbytery having jurisdiction where he will preach. This license shall immediately become void if the Presbytery administers against him a censure of suspension from office or the sacraments, or deposition from office, or of excommunication. A ruling elder, a candidate for the ministry, a minister from some other denomination, or some other man may be licensed for the purpose of regularly providing the preaching of the Word upon his giving satisfaction to the Presbytery of his gifts and passing the licensure examination. (See also BCO [24.5](#anchor-24-5) and BCO [24.6](#anchor-24-6).)
-2. []{#anchor-21-2}The examination for licensure shall be as follows:
+
+[]{#anchor-21-2}
+
+2. The examination for licensure shall be as follows:
     
     a.  The candidate shall give a statement of his Christian experience and inward call to preach the Gospel in written form and/or orally before the Presbytery (at the discretion of the Presbytery).
     b.  The candidate shall be tested with a written and/or oral examination by the Presbytery (at the discretion of the Presbytery) for his:
@@ -335,9 +346,9 @@
 
 ## 22. The Election of Pastors 
 
+[]{#anchor-22}[]{#anchor-22-1}
 
-
-1. []{#anchor-22}[]{#anchor-22-1}Before a candidate, or licentiate, can be ordained to the office of the ministry, he must receive a call to a definite work. Ordinarily the call must come from a church or the Presbytery. If the call comes from another source, the Presbytery shall always make a record of the reasons why it considers the work to be a valid Christian ministry.
+1. Before a candidate, or licentiate, can be ordained to the office of the ministry, he must receive a call to a definite work. Ordinarily the call must come from a church or the Presbytery. If the call comes from another source, the Presbytery shall always make a record of the reasons why it considers the work to be a valid Christian ministry.
     
     A proper call must be written and in the hands of the Presbytery prior to being acted upon by the Presbytery. It must include financial arrangements (such as salary, vacation, insurance, retirement, etc.) between those calling and the one called, and assurance that the definite work will afford the liberty to proclaim and practice fully and freely the whole counsel of God, as set forth in the Scriptures and understood in the Confession of Faith, Catechisms, and Doctrinal Declarations of the Presbytery.
     
@@ -355,7 +366,10 @@
     If they declare themselves ready, the moderator shall call for nominations, or the election may proceed by ballot without nominations. In every case a majority of all the votes cast shall be required to elect.
     
 5. On the election of a pastor, if it appears that a large minority of the voters are averse to the candidate who has received a majority of votes, and cannot be induced to concur in the call, the moderator shall endeavor to dissuade the majority from prosecuting it further; but if the electors be nearly or quite unanimous, or if the majority shall insist upon their right to call a pastor, the moderator shall proceed to draft a call in due form, and to have it subscribed by them, certifying at the same time in writing the number of those who do not concur in the call, and any facts of importance, all of which proceedings shall be laid before the Presbytery, together with the call.
-6. []{#anchor-22-6}Form of call: The terms of the call shall be approved by the congregation in the following or like form: 
+
+[]{#anchor-22-6}
+
+6. Form of call: The terms of the call shall be approved by the congregation in the following or like form: 
     
     > The ____________________ Church being on sufficient grounds well satisfied of the ministerial qualifications of you, ____________, and having good hopes from our knowledge of your labors that your ministrations in the Gospel will be profitable to our spiritual interests, do earnestly call you to undertake the pastoral office in said congregation, promising you, in the discharge of your duty, all proper support, encouragement and obedience in the Lord. That you may be free from worldly cares and avocations, we hereby promise and oblige ourselves to pay you the sum of $___________ a year in regular payments, and other benefits, such as, housing allowance, retirement, insurance, vacations, moving expenses etc., during the time of your being and continuing the regular pastor of this church.
     > 
@@ -380,7 +394,10 @@
 1. []{#anchor-23}No Minister or licentiate or candidate shall receive a call from a church but by the permission of his Presbytery. When a call has been presented to the Presbytery, if found in order and the Presbytery deem it for the good of the Church, they shall place it in the hands of the person to whom it is addressed. Ordinarily a candidate or licentiate may not be granted permission by the Presbytery to move on to the field to which he has been called, prior to his examination for licensure or ordination. Likewise an ordained minister from another denomination, ordinarily shall not move on to the field to which he has been called until examined and received by Presbytery.
 2. When a call for the pastoral services of a licentiate has been accepted by him, the Presbytery shall take immediate steps for his ordination.
 3. No Presbytery shall ordain any licentiate or candidate to the office of the Gospel ministry, with reference to his laboring within the bounds of another Presbytery, but shall furnish him with the necessary testimonials, and require him to repair to the Presbytery within whose bounds he expects to labor, that he may submit himself to its authority, according to the Constitution of the Church.
-4. []{#anchor-23-4}**Ordination Requirements and Procedures**
+
+[]{#anchor-23-4}
+
+4. **Ordination Requirements and Procedures**
     a.  A candidate applying for ordination shall be required to present at least a diploma of Bachelor of Divinity from some approved pastoral training institution or authentic testimonials of having completed a regular course of theological studies. No Presbytery shall omit any of these educational requirements except in extraordinary cases, and then only with a three-fourths (¾) approval of the Presbytery. Whenever a Presbytery shall omit any of these educational requirements, it shall always make a record of the reasons for such omission and the parts omitted. The candidate shall also present satisfactory testimonials as to the completion and approval of an internship in the practice of the ministry.
     b.  Every candidate for ordination shall ordinarily have met the requirements of the Presbytery’s approved curriculum. Ordinarily, the candidate shall have been examined in most of the following trials when he was licensed. If the Presbytery previously approved all parts of the licensure examination, it need not re-examine the candidate in those areas at this time. If there were areas of weakness, which the Presbytery noted, or if any member of the Presbytery desires to do so, the candidate may be examined on particular points again. Additionally, the candidate shall be examined on any parts required for ordination which were not covered in his examination for licensure. In all cases, he should be asked to indicate whether he has changed his previous views concerning any points in the Confession of Faith, Catechisms, Doctrinal Declarations of the Presbytery, and Book of Church Order.
     c.  A candidate shall undergo the following ordination trials:
@@ -440,7 +457,9 @@
 
 9. After the installation, the heads of families of the congregation then present, or at least the Ruling Elders and Deacons, should come forward to their Pastor, and give him their right hand and the holy kiss of Christian fellowship, in token of cordial reception and affectionate regard.
 
-10. []{#anchor-23-10}**Questions for Installation** 
+[]{#anchor-23-10}
+
+10. **Questions for Installation** 
     
     In the installation of an ordained Minister, the following questions are to be substituted for those addressed to a candidate for ordination, namely:
     
@@ -482,9 +501,9 @@
 
 ## 25. The Dissolution of the Pastoral Relation 
 
+[]{#anchor-25}
 
-
-1. []{#anchor-25}When any Minister shall tender the resignation of his pastoral charge to his Presbytery, the Presbytery shall cite the church to appear by its commissioners, or the church may so appear upon its own motion, to show cause, if it has any, why the Presbytery should not accept the resignation. If the church fail to appear, or if its reasons for retaining its Pastor be deemed insufficient, his resignation shall be accepted, and the pastoral relation dissolved. If any church desires to be relieved of its Pastor, a similar procedure shall be observed. But whether the Minister or the church initiate proceedings for a dissolution of the relation, there shall always be a meeting of the congregation called and conducted precisely in the same manner as when the call of a Pastor is to be made out. The pastoral relation of the assistant pastor may be dissolved by the Session; the presbytery shall be informed of their action.
+1. When any Minister shall tender the resignation of his pastoral charge to his Presbytery, the Presbytery shall cite the church to appear by its commissioners, or the church may so appear upon its own motion, to show cause, if it has any, why the Presbytery should not accept the resignation. If the church fail to appear, or if its reasons for retaining its Pastor be deemed insufficient, his resignation shall be accepted, and the pastoral relation dissolved. If any church desires to be relieved of its Pastor, a similar procedure shall be observed. But whether the Minister or the church initiate proceedings for a dissolution of the relation, there shall always be a meeting of the congregation called and conducted precisely in the same manner as when the call of a Pastor is to be made out. The pastoral relation of the assistant pastor may be dissolved by the Session; the presbytery shall be informed of their action.
     
     Upon dissolution of the pastoral relationship of the senior pastor, the Presbytery must determine if the dissolution of the pastoral relationship of the senior pastor was brought about in Christian love and good order on the part of the parties concerned. The Presbytery must review the call of any new senior pastor and the continuation of existing pastoral relationships, which calls are subject to the Presbytery’s approval by majority vote.
     
@@ -495,9 +514,9 @@
 
 ## 26. Election, Ordination, and Installation of Ruling Elders and Deacons 
 
+[]{#anchor-26}
 
-
-### []{#anchor-26}Election
+### Election
 
 1. Every church shall elect men to the offices of ruling elder and deacon in the following manner: At such times as determined by the Session, voting members of the congregation may submit names to the Session, keeping in mind that each prospective officer should be an active male member who meets the qualifications set forth in 1 Timothy 3 and Titus 1. After the close of the nomination period those nominees for the office of ruling elder and/or deacon approved by the Session shall receive instruction in the qualifications and work of the office. Each nominee shall then be examined in:
     
@@ -518,7 +537,9 @@
 
 ### Ordination and Installation 
 
-4. []{#anchor-26-4}The day having arrived, and the Session being convened in the presence of the congregation, a sermon shall be preached after which the presiding minister shall state in a concise manner the warrant and nature of the office of ruling elder, or deacon, together with the character proper to be sustained and the duties to be fulfilled. Having done this, he shall propose to the candidate, in the presence of the church, the following questions, namely:
+[]{#anchor-26-4}
+
+4. The day having arrived, and the Session being convened in the presence of the congregation, a sermon shall be preached after which the presiding minister shall state in a concise manner the warrant and nature of the office of ruling elder, or deacon, together with the character proper to be sustained and the duties to be fulfilled. Having done this, he shall propose to the candidate, in the presence of the church, the following questions, namely:
     
     a.  Do you believe the Scriptures of the Old and New Testaments, as originally given, to be the infallible Word of God, which is the only infallible rule of faith and practice?
     b.  Do you sincerely receive and adopt the Confession of Faith, the Catechisms, and the Doctrinal Declarations of this Church, as the system of doctrine taught in the Holy Scriptures; and do you further promise that if at any time you find yourself out of accord with any of the fundamentals of this system of doctrine, you will on your own initiative, make known to your Presbytery the change which has taken place in your views since the assumption of this ordination vow?

@@ -1,13 +1,17 @@
 # The Rules of Discipline 
 
-
 ## 29. Discipline—Its Nature, Subjects, and Ends 
 
+[]{#anchor-29-1}
 
-1. []{#anchor-29-1}Discipline is the exercise of authority given the Church by the Lord Jesus Christ to instruct and guide its members and to promote its purity and welfare. The term has two senses:
+1. Discipline is the exercise of authority given the Church by the Lord Jesus Christ to instruct and guide its members and to promote its purity and welfare. The term has two senses:
+    
     a.  []{#anchor-29-1-a}the one referring to the whole government, inspection, training, guardianship, and control which the Church maintains over its members, its officers, and its courts;
+    
     b.  the other a restricted and technical sense, signifying judicial process.
+
 2. In the first and broader sense, all communing, non-communing, and associate members of the Church are subject to its discipline and entitled to the benefits thereof; but in the second and narrower sense the term discipline refers only to those who have made a profession of their faith in Christ.
+
 3. In its proper usage discipline maintains: a) the glory of God; b) the purity of His Church; and c) the keeping and reclaiming of disobedient sinners. Discipline is for the purpose of godliness;[^rulesOfDiscipline.01] therefore it demands a self-examination under Scripture. 
     
     The ends of discipline, so far as it involves judicial action, are the spiritual good of the offender, the rebuke of offenses, the removal of scandal, the promotion of the purity and welfare of the Church, and the vindication of the honor of Christ.
@@ -187,8 +191,9 @@
 
 ## 39. The Removal of Censure 
 
+[]{#anchor-39}
 
-1. []{#anchor-39}A person who has been definitely suspended from Sacraments or office shall be restored by the court at the end of the term of his suspension by declaring words of the following import to him:  
+1. A person who has been definitely suspended from Sacraments or office shall be restored by the court at the end of the term of his suspension by declaring words of the following import to him:  
     
     > “Whereas, You, ____________________, have been debarred from the Sacraments of the Church [and/or from the office of Minister or Ruling Elder or Deacon], but have now fulfilled the time of your censure, we, of the __________________ [Presbytery *or* Church Session] do hereby, in the name and by the authority of the Lord Jesus Christ, absolve you from the sentence of suspension and do restore you to participation in the Sacraments [and/or the exercise of your said office, and all the functions thereof].”
     
@@ -245,8 +250,9 @@
 
 ## 41. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts 
 
+[]{#anchor-41}
 
-1. []{#anchor-41}The acts and decisions of a lower court are brought under the supervision of a higher court in one or another of the following modes:
+1. The acts and decisions of a lower court are brought under the supervision of a higher court in one or another of the following modes:
     a.  Review and Control;
     b.  Reference;
     c.  Appeal;
