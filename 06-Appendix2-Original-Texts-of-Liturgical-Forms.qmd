@@ -50,7 +50,7 @@
 *At which day of marriage if any man do allege any impediment why they may not be coupled together in matrimony; And will be bound, and sureties with him, to the parties, or else put in a caution to the full value of such charges as the persons to be married do sustain to prove his allegation: then the Solemnization must be deferred, unto such time as the truth be tried. If no impediment be alleged, then shall the Curate say unto the man,*
 :::
 
-> N.Wilt thou have this woman to thy wedded wife, to live together after God’s ordinance in the holy estate of matrimony? Wilt thou love her, comfort her, honor, and keep her in sickness and in health? And forsaking all other keep thee only to her, so long as you both shall live?
+> N. Wilt thou have this woman to thy wedded wife, to live together after God’s ordinance in the holy estate of matrimony? Wilt thou love her, comfort her, honor, and keep her in sickness and in health? And forsaking all other keep thee only to her, so long as you both shall live?
 
 ::: {.center data-latex=""}
 *The man shall answer,*
@@ -62,7 +62,7 @@
 *Then shall the priest say to the woman,*
 :::
 
-> N.Wilt thou have this man to thy wedded husband, to live together after God’s ordinance, in the holy estate of matrimony? Wilt thou obey him, and serve him, love, honor, and keep him in sickness and in health? And forsaking all other keep thee only to him, so long as you both shall live?
+> N. Wilt thou have this man to thy wedded husband, to live together after God’s ordinance, in the holy estate of matrimony? Wilt thou obey him, and serve him, love, honor, and keep him in sickness and in health? And forsaking all other keep thee only to him, so long as you both shall live?
 
 ::: {.center data-latex=""}
 *The woman shall answer,*
@@ -124,9 +124,9 @@
 *Then shall they go into the quire, and the ministers or clerks shall say or sing, this psalm following,*
 :::
 
-*Beati omnes. cxxviii.*
-
-Blessed are all they that fear the Lord, and walk in his ways. \
+> *Beati omnes. cxxviii.*
+> 
+> Blessed are all they that fear the Lord, and walk in his ways. \
 For thou shalt eat the labour of thy hands. O well is thee, and happy shalt thou be. \
 Thy wife shall be as the fruitful vine, upon the walls of thy house. \
 Thy children like the olive branches round about thy table. \
@@ -140,9 +140,9 @@ As it was in the beginning, etc.
 *Or else this psalm following,*
 :::
 
-*Deus misereatur nostri. Psalm lxvii.*
-
-God be merciful unto us, and bless us, and shew us the light of his countenance: and be merciful unto us. \
+> *Deus misereatur nostri. Psalm lxvii.*
+> 
+> God be merciful unto us, and bless us, and shew us the light of his countenance: and be merciful unto us. \
 That thy way may be known upon the earth, thy saving health among all nations. \
 Let the people praise thee (O God) yea let all people praise thee. \
 O let the nations rejoice and be glad, for thou shalt judge the folk righteously, and govern the nations upon the earth. \
@@ -263,9 +263,9 @@ Answer. Which put their trust in thee. \
 *These psalms with other suffrages following are to be said in the church either before or after the burial of the corpse,*
 :::
 
-*Dilexi, quoniam*. Psalm cxvi.
-
-I am well pleased that the Lord hath heard the voice of my prayer. \
+> *Dilexi, quoniam*. Psalm cxvi.
+> 
+> I am well pleased that the Lord hath heard the voice of my prayer. \
 That he hath inclined his ear unto me, therefore will I call upon him as long as I live. \
 The snares of death compassed me round about, and the pains of hell gat hold upon me: I shall find trouble and heaviness, and I shall call upon the name of the Lord, (O Lord,) I beseech thee deliver my soul. \
 Gracious is the Lord, and righteous, yea, our God is merciful. \
@@ -283,9 +283,9 @@ I will pay my vows unto the Lord, in the sight of all his people, in the courts 
 Glory to the Father, etc. \
 As it was in the beginning, etc.
 
-*Lauda, anima, mea*. Psalm cxlvi.
-
-Praise the Lord, (O my soul), while I live will I praise the Lord: yea, as long as I have any being, I will sing praises unto my God.
+> *Lauda, anima, mea*. Psalm cxlvi.
+> 
+> Praise the Lord, (O my soul), while I live will I praise the Lord: yea, as long as I have any being, I will sing praises unto my God.
 
 ::: {.center data-latex=""}
 *Note that this psalm is to be said after the others that followeth,*
@@ -302,7 +302,7 @@ The Lord careth for the strangers, he defendeth the fatherless and widow: as for
 The Lord thy God, O Zion, shall be king for evermore, and throughout all generations. \
 Glory to the Father, etc. \
 As it was in the beginning, etc. \
-> 
+
 > *Domine, probasti*. Psalm cxxxix.
 > 
 > O Lord, thou hast searched me out, and known me. Thou knowest my down-sitting, and mine up-rising: thou understandest my thoughts long before. \
