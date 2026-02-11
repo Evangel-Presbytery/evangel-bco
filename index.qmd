@@ -67,4 +67,3 @@ The Constitution of Evangel Presbytery, which is subject to and subordinate to t
 [^preface.05]: American revisions as adopted by the Orthodox Presbyterian Church in 1936. 
 
 <!--- End of frontmatter, start of regular page numbering-->
-\mainmatter
