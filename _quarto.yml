@@ -40,3 +40,6 @@ format:
     css: "style.css"
     toc-location: left
     include-in-header: in_header.html
+  docx:
+    toc: true
+    number-sections: false
