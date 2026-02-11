@@ -44,5 +44,6 @@ format:
     toc: true
     number-sections: false
   pdf:
+    documentclass: scrreprt
     toc: true
     number-sections: false
