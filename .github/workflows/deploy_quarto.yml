@@ -28,9 +28,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload DOCX
-        uses: actions/upload-artifact@v4
-        with:
-          name: book-docx
-          path: _book/*.docx
-
