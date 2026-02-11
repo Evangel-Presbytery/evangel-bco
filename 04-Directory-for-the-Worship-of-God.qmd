@@ -1,8 +1,8 @@
 # Directory for the Worship of God 
 
-## Preface to the Directory 
+## []{#anchor-dfw-preface}Preface to the Directory 
 
-[]{#anchor-dfw-preface}The purpose of this Directory is to express the Church&#8217;s common understanding of the principles and practice of public worship that is Reformed according to the Scriptures and, subordinately, to the Confession, Catechisms, and Doctrinal Declarations of the Presbytery. Where practices are understood by the Church to be required by the Word of God, either expressly or by good and necessary consequence, they are mandated. In matters of circumstance and form in worship not specifically provided for in Scripture, the Directory provides guidance for their ordering according to the light of nature and Christian prudence, consonant with the general rules of the Word.
+The purpose of this Directory is to express the Church&#8217;s common understanding of the principles and practice of public worship that is Reformed according to the Scriptures and, subordinately, to the Confession, Catechisms, and Doctrinal Declarations of the Presbytery. Where practices are understood by the Church to be required by the Word of God, either expressly or by good and necessary consequence, they are mandated. In matters of circumstance and form in worship not specifically provided for in Scripture, the Directory provides guidance for their ordering according to the light of nature and Christian prudence, consonant with the general rules of the Word.
 
 The Directory seeks to make clear this distinction in its use of language. The following denotations used in the Directory are to be understood as indicated. The first category denotes practices that are required by the Word of God.
 
@@ -23,9 +23,7 @@ The Suggested Forms for Particular Services are, by definition, suggested. The d
 Scripture quotations in the Directory and the Suggested Forms are drawn from the New American Standard Bible (1995) with a few variations, indicated by brackets, where deemed advisable for current understanding, without prejudice to other translations. In the use of the Directory, any accurate, faithful translation may be substituted.
 
 
-## 49. God’s Institution of Public Worship 
-
-[]{#anchor-49}
+## []{#anchor-49}49. God’s Institution of Public Worship 
 
 1. The living and true God, our triune Creator, has instituted the worship of Himself by all people everywhere in spirit and in truth.
 
@@ -50,9 +48,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 4. The Lord’s Day is a day of holy convocation, the day on which the Lord calls His people to assemble for public worship. Although it is fitting and proper that the members of Christ’s church assemble for worship on other occasions also, which are left to the discretion of particular sessions, the Lord calls the whole congregation of each local church to the sacred duty and high privilege of assembling for public worship each Lord’s Day. He expressly commands His people to draw near to Him, not forsaking the assembling of themselves together. Therefore, both worship and fellowship are necessary on the Lord’s Day.
 
 
-## 50. The Nature of Public Worship 
-
-[]{#anchor-50}
+## []{#anchor-50}50. The Nature of Public Worship 
 
 1. An assembly of public worship is not merely a gathering of God’s children with each other, but is, before all else, a meeting of the triune God with His covenant people. In the covenant, God promises His chosen ones that He will dwell among them as their God and they will be His people.
 
@@ -109,9 +105,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 [^directoryForWorship.02]: 1 Corinthians 14:24-25.
 
 
-## 51. The Parts of Public Worship 
-
-[]{#anchor-51}
+## []{#anchor-51}51. The Parts of Public Worship 
 
 1. Because a service of public worship is in its essence a meeting of the triune God with His chosen people (some of whom have not yet come to faith and repentance), a worship service consists of two principal parts: those elements which are done on behalf of God (through a representative voice) and those elements which are done by the congregation (through their own or a representative voice).
 
@@ -134,9 +128,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 4. The session does well to ensure that the public worship assembly space is so arranged as to reflect and reinforce God’s initiative in drawing near to and gathering His people through the ministry of the Word and sacraments. Because the pulpit, baptismal waters, and communion table facilitate the part of worship which is performed on behalf of God, it is fitting that they be positioned so as to draw the focus of the congregation upon the Word and sacraments, and that they be easily accessible and visible to the entire congregation throughout the worship service. Because the Word is primary and the sacraments serve to seal the Word, it is fitting that the pulpit be in the position of prominence.
 
 
-## 52. The Oversight and Conduct of Public Worship 
-
-[]{#anchor-52}
+## []{#anchor-52}52. The Oversight and Conduct of Public Worship 
 
 1. Public worship is Christian, not only when the worshipers consciously recognize that Christ is the Mediator by whom alone they can come unto God, but also when they honor the exalted Christ as the living and only Head of the church, who rules over public worship.
 
@@ -167,9 +159,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 [^directoryForWorship.04]: 1 Corinthians 14:34.
 
 
-## 53. Elements of Ordinary Public Worship—From God to the People 
-
-[]{#anchor-53}
+## []{#anchor-53}53. Elements of Ordinary Public Worship—From God to the People 
 
 1. **The Call to Worship**
 
@@ -222,9 +212,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 [^directoryForWorship.09]: 2 Corinthians 13:14.
 
 
-## 54. Elements of Ordinary Public Worship—From the People to God 
-
-[]{#anchor-54}
+## []{#anchor-54}54. Elements of Ordinary Public Worship—From the People to God 
 
 1. **Public Prayer**
 
@@ -298,9 +286,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 5. In the administration of the sacraments, the minister shall follow the directions prescribed in this chapter, but, except in the case of the words of the baptismal formula, he is not required to use the exact language of the indented forms (below), which are suggested as appropriate. He may employ these or similar forms, using his own liberty and godly wisdom, as he deems best for the edification of the people.
 
 
-## 56. The Baptism of Infants 
-
-[]{#anchor-56}
+## []{#anchor-56}56. The Baptism of Infants 
 
 1. **Prerequisites**
     
@@ -389,14 +375,12 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 [^directoryForWorship.17]: If the session has permitted the parents' request for the baptism of an infant to take place in another church, the congregation present at the baptism should not take this vow. At a subsequent date, with explanation (especially in exclusively credo-baptistic churches), the vow should be administered to the home congregation.
 
 
-## 57. A Note on Infant Dedication 
+## []{#anchor-57}57. A Note on Infant Dedication 
 
-[]{#anchor-57}While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. A suggested ceremony for infant dedication can be found in BCO [79](#anchor-79).
+While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. A suggested ceremony for infant dedication can be found in BCO [79](#anchor-79).
 
 
-## 58. The Baptism of Those Professing Faith 
-
-[]{#anchor-58}
+## []{#anchor-58}58. The Baptism of Those Professing Faith 
 
 1. **Prerequisites**
     
@@ -467,9 +451,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
         The whole service of baptism shall be concluded with prayer. It is well in such a prayer to thank the Lord for His covenant of grace, rejoice that this brother has been included, and to ask the Lord to graciously enable him to be a covenant keeper, daily dying to sin and walking in newness of life in Christ.
 
 
-## 59. The Lord's Supper 
-
-[]{#anchor-59}
+## []{#anchor-59}59. The Lord's Supper 
 
 1. **General Provisions of the Lord’s Supper**
     
@@ -576,9 +558,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 6. If they have been baptized, non-communing members of the congregation may be received into communicant membership by profession of faith.
 
 
-## 61. Reception into Full Communion of Non-communing Members by Profession of Faith 
-
-[]{#anchor-61}
+## []{#anchor-61}61. Reception into Full Communion of Non-communing Members by Profession of Faith 
 
 1. When a non-communing member who was baptized as an infant is received into full communion, that reception is effective at the time of his public profession of faith. On the occasion of that person’s public reception, it is highly advisable that the minister remind the people that he is already a member of the church, albeit a non-communing member, and has been receiving the blessings of Christ as a member of the church, and that those blessings have resulted in this day wherein, having given evidence of conscious saving faith in Christ, he is now about to confess that faith and become a communing member of the congregation. The minister may then address him in these or like words:  
     
@@ -614,14 +594,12 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 *For children of paedo-baptistic parents making a profession of faith in a credo-baptistic church, please see BCO [65.3](#anchor-65-3), [65.4](#anchor-65-4).*
 
 
-## 62. Reception by Letter of Transfer from Another Church within Evangel Presbytery 
+## []{#anchor-62}62. Reception by Letter of Transfer from Another Church within Evangel Presbytery 
 
-[]{#anchor-62}When a person is received into membership on letter of transfer from another Evangel Presbytery congregation, he shall be received into membership in the same manner as a person who is received into membership on letter of transfer from another church of like faith and practice in accordance with BCO 65. This person's reception into membership is effective at the time of his public profession of faith.
+When a person is received into membership on letter of transfer from another Evangel Presbytery congregation, he shall be received into membership in the same manner as a person who is received into membership on letter of transfer from another church of like faith and practice in accordance with BCO 65. This person's reception into membership is effective at the time of his public profession of faith.
 
 
-## 63. Reception by Letter of Transfer from Another Church of Like Faith and Practice 
-
-[]{#anchor-63}
+## []{#anchor-63}63. Reception by Letter of Transfer from Another Church of Like Faith and Practice 
 
 1. When a person is received into membership on letter of transfer from another church of like faith and practice approved by the session, that reception is effective at the time of his public profession of faith. On the occasion of that person’s public reception, the minister shall address him in these or like words:  
     
@@ -642,9 +620,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     
     > As [Name] is received into full communion in the church, the whole congregation is obligated to receive [him/her], for in Christ we are members of one another. Christ claims this [brother/sister] as His own and calls you to serve [him/her] in love. Therefore, you ought to commit yourself before God to assist [Name] in [his/her] Christian nurture by godly example, prayer, and encouragement in our most precious faith and in the fellowship of believers.
 
-[]{#anchor-63-4}
-
-4. When anyone has publicly professed his faith in this way, it is fitting that the minister address him in the following or like words:  
+4. []{#anchor-63-4}When anyone has publicly professed his faith in this way, it is fitting that the minister address him in the following or like words:  
 
     > Beloved, in the name of the Lord Jesus Christ I welcome you to all the privileges of full communion with this congregation of God’s people. 
     > 
@@ -657,9 +633,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     This part of the service shall be concluded with prayer.
 
 
-## 64. Reception by Reaffirmation of Faith 
-
-[]{#anchor-64}
+## []{#anchor-64}64. Reception by Reaffirmation of Faith 
 
 1. When a person is received into membership by reaffirmation of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person’s public reception, the minister shall address him in these or like words:  
     
@@ -710,15 +684,11 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     
     If the pastor deems it appropriate, he may also ask him to bear brief testimony to his faith in his own words.
 
-[]{#anchor-65-3}
-
-3. It is appropriate that the minister exhort the congregation in these or like words:  
+3. []{#anchor-65-3}It is appropriate that the minister exhort the congregation in these or like words:  
     
     > As [Name] is received into full communion in the church, the whole congregation is obligated to receive (him/her), for in Christ we are members of one another. Christ claims this (brother/sister) as His own and calls you to serve (him/her) in love. Therefore, you ought to commit yourself before God to assist [Name] in (his/her) Christian nurture by godly example, prayer, and encouragement in our most precious faith and in the fellowship of believers.
-
-[]{#anchor-65-4}
  
-4. When anyone has publicly professed his faith in this way, it is fitting that the minister address him in the following or like words:  
+4. []{#anchor-65-4}When anyone has publicly professed his faith in this way, it is fitting that the minister address him in the following or like words:  
     
     > Beloved, in the name of the Lord Jesus Christ I welcome you to all the privileges of full communion with God’s people, and in particular to participation in the sacrament of the Holy Supper.
     > 
@@ -731,19 +701,19 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
     This part of the service shall be concluded with prayer.
 
 
-## 66. Other Occasions of Public Worship 
+## []{#anchor-66}66. Other Occasions of Public Worship 
 
-[]{#anchor-66}Under the Gospel, we are commanded to keep no other particular day holy, except the Lord&#8217;s Day. Nevertheless, God&#8217;s people may observe other occasions of worship as the Lord allows. Such observance is both consonant with Scripture and pastorally appropriate.
-
-
-## 67. Prayer Meetings 
-
-[]{#anchor-67}Prayer meetings for the purpose of corporate prayer should be held under the direction of the Session. They may be conducted by the Pastor or member of the session. They may also be conducted by other members of the church when so authorized by the session. The exercises appropriate for the prayer meeting are prayer, reading of Scriptures, instruction and exhortation by men. All of the people of the church, young and old, male and female, should be encouraged to pray aloud in public and so have an active part in the prayer meeting.
+Under the Gospel, we are commanded to keep no other particular day holy, except the Lord&#8217;s Day. Nevertheless, God&#8217;s people may observe other occasions of worship as the Lord allows. Such observance is both consonant with Scripture and pastorally appropriate.
 
 
-## 68. Prayer and Fasting 
+## []{#anchor-67}67. Prayer Meetings 
 
-1. []{#anchor-68}When great and notable calamities come upon or threaten the church, community, or nation, when judgment is deserved because of sin, when the people seek some special blessing from the Lord, or when a pastor is to be ordained or installed, it is fitting that the people of God engage in times of solemn prayer and fasting.
+Prayer meetings for the purpose of corporate prayer should be held under the direction of the Session. They may be conducted by the Pastor or member of the session. They may also be conducted by other members of the church when so authorized by the session. The exercises appropriate for the prayer meeting are prayer, reading of Scriptures, instruction and exhortation by men. All of the people of the church, young and old, male and female, should be encouraged to pray aloud in public and so have an active part in the prayer meeting.
+
+
+## []{#anchor-68}68. Prayer and Fasting 
+
+1. When great and notable calamities come upon or threaten the church, community, or nation, when judgment is deserved because of sin, when the people seek some special blessing from the Lord, or when a pastor is to be ordained or installed, it is fitting that the people of God engage in times of solemn prayer and fasting.
 
 2. Prayer and fasting may be observed by private individuals and families at their discretion or by the Church at the discretion of the appropriate judicatory. If the civil authority calls for a time of prayer and fasting that the judicatories of the Church deem to be in harmony with the Scriptures, they should consider issuing such a call to their members.
 
@@ -809,9 +779,9 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 [^directoryForWorship.30]: Two resources we commend in considering cases of divorce are: “Marriage, Singleness, Divorce, and Remarriage,” statement adopted by the session of Trinity Reformed Church of Bloomington, Indiana, June 2, 1999, available at https://evangelpresbytery.com/wp-content/uploads/2019/10/Divorce-Policy-FINAL-2000.pdf; and “Divorce and Remarriage,” Report of the Ad-Interim Study Committee on Marriage and Divorce to the Twentieth General Assembly of the Presbyterian Church in America, 1992, https://pcahistory.org/pca/digest/studies/divorce-remarriage.pdf.
 
 
-## 72. Other Policies Related to Biblical Sexuality
+## []{#anchor-72}72. Other Policies Related to Biblical Sexuality
 
-[]{#anchor-72}In accordance with the beliefs laid out in the [Declaration of Doctrine on Sexuality (DDS)](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html), namely, that God created each person as either male or female ([DDS 5–6](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-05)); that each person has a subsequent responsibility to live in accordance with the genetic sex given to him by God ([DDS 6–7](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-06)); and that any attempt of a man to play the woman or a woman to play the man violates God’s decree ([DDS 8](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-08)); Evangel Presbytery has adopted the following policies relating to sexuality:
+In accordance with the beliefs laid out in the [Declaration of Doctrine on Sexuality (DDS)](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html), namely, that God created each person as either male or female ([DDS 5–6](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-05)); that each person has a subsequent responsibility to live in accordance with the genetic sex given to him by God ([DDS 6–7](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-06)); and that any attempt of a man to play the woman or a woman to play the man violates God’s decree ([DDS 8](https://ddp.evangelpresbytery.com/01-Declaration-of-Doctrine-on-Sexuality.html#dds-08)); Evangel Presbytery has adopted the following policies relating to sexuality:
 
 1. Participation in any program or activity that is limited to men and/or boys (e.g., a men’s Bible study or a men’s retreat) shall be exclusively limited to males.
 
@@ -850,9 +820,9 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 6. In the task of Christian education, parents should cooperate with the Church by setting their children an example in regular and punctual attendance at religious instruction provided by the church and services of worship, by assisting them in the preparation of their lessons, and by leading them in the consistent application of the teachings of the Gospel in their daily activities.
 
 
-## 75. Suggested Form for the Solemnization of Marriage 
+## []{#anchor-75}75. Suggested Form for the Solemnization of Marriage 
 
-[]{#anchor-75}*The requirements of BCO [71](#anchor-71), particularly [section 3](#anchor-71-3), are required regardless of what liturgy is used for the marriage ceremony.*
+*The requirements of BCO [71](#anchor-71), particularly [section 3](#anchor-71-3), are required regardless of what liturgy is used for the marriage ceremony.*
 
 *The form that follows in this section is based upon the marriage solemnization found in the 1549 Book of Common Prayer*
 
@@ -1019,10 +989,9 @@ Presentation of the Couple
 Recessional
 
 
-## 76. Suggested Form for a Funeral 
+## []{#anchor-76}76. Suggested Form for a Funeral 
 
-
-[]{#anchor-76}*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*
+*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*
 
 *The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.*
 
@@ -1083,10 +1052,9 @@ Benediction
 [^directoryForWorship.38]: 2 Corinthians 13:14.
 
 
-## 77. Suggested Form for a Child’s Funeral 
+## []{#anchor-77}77. Suggested Form for a Child’s Funeral 
 
-
-[]{#anchor-77}*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*
+*Because the funeral is a service of worship of the Lord Jesus Christ, eulogy of the deceased shall be given prior to the call to worship at the beginning of worship. Similarly, if the family and friends wish to share remembrances, these shall precede the worship service.*
 
 *The following form is from The Book of Church Order of the Presbyterian Church in the United States (1933), modernized.*
 
@@ -1148,10 +1116,9 @@ Benediction
 [^directoryForWorship.44]: 2 Corinthians 13:14.
 
 
-## 78. Suggested Form for a Graveside Committal Service 
+## []{#anchor-78}78. Suggested Form for a Graveside Committal Service 
 
-
-[]{#anchor-78}*The following form is from the 1549 Book of Common Prayer, modernized.*
+*The following form is from the 1549 Book of Common Prayer, modernized.*
 
 ::: {.center data-latex=""}
 *At the grave, while the corpse is made ready to be laid into the earth, the minister shall say,*
@@ -1222,10 +1189,9 @@ Benediction
 > Amen.
 
 
-## 79. Suggested Form for Infant Dedication 
+## []{#anchor-79}79. Suggested Form for Infant Dedication 
 
-
-[]{#anchor-79}*While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. The following is a sample form which may be used where parents would like to publicly dedicate their children to the Lord.*
+*While infant dedication is not a sacrament, those who hold credo-baptist views may yet wish to present their child before the congregation, thanking God for his safe delivery, asking God’s blessing upon him, and testifying to God’s promises concerning our children. The following is a sample form which may be used where parents would like to publicly dedicate their children to the Lord.*
 
 **Explanation of Infant Dedication**
 
@@ -1285,11 +1251,9 @@ Benediction
 > Father, please guide these parents with your counsel as they train and teach their child; and help them to lead their household into an ever-increasing knowledge of Christ. We commend to Your care the children and families of this congregation. Help us in our homes to honor You, and to lovingly serve one another. To Your name be all blessing and glory through Jesus Christ our Lord. Amen.
 
 
-## 80. The Creeds 
-[]{#anchor-80}
+## []{#anchor-80}80. The Creeds 
 
-### 1. **The Apostles’ Creed** 
-[]{#the-apostles-creed}
+### []{#the-apostles-creed}1. **The Apostles’ Creed** 
 
 > I believe in God, the Father Almighty,  
 > Maker of heaven and earth,  
@@ -1330,8 +1294,7 @@ Benediction
 
 [^directoryForWorship.52]: Or, “universal.”
     
-### 2. **The Nicene Creed** 
-[]{#the-nicene-creed}
+### []{#the-nicene-creed}2. **The Nicene Creed** 
 
 > We believe in one God, the Father Almighty,  
 > Maker of heaven and earth,  
@@ -1372,8 +1335,7 @@ Benediction
 
 [^directoryForWorship.54]: Or, “universal.”
     
-### 3. **The Athanasian Creed** 
-[]{#the-athanasian-creed}
+### []{#the-athanasian-creed}3. **The Athanasian Creed** 
 
 > [1] Whoever desires to be saved should above all hold to the catholic[^directoryForWorship.55] faith. [2] Anyone who does not keep it whole and unbroken will doubtless perish eternally.
 > 
@@ -1385,8 +1347,7 @@ Benediction
     
 [^directoryForWorship.55]: Or, “universal.”
     
-### 4. **The Chalcedonian Creed** 
-[]{#the-chalcedonian-creed}
+### []{#the-chalcedonian-creed}4. **The Chalcedonian Creed** 
 
 > We, then, following the holy Fathers, all with one consent, teach men to confess one and the same Son, our Lord Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable[^directoryForWorship.56] soul and body; consubstantial with the Father according to the Godhead, and consubstantial with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the God-bearer,[^directoryForWorship.57] according to the Manhood; one and the same Christ, Son, Lord, Only-begotten, to be acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably; the distinction of natures being by no means taken away by the union, but rather the property of each nature being preserved, and concurring in one Person and one Subsistence, not parted or divided into two persons, but one and the same Son, and only begotten, God the Word, the Lord Jesus Christ, as the prophets from the beginning have declared concerning Him, and the Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
 

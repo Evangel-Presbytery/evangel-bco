@@ -1,6 +1,4 @@
-# Preface {.unlisted}
-
-[]{#anchor-front-matter-preface}
+# []{#anchor-front-matter-preface}Preface {.unlisted}
 
 ## A. Historical Statement and Declaration of Intent 
 
