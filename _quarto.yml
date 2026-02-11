@@ -43,3 +43,6 @@ format:
   docx:
     toc: true
     number-sections: false
+  pdf:
+    toc: true
+    number-sections: false
