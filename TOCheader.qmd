@@ -1,1 +1,3 @@
 ### [{{< meta book.title >}}](/)
+
+[Download PDF](Evangel-Presbytery-Book-of-Church-Order.pdf)
