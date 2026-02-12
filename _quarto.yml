@@ -8,6 +8,7 @@ date-format: "MMMM D, YYYY"
 
 book:
   title: "Evangel Presbytery Book of Church Order"
+  subtitle: "Amended June 5, 2025"
   repo-url: https://github.com/Evangel-Presbytery/evangel-bco
   chapters:
     - index.qmd
