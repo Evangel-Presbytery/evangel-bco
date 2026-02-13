@@ -38,10 +38,17 @@
 \pagestyle{scrheadings}
 
 % \deffootnote[fn num box width]{1st para indent}{subsequent para w/in fn indent}{footnote number format, and specifying it this way makes it plain text instead of superscript}
-% \deffootnote[1.5em]{-1.5em}{1em}{\thefootnotemark.\ }
-\deffootnote[1.5em]{1.5em}{1em}{%
-  \makebox[1.5em][l]{\thefootnotemark.\ }% 
+% okay hanging option \deffootnote[1.5em]{1.5em}{1em}{%
+%   \makebox[1.5em][l]{\thefootnotemark.\ }% 
+% }
+
+% --- KOMA-Script: Truly Inline, Flush-Left Footnotes ---
+% 1. {0pt}: Sets the hanging indent for wrapped lines (0pt = flush left)
+% 2. {1em}: Sets the indent for the first line of NEW paragraphs inside one footnote
+% 3. Mark: We define it as a left-aligned box of its own natural width
+\deffootnote{0pt}{1em}{%
+  \makebox[\width][l]{\thefootnotemark.\ }%
 }
 
-% Adds half a line of space between footnotes
-% \addtolength{\footnotesep}{0.5\baselineskip}
+% Adds half a line of space between separate footnotes
+\addtolength{\footnotesep}{0.5\baselineskip}
