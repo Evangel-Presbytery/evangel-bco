@@ -38,20 +38,7 @@
 \pagestyle{scrheadings}
 
 % \deffootnote[fn num box width]{1st para indent}{subsequent para w/in fn indent}{footnote number format, and specifying it this way makes it plain text instead of superscript}
-% okay hanging option \deffootnote[1.5em]{1.5em}{1em}{%
-%   \makebox[1.5em][l]{\thefootnotemark.\ }% 
-% }
-
-% Remove the default KOMA label box behavior
-\deffootnote{0em}{0em}{}
-
-% Redefine the layout to treat the whole thing as a standard paragraph
-\renewcommand{\footnotelayout}{%
-  \noindent\thefootnotemark.\ 
-}
-
-% Setting the paragraph indent for internal footnote paragraphs
-\edef\footnoteparskip{\the\parskip}
+\deffootnote[1.5em]{1.5em}{1em}{\thefootnotemark.\ }
 
 % Adds half a line of space between separate footnotes
 \addtolength{\footnotesep}{0.5\baselineskip}
