@@ -17,6 +17,10 @@
     ItalicFont = *-Italic,
 ]
 
+\usepackage{setspace}
+% Set leading to 1.33
+\setstretch{1.33}
+
 \usepackage[automark]{scrlayer-scrpage}
 
 % Remove %s on next two lines to force headers and sans-serif elements to use the main font family
@@ -34,7 +38,7 @@
 \pagestyle{scrheadings}
 
 % \deffootnote[fn num box width]{1st para indent}{subsequent para w/in fn indent}{footnote number format, and specifying it this way makes it plain text instead of superscript}
-\deffootnote[0em]{0em}{1em}{\makebox[0pt][l]{\thefootnotemark.\ }}
+\deffootnote{0em}{1em}{\thefootnotemark.\ }
 
 % Adds half a line of space between footnotes
 \addtolength{\footnotesep}{0.5\baselineskip}
