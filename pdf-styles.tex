@@ -9,10 +9,6 @@
     BoldItalicFont = *-BoldItalic
 ]
 
-\PassOptionsToPackage{tracking=true}{microtype}
-
-\usepackage[T1]{fontenc}
-\usepackage{microtype}
 \usepackage[automark]{scrlayer-scrpage}
 
 % Force headers and sans-serif elements to use the main font family
@@ -24,7 +20,7 @@
 
 % Header: Centered, Tracked (+50), All Caps
 \makeatletter
-\chead{\textls{\MakeUppercase{\@title\ \textendash\ \headmark}}}
+\chead{\textls[50]{\MakeUppercase{\@title\ \textendash\ \headmark}}}
 \makeatother
 
 \pagestyle{scrheadings}
