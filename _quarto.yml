@@ -45,6 +45,15 @@ format:
     toc: true
     number-sections: false
   pdf:
+    pdf-engine: xelatex
+    mainfont: "PTSerif"
+    mainfontoptions:
+      - Path=fonts/
+      - Extension: .ttf
+      - UprightFont=*-Regular
+      - BoldFont=*-Bold
+      - ItalicFont=*-Italic
+      - BoldItalicFont=*-BoldItalic
     documentclass: scrreprt
     toc: true
     toc-title: Table of Contents
