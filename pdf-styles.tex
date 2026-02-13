@@ -17,13 +17,16 @@
     ItalicFont = *-Italic,
 ]
 
-\raggedright
+% Deescape next line if you want ragged right
+% \raggedright
+
+\KOMAoptions{fontsize=12pt, DIV=calc}
 
 \usepackage{setspace}
 % Set leading to 1.2
 \setstretch{1.2}
 
-\recalctypearea
+\KOMAoptions{DIV=last}
 
 \usepackage[automark]{scrlayer-scrpage}
 
