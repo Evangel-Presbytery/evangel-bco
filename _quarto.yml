@@ -59,25 +59,4 @@ format:
     toc-title: Table of Contents
     toc-depth: 2
     number-sections: false
-    include-in-header:
-      text: |
-        % Force headers and sans-serif elements to use the main font family
-        \renewcommand{\familydefault}{\rmdefault}
-        \setkomafont{disposition}{\rmfamily\bfseries}
-        
-        % Keep track of section titles for \headmark
-        \usepackage[automark]{scrlayer-scrpage}
-        
-        % Clears something or other
-        \clearpairofpagestyles
-        
-        % Set font size to 9/12pt for the header and small caps
-        \setkomafont{pagehead}{\fontsize{10}{12}\selectfont}
-        
-        % Centered heading specification
-        % \headmark dynamically pulls the section title
-        \makeatletter
-        \chead{\MakeUppercase{\@title\ \textendash\ \headmark}}
-        \makeatother
-        
-        \pagestyle{scrheadings}
+    include-in-header: pdf-styles.tex
