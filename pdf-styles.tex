@@ -9,11 +9,19 @@
     BoldItalicFont = *-BoldItalic
 ]
 
+\setsansfont{LibertinusSans}[
+    Path = fonts/,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+]
+
 \usepackage[automark]{scrlayer-scrpage}
 
-% Force headers and sans-serif elements to use the main font family
-\renewcommand{\familydefault}{\rmdefault}
-\setkomafont{disposition}{\rmfamily\bfseries}
+% Remove %s on next two lines to force headers and sans-serif elements to use the main font family
+% \renewcommand{\familydefault}{\rmdefault}
+% \setkomafont{disposition}{\rmfamily\bfseries}
 
 % Set font size to 9/12pt and remove default KOMA italics
 \setkomafont{pagehead}{\fontsize{9}{12}\normalfont\selectfont}
