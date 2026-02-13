@@ -49,7 +49,7 @@ format:
     mainfont: "PTSerif"
     mainfontoptions:
       - Path=fonts/
-      - Extension: .ttf
+      - Extension=.ttf
       - UprightFont=*-Regular
       - BoldFont=*-Bold
       - ItalicFont=*-Italic
