@@ -32,3 +32,9 @@
 \makeatother
 
 \pagestyle{scrheadings}
+
+% \deffootnote[fn num box width]{1st para indent}{subsequent para w/in fn indent}{footnote number format, and specifying it this way makes it plain text instead of superscript}
+\deffootnote[0em]{0em}{1em}{\thefootnotemark.\ }
+
+% Adds half a line of space between footnotes
+\addtolength{\footnotesep}{0.5\baselineskip}
