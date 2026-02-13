@@ -42,12 +42,16 @@
 %   \makebox[1.5em][l]{\thefootnotemark.\ }% 
 % }
 
-% --- KOMA-Script: True Flush-Left, Run-in Footnotes ---
-% We set the 'width' and 'indent' to 0pt to keep everything flush.
-% The magic is in the negative \hspace to pull the mark back inside.
-\deffootnote[0pt]{0pt}{1em}{%
-  \hspace{0pt}\thefootnotemark.\ %
+% Remove the default KOMA label box behavior
+\deffootnote{0em}{0em}{}
+
+% Redefine the layout to treat the whole thing as a standard paragraph
+\renewcommand{\footnotelayout}{%
+  \noindent\thefootnotemark.\ 
 }
+
+% Setting the paragraph indent for internal footnote paragraphs
+\edef\footnoteparskip{\the\parskip}
 
 % Adds half a line of space between separate footnotes
 \addtolength{\footnotesep}{0.5\baselineskip}
