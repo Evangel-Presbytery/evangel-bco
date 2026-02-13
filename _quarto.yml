@@ -71,14 +71,13 @@ format:
         % Clears something or other
         \clearpairofpagestyles
         
-        % Set font size to 10/12pt for the header and small caps
-        \setkomafont{pagehead}{\fontsize{10}{12}\scshape\selectfont}
+        % Set font size to 9/12pt for the header and small caps
+        \setkomafont{pagehead}{\fontsize{10}{12}\selectfont}
         
-        % Store the Quarto title in a LaTeX command
-        \newcommand{\mytitle}{{{< meta title >}}}
-        
-        % Set the Center Head with En Dash, and +50 tracking, force lowercase for all small caps
+        % Centered heading specification
         % \headmark dynamically pulls the section title
-        \chead{\textls[50]{\MakeLowercase{\mytitle \textendash \headmark}}}
+        \makeatletter
+        \chead{\MakeUppercase{\@title\ \textendash\ \headmark}}
+        \makeatother
         
         \pagestyle{scrheadings}
