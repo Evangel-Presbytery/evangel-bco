@@ -61,6 +61,24 @@ format:
     number-sections: false
     include-in-header:
       text: |
-        % Forces headers and sans-serif elements to use the main font family
+        % Force headers and sans-serif elements to use the main font family
         \renewcommand{\familydefault}{\rmdefault}
         \setkomafont{disposition}{\rmfamily\bfseries}
+        
+        % Keep track of section titles for \headmark
+        \usepackage[automark]{scrlayer-scrpage}
+        
+        % Clears something or other
+        \clearpairofpagestyles
+        
+        % Set font size to 10/12pt for the header and small caps
+        \setkomafont{pagehead}{\fontsize{10}{12}\scshape\selectfont}
+        
+        % Store the Quarto title in a LaTeX command
+        \newcommand{\mytitle}{{{< meta title >}}}
+        
+        % Set the Center Head with En Dash, and +50 tracking, force lowercase for all small caps
+        % \headmark dynamically pulls the section title
+        \chead{\textls[50]{\MakeLowercase{\mytitle \textendash \headmark}}}
+        
+        \pagestyle{scrheadings}
