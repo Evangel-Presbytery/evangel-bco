@@ -42,12 +42,11 @@
 %   \makebox[1.5em][l]{\thefootnotemark.\ }% 
 % }
 
-% --- KOMA-Script: Truly Inline, Flush-Left Footnotes ---
-% 1. {0pt}: Sets the hanging indent for wrapped lines (0pt = flush left)
-% 2. {1em}: Sets the indent for the first line of NEW paragraphs inside one footnote
-% 3. Mark: We define it as a left-aligned box of its own natural width
-\deffootnote{0pt}{1em}{%
-  \makebox[\width][l]{\thefootnotemark.\ }%
+% --- KOMA-Script: True Flush-Left, Run-in Footnotes ---
+% We set the 'width' and 'indent' to 0pt to keep everything flush.
+% The magic is in the negative \hspace to pull the mark back inside.
+\deffootnote[0pt]{0pt}{1em}{%
+  \hspace{0pt}\thefootnotemark.\ %
 }
 
 % Adds half a line of space between separate footnotes
