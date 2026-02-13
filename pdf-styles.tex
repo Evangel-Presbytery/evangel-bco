@@ -20,7 +20,21 @@
 % Deescape next line if you want ragged right
 % \raggedright
 
-\KOMAoptions{fontsize=12pt, DIV=11}
+% If you want to let LaTeX calculate, DIV=11 is the best w/ 12pt font
+% \KOMAoptions{fontsize=12pt, DIV=11}
+
+% Alex's custom margins
+\usepackage[
+  top=1.25in,       % Top margin
+  bottom=1.5in,     % Bottom margin (includes footer space)
+  left=1.5in,       % Inner/Left margin
+  right=1.5in,      % Outer/Right margin
+  footskip=1.08in,  % Distance from text to page number
+]{geometry}
+
+% Crucial: Tell KOMA-Script to stop trying to calculate margins
+% This prevents "DIV calculation" warnings in your log.
+\KOMAoptions{DIV=last} 
 
 \usepackage{setspace}
 % Set leading to 1.2
@@ -34,12 +48,12 @@
 % \renewcommand{\familydefault}{\rmdefault}
 % \setkomafont{disposition}{\rmfamily\bfseries}
 
-% Set font size to 9/12pt and remove default KOMA italics
-\setkomafont{pagehead}{\fontsize{9}{12}\normalfont\selectfont}
+% Set font size to 10/12pt and remove default KOMA italics
+\setkomafont{pagehead}{\fontsize{10}{12}\normalfont\selectfont}
 
-% Header: Centered, Tracked (+50), All Caps
+% Header: Centered, Tracked (+75), All Caps
 \makeatletter
-\chead{\textls[50]{\MakeUppercase{\@title\ \textendash\ \headmark}}}
+\chead{\textls[75]{\MakeUppercase{\@title\ \textendash\ \headmark}}}
 \makeatother
 
 \pagestyle{scrheadings}
