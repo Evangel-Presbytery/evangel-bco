@@ -38,7 +38,9 @@ book:
 format:
   html:
     number-sections: false
-    css: "style.css"
+    css:
+      - evangel-docs-global.css
+      - bco.css
     toc-location: left
     include-in-header: in_header.html
   pdf:
@@ -48,4 +50,6 @@ format:
     toc-title: Table of Contents
     toc-depth: 2
     number-sections: false
-    include-in-header: pdf-styles.tex
+    include-in-header:
+      - evangel-docs-global.tex
+      - bco.tex
