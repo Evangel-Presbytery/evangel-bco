@@ -1,3 +1,29 @@
+/* Chapter-number prefix on subsections */
+
+main {
+    counter-reset: chapter;
+}
+
+section {
+    counter-increment: chapter;
+    counter-reset: subsection;
+}
+
+section > ol {
+    list-style-type: none;
+    padding-left: 3rem;
+}
+
+section > ol > li::before {
+    counter-increment: subsection;
+    content: counter(chapter) "." counter(subsection) ".\00a0";
+    float: left;
+    text-indent: -3rem;
+    text-align: right;
+}
+
+/*--------------------------------------*/
+
 /* Hide publication meta-data on title page */
 .quarto-title-meta-heading {
   display: none;
