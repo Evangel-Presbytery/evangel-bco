@@ -1,1 +1,30 @@
+/* Chapter-number prefix on subsections in BCO */
 
+main {
+    counter-reset: chapter;
+}
+
+section.level2 {
+    counter-increment: chapter;
+    counter-reset: subsection;
+}
+
+section.level2 > ol {
+    list-style-type: none;
+    padding-left: 3rem;
+}
+
+section.level2 > ol > li::before {
+    counter-increment: subsection;
+    content: counter(chapter) "." counter(subsection) ".\00a0";
+    float: left;
+    text-indent: -3rem;
+    text-align: right;
+}
+
+/* Letter prefix for Preface sections */
+#preface section.level2 > ol > li::before {
+    content: counter(chapter, upper-alpha) "." counter(subsection) ".\00a0";
+}
+
+/*--------------------------------------------*/
