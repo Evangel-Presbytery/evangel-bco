@@ -38,6 +38,7 @@ book:
 format:
   html:
     number-sections: true
+    number-depth: 2
     css:
       - evangel-docs-global.css
       - bco.css
