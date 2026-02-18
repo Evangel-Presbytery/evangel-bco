@@ -37,7 +37,7 @@ book:
 
 format:
   html:
-    number-sections: false
+    number-sections: true
     css:
       - evangel-docs-global.css
       - bco.css
