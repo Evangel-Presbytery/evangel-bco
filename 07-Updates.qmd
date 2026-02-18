@@ -1,4 +1,4 @@
-# Updates 
+# Updates {.unnumbered}
 
 *Significant changes to this Book of Church Order will be listed here, the most recent appearing at the top. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-bco).*
 
