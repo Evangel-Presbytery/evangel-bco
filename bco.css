@@ -1,4 +1,4 @@
-/* Chapter-number prefix on subsections in BCO */
+/* Chapter-number prefix on subsections in BCO. This almost works, but PROBLEM: numbering starts over in subsequent sections. E.g., the first list in the RFD in chapter 29 gets numbered as 1.1, not 29.1 
 
 main {
     counter-reset: chapter;
@@ -22,7 +22,7 @@ section.level2 > ol > li::before {
     text-align: right;
 }
 
-/* Letter prefix for Preface sections */
+/* Letter prefix for Preface sections 
 #preface section.level2 > ol > li::before {
     content: counter(chapter, upper-alpha) "." counter(subsection) ".\00a0";
 }
